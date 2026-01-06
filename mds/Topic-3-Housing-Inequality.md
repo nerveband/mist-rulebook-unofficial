@@ -126,4 +126,3 @@ fundamentally shape the lives of people in nearly every major American city. It 
 everything.
 To hear more about how race shapes American life, visit npr. org/slash/ codeswitch. I'm
 Gene Demby. Be easy.
-

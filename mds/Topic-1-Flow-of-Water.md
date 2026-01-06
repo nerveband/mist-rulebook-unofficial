@@ -135,4 +135,3 @@ Let's remember that that Gen AI capability is still very very young; it's moved 
 fast, but as an industry and as a use, it is still young. Ideally, we can learn together, as a society
 and as a world society, how do we minimize against the use of water and energy? Because this
 is all, you know, a world resource when we talk about water.
-

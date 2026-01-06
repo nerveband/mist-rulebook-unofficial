@@ -250,41 +250,41 @@ zip file can be uploaded into the portal. If you do not know how to upload a zip
 here for a MacOS tutorial.
 
 Two Weeks Prior to Tournament:
-• Prepared Essay
-•       Short Fiction
-•       Poetry
-•       Short Film
-•       Business Venture Proposal
-•       Science Fair Abstract
-•       Social Media
-•       Humanitarian Service
-•       Digital Art
+- Prepared Essay
+- Short Fiction
+- Poetry
+- Short Film
+- Business Venture Proposal
+- Science Fair Abstract
+- Social Media
+- Humanitarian Service
+- Digital Art
 General Guideline for Written Submission Documents:
-•     Typed and double-spaced
-•     Size 12 font, Times New Roman
-•     All submissions must be in PDF format. Failure to do so will risk the submission not being scored. 
-•     A written statement is required for all early submission competitions unless stated otherwise, which should be
+- Typed and double-spaced
+- Size 12 font, Times New Roman
+- All submissions must be in PDF format. Failure to do so will risk the submission not being scored. 
+- A written statement is required for all early submission competitions unless stated otherwise, which should be
 included on a separate page at the end of your document, or submission.
-•     Have a cover page with the title, MIST ID and name of competition.
-•     Competitor name or other identifying markers should not be anywhere on the piece.
-•     Label the document in the following format: “MISTID_COMPETITIONNAME”
+- Have a cover page with the title, MIST ID and name of competition.
+- Competitor name or other identifying markers should not be anywhere on the piece.
+- Label the document in the following format: “MISTID_COMPETITIONNAME”
 - Example “A1B2C-3D4E5_CreativeWriting”
 
 Late Submissions:
-•     Written submissions not submitted on time will be subject to score reduction.
-•     Submissions submitted within 24 hours of the regional deadline will be subject to a 5-point overall deduction
-•     Every incremental day the submission passes the deadline, another 10 points will be deducted.
-•     Submissions beyond three (3) days of the original deadline will not be accepted and will be disqualified.
+- Written submissions not submitted on time will be subject to score reduction.
+- Submissions submitted within 24 hours of the regional deadline will be subject to a 5-point overall deduction
+- Every incremental day the submission passes the deadline, another 10 points will be deducted.
+- Submissions beyond three (3) days of the original deadline will not be accepted and will be disqualified.
 
 Notes:
-•     All competitors must bring 3 hard copies of your early submission competitions, with the exception of Poetry,
+- All competitors must bring 3 hard copies of your early submission competitions, with the exception of Poetry,
 Prepared Essay, and Short Fiction submissions.
-•     Each region has the right to deduct points from the competitor’s score if the above submission format is not
+- Each region has the right to deduct points from the competitor’s score if the above submission format is not
 followed.
-•     Make sure to check the specific rules pertaining to each competition for Written Statement as not all competitions
+- Make sure to check the specific rules pertaining to each competition for Written Statement as not all competitions
 have the same requirements.
 
-CATEGORY I: KNOWLEDGE & QUR'AN
+## CATEGORY I: KNOWLEDGE & QUR'AN
 Knowledge Tests:
 Read one of four books and take a test on it. The test is comprised of a set of multiple choice questions to judge reading
 comprehension and analytical abilities.
@@ -296,7 +296,6 @@ beginners, while Levels 2 and 3 are for more advanced competitors.
 Qur'an Recitation:
 Test your recitation of the Qur'an in Arabic, according to Tajweed (rules of recitation).
 
-11 00
 KNOWLEDGE TESTS
 Format: In Person
 Number of Tests: 4
@@ -371,7 +370,6 @@ student to proceed to the next passage, forfeiting the remaining portion of memo
 mistakes and 2 quick taps for major mistakes) so the mistake is not lost.
 7. If the mistake is corrected by the student immediately (within 5 seconds or before continuing with the next verse)
 
-11 22
 without being prompted in any way by the judge, one point is deducted.
 8. After allowing time for a student to self-correct, a judge should audibly tap the table to indicate a mistake and allow the
 student a chance to recite the verse once more.
@@ -386,22 +384,21 @@ that each type of pronunciation mistake is only penalized once.
 adding points in the tie breaker section to the tiebreaker portion at the bottom of the rubric.
 
 Minor Mistakes
-•   Heavy vs. Light - To overlook the rules of tafkheem and tarqeeq only when reciting the name of Allah and the letter
+- Heavy vs. Light - To overlook the rules of tafkheem and tarqeeq only when reciting the name of Allah and the letter
 Raa.
-•   Ghunnah - Not to adhere to the rules of izhaar, idghaam, iqlaab, ikhfaa, etc. in their respective places.
-•   Incorrect Makhraj or Sifat - Not to pronounce letters from the correct place of articulation and their respective qualities,
+- Ghunnah - Not to adhere to the rules of izhaar, idghaam, iqlaab, ikhfaa, etc. in their respective places.
+- Incorrect Makhraj or Sifat - Not to pronounce letters from the correct place of articulation and their respective qualities,
 including qalqala, etc.
-•   Prolongation - Not to prolong/stretch a letter when madd is present.
+- Prolongation - Not to prolong/stretch a letter when madd is present.
 
 Major Mistakes
-•   Addition - To add on letters to words or add entire words.
-•   Omission - To leave off letters from words or leave out entire words.
-•   Replacement - To replace a letter for another or replace entire words.
-•   Change Harakah - To change the fat’ha, dhamma, or kasra.
-•   To replace Harakah with Sukoon and vice versa.
-•   To replace a fat’ha, dhamma, or kasra with a saakin and vice versa.
+- Addition - To add on letters to words or add entire words.
+- Omission - To leave off letters from words or leave out entire words.
+- Replacement - To replace a letter for another or replace entire words.
+- Change Harakah - To change the fat’ha, dhamma, or kasra.
+- To replace Harakah with Sukoon and vice versa.
+- To replace a fat’ha, dhamma, or kasra with a saakin and vice versa.
 
-11 33
 QUR'AN MEMORIZATION BALLOT
 Unable to Continue                                           Mistakes
 Reminder of beginning of verse from judge    -1 point         Self-correction without being prompted              -1 point
@@ -447,7 +444,6 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________________
 
-11 44
 QUR'AN RECITATION
 Format: In-Person
 
@@ -477,22 +473,21 @@ verse from the Qur'an.
 d. Competitors will not be expected to have extensive knowledge on the laws of Tajweed.
 
 Minor Mistakes
-•     Heavy vs. Light - To overlook the rules of tafkheem and tarqeeq only when reciting the name of Allah and the letter
+- Heavy vs. Light - To overlook the rules of tafkheem and tarqeeq only when reciting the name of Allah and the letter
 Raa.
-•     Ghunnah - Not to adhere to the rules of izhaar, idghaam, iqlaab, ikhfaa, etc. in their respective places.
-•     Incorrect Makhraj or Sifat - Not to pronounce letters from the correct place of articulation and their respective qualities,
+- Ghunnah - Not to adhere to the rules of izhaar, idghaam, iqlaab, ikhfaa, etc. in their respective places.
+- Incorrect Makhraj or Sifat - Not to pronounce letters from the correct place of articulation and their respective qualities,
 including qalqala, etc.
-•     Prolongation - Not to prolong/stretch a letter when madd is present.
+- Prolongation - Not to prolong/stretch a letter when madd is present.
 
 Major Mistakes
-•     Addition - To add on letters to words or add entire words.
-•     Omission - To leave off letters from words or leave out entire words.
-•     Replacement - To replace a letter for another or replace entire words.
-•     Change Harakah - To change the fat’ha, dhamma, or kasra.
-•     To replace Harakah with Sukoon and vice versa.
-•     To replace a fat’ha, dhamma, or kasra with a saakin and vice versa.
+- Addition - To add on letters to words or add entire words.
+- Omission - To leave off letters from words or leave out entire words.
+- Replacement - To replace a letter for another or replace entire words.
+- Change Harakah - To change the fat’ha, dhamma, or kasra.
+- To replace Harakah with Sukoon and vice versa.
+- To replace a fat’ha, dhamma, or kasra with a saakin and vice versa.
 
-11 55
 QUR'AN RECITATION BALLOT
 Mistakes                              Point Loss
 Self-correction                          -1 point
@@ -537,8 +532,7 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________________
 
-11 66
-CATEGORY II: ART
+## CATEGORY II: ART
 2D Art:
 Are you an aspiring painter? Do you doodle more than writing notes in class? Put your inspiration on canvas with the 2D
 art competition!
@@ -570,16 +564,15 @@ submission.
 disqualification.
 7. For scoring, students who do not receive an interview can only receive a maximum of 80 points.
 
-11 77
 2D ART
 Format: In-Person
 Early Submission Requirements: None
 On-Site Submission Requirements:
-• Artwork must be prepared and ready when you arrive at the tournament. Competitors must drop off their completed
+- Artwork must be prepared and ready when you arrive at the tournament. Competitors must drop off their completed
 product to the allocated room upon registration.
-•   Written artist statement (3 hard copies, 500 words maximum).
-•   A minimum of 2 drafts of artwork process.
-•   All papers must be submitted in one folder or stapled together. Loose sheets of paper will not be accepted.
+- Written artist statement (3 hard copies, 500 words maximum).
+- A minimum of 2 drafts of artwork process.
+- All papers must be submitted in one folder or stapled together. Loose sheets of paper will not be accepted.
 
 Registration Guidelines:
 1. No more than four (4) students from each school can register for this competition.
@@ -614,7 +607,6 @@ artwork.
 a. Interview questions can be found in the last section of the 2D Art Ballot.
 9. Please note that if there are more than fifteen (15) entries for this competition, only the top fifteen (15) entries (based
 
-11 88
 on artwork and written statement) will be interviewed.
 a. In this case, an open gallery preliminary judging round will take place, and all entries will be judged according 		
 to the 2D Art Ballot.
@@ -626,17 +618,16 @@ a. Please note that the written statement is an integral component of qualifying
 11. Both the interview and artwork (with written statement) will be judged according to the Arts Competition Ballot.
 
 Checklist:
-•   2D Art submission.
-•   Minimum of 2 drafts of 2D art process.
-•   Written statement based on interview questions. These questions are listed in section D of the Art Ballot.
-•   Both the submission and the written statement should be clearly labeled with:
+- 2D Art submission.
+- Minimum of 2 drafts of 2D art process.
+- Written statement based on interview questions. These questions are listed in section D of the Art Ballot.
+- Both the submission and the written statement should be clearly labeled with:
 - MIST IDs
 - Name of Competition
 
 [Please note: we recommend that all written statements are securely attached to submission. You may choose to use
 paper clips or a large manila envelope for these purposes.]
 
-11 99
 DETAILED BALLOT: 2D ART
 Section A: Technical                                                                                             Points: 5
 1. Presenter is on time for the interview.
@@ -677,7 +668,6 @@ Section D: Application of Theme                                                 
 4. Elements and principles of art are clearly articulated and the student shows evidence of careful selection and
 organization of these elements and principles.
 
-22 00
 Judges will ask the following questions to gauge the competitors' understanding of the theme and how it was expressed in
 their work. Judges will then proceed to scoring.
 1. How did you aim to convey this year’s theme in your work? In what ways does your artwork represent your individual
@@ -718,15 +708,14 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________________
 
-22 11
 3D ART
 Format: In-Person
 Early Submission Requirements: None
 On-Site Submissions Requirements:
-• Artwork must be prepared and ready when you arrive at the tournament. Competitors must drop off their completed
+- Artwork must be prepared and ready when you arrive at the tournament. Competitors must drop off their completed
 product to the allocated room upon registration.
-•   Written artist statement (3 hard copies, 500 words maximum).
-•   Pictures of Artwork (JPG, TIFF, or PNG format) - As many as students deem necessary, from varying angles
+- Written artist statement (3 hard copies, 500 words maximum).
+- Pictures of Artwork (JPG, TIFF, or PNG format) - As many as students deem necessary, from varying angles
 
 Registration Guidelines:
 1. No more than four (4) students from each school can register for this competition.
@@ -748,59 +737,57 @@ piece along with their written component.
 6. There is no limitation to the size of the submission as long as it can be safely carried to the venue.
 
 Checklist:
-• 3D Art submission.
-• Written statement based on interview questions that can be found in Section D of the Art Ballot.
-• Both the submission and the written statement should be clearly labeled with:
+- 3D Art submission.
+- Written statement based on interview questions that can be found in Section D of the Art Ballot.
+- Both the submission and the written statement should be clearly labeled with:
 - MIST IDs
 - Name of Competition
 
 [Please note: we recommend that you make two copies of your written statement; one to attach to your 3D submission, as
 well as the required separate statement that will be collected at on-site registration.]
 
-22 22
 DETAILED BALLOT: 3D ART
 Section A: Technical                                                                                           Points: 5
-• Presenter is on time for the interview.
-• The presenter is dressed for an interview.
-• Length of written statement does not exceed one page (500 words).
-• Submission meets required formatting guidelines (see rules).
+- Presenter is on time for the interview.
+- The presenter is dressed for an interview.
+- Length of written statement does not exceed one page (500 words).
+- Submission meets required formatting guidelines (see rules).
 
 Section B: Production Quality                                                                                  Points: 30
 Purpose
-• Evidence of the student’s effort to achieve the stated purpose. Design meets the stated purpose and fulfills the intent
+- Evidence of the student’s effort to achieve the stated purpose. Design meets the stated purpose and fulfills the intent
 of the artwork.
-• Artwork clearly communicates a story or statement.
-• Work integrates expression, organization, technique, and MIST’s theme through evaluation and revision.
+- Artwork clearly communicates a story or statement.
+- Work integrates expression, organization, technique, and MIST’s theme through evaluation and revision.
 
 Skill and Technique
-• Media selection effectively enhances the design and the student chooses and controls media and tools effectively to
+- Media selection effectively enhances the design and the student chooses and controls media and tools effectively to
 enhance the appearance of the work.
-• Artwork shows superior level of skills in the production of the work and execution of each technique and component is
+- Artwork shows superior level of skills in the production of the work and execution of each technique and component is
 done in the superior manner.
-• Design required time and patience and was difficult to execute.
-• Art process is shown through drafts and changes.
+- Design required time and patience and was difficult to execute.
+- Art process is shown through drafts and changes.
 
 Section C: Presentation Quality                                                                                Points: 40
 Aesthetics and Design
-• Visual balance, composition and layout enhance the overall beauty of the artwork.
-• Work features a recognizable center of interest in relation to the theme.
-• The selected colors enhance or complement the subject matter.
-• The artwork effectively makes use of elements and principles of art (shape, color, texture, flow, composition).
-• Artwork makes a visual impact and stands on its own as a complete work of art.
-• Drafts of artwork submitted reflect process, creativity, and the students distinctive style.
+- Visual balance, composition and layout enhance the overall beauty of the artwork.
+- Work features a recognizable center of interest in relation to the theme.
+- The selected colors enhance or complement the subject matter.
+- The artwork effectively makes use of elements and principles of art (shape, color, texture, flow, composition).
+- Artwork makes a visual impact and stands on its own as a complete work of art.
+- Drafts of artwork submitted reflect process, creativity, and the students distinctive style.
 
 Creativity
-• Expression is unique and fully developed to present fresh concepts in imaginative and inventive ways.
-• Work breaks new ground in communicating the message.
+- Expression is unique and fully developed to present fresh concepts in imaginative and inventive ways.
+- Work breaks new ground in communicating the message.
 
 Section D: Application of Theme                                                                                Points: 25
-• There is a strong, clearly evident relevance to the theme.
-• The theme is expressed in a unique or outstanding way.
-• Purpose of the artwork is clearly articulated and shows evidence of reflection and/or research.
-• Elements and principles of art are clearly articulated and the student shows evidence of careful selection and
+- There is a strong, clearly evident relevance to the theme.
+- The theme is expressed in a unique or outstanding way.
+- Purpose of the artwork is clearly articulated and shows evidence of reflection and/or research.
+- Elements and principles of art are clearly articulated and the student shows evidence of careful selection and
 organization of these elements and principles.
 
-22 33
 Judges will ask the following questions to gauge the competitors' understanding of the theme and how it was expressed in
 their work. Judges will then proceed to scoring.
 1. How did you aim to convey this year’s theme in your work? In what ways does your artwork represent your individual
@@ -841,12 +828,11 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________________
 
-22 44
 FASHION DESIGN
 Format: In-Person
 Early Submission Requirements: None
 On-Site Submission Requirements:
-• Collection Portfolio
+- Collection Portfolio
 
 Registration Guidelines:
 1. No more than four (4) students from each school can register for this competition.
@@ -886,7 +872,6 @@ etc. (outfits can be designed with shoes; however, outfits without shoes will NO
 9. Competitors are encouraged to be original in all their designs.
 10. The sketch must fulfill all the basic requirements below:
 a. The designs are modest in nature while exuding creativity.
-22 55
 b. Those designs inspire comfort, confidence, and dignity.
 11. Each participant will be interviewed for five (5) minutes in order to describe the purpose and inspiration of the
 artwork.
@@ -903,57 +888,54 @@ c.   The top 15 that advance will have a five (5) minute interview with the Judg
 14. Both the interview and the portfolio will be judged according to the Fashion Design Ballot
 
 Checklist:
-•   Fashion Design Portfolio, including philosophy.
-•   The submission must be clearly labeled with:
+- Fashion Design Portfolio, including philosophy.
+- The submission must be clearly labeled with:
 - MIST IDs
 - Name of Competition
 
 [Please note: we recommend that participants use a sturdy portfolio that has all required items securely intact.]
 
-22 66
 Please find a copy of
 this photo linked here
 
-22 77
 DETAILED BALLOT: FASHION DESIGN
 Section A: Technical									                                                                                       Points: 5
-•   Participant is on time for the interview.
-•   The participant looks credible and is dressed for an interview.
-•   Submission meets required formatting guidelines (see rules).
-•   Portfolio includes six (6) full outfits.
-•   Philosophy is 500 words or less.
+- Participant is on time for the interview.
+- The participant looks credible and is dressed for an interview.
+- Submission meets required formatting guidelines (see rules).
+- Portfolio includes six (6) full outfits.
+- Philosophy is 500 words or less.
 
 Section B: Production Quality					                                       				                                     Points: 30
 Overall 							
-•   There is a common theme/feature across the collection.
-•   Portfolio is well organized, neat, and professional.
-• Description and sewing notes are thorough when needed.
+- There is a common theme/feature across the collection.
+- Portfolio is well organized, neat, and professional.
+- Description and sewing notes are thorough when needed.
 Skill and Technique
-•   The student effectively chooses and controls media and tools to enhance the appearance of the design.
-•   Portfolio shows superior level of skills in the production and execution of each design.
-•   Portfolio required time and patience and was difficult to execute.
+- The student effectively chooses and controls media and tools to enhance the appearance of the design.
+- Portfolio shows superior level of skills in the production and execution of each design.
+- Portfolio required time and patience and was difficult to execute.
 
 Section C: Presentation Quality						                                                                             Points: 40
 Aesthetics and Design 					
-•   Interesting seams and shapes in clothing.
-•   The selected fabrication (colors, prints, trims, etc.) enhances or complements the fashion designs while remaining
+- Interesting seams and shapes in clothing.
+- The selected fabrication (colors, prints, trims, etc.) enhances or complements the fashion designs while remaining
 cohesive.
-•   Designs inspire comfort, confidence, and sense of dignity.
-•   Designs appear to be possible to construct/are functional.
-•   All elements work together to create a unified design and the total effect is pleasing to the eye while still enhancing
+- Designs inspire comfort, confidence, and sense of dignity.
+- Designs appear to be possible to construct/are functional.
+- All elements work together to create a unified design and the total effect is pleasing to the eye while still enhancing
 the design.
 Creativity
-•   Expression is unique and fully developed to present fresh concepts in imaginative ways.
-•   Designs are creative while maintaining a modest nature.
+- Expression is unique and fully developed to present fresh concepts in imaginative ways.
+- Designs are creative while maintaining a modest nature.
 
 Section D: Application of Theme							                                                                        Points: 25
-• There is a strong, clearly evident relevance to the theme.
-• The theme is expressed in a unique or outstanding way.
-• Purpose and inspiration of designs are clearly articulated and show evidence of reflection and/or research.
-• Design elements and principles of art are clearly articulated and students show evidence of careful selection and
+- There is a strong, clearly evident relevance to the theme.
+- The theme is expressed in a unique or outstanding way.
+- Purpose and inspiration of designs are clearly articulated and show evidence of reflection and/or research.
+- Design elements and principles of art are clearly articulated and students show evidence of careful selection and
 organization of these elements and principles.
 
-22 88
 Judges will ask the following questions to gauge the competitors' understanding of the theme and how it was expressed in
 their work. Judges will then proceed to scoring.
 1. How did you aim to convey this year’s theme in your work? In what ways does your artwork represent your individual
@@ -995,13 +977,12 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________________
 
-22 99
 DIGITAL ART
 Format: In-Person
 Early Submission Requirements: Two Week Early Submission
-• Artwork (JPG, TIFF, or PNG format).
-•   Written artist statement (500 words maximum).
-•   A minimum of 2 drafts of artwork process.
+- Artwork (JPG, TIFF, or PNG format).
+- Written artist statement (500 words maximum).
+- A minimum of 2 drafts of artwork process.
 On-Site Submission Requirements: None
 
 Registration Guidelines:
@@ -1038,46 +1019,44 @@ Checklist:
 a. MIST IDs
 b. Name of Competition
 
-33 00
 DETAILED BALLOT: DIGITAL ART
 Section A: Technical									                                                                                      Points: 5
-•   Participant is on time for the interview.
-•   The participant looks credible and is dressed for an interview.
-•   Submission meets required formatting guidelines (see rules).
+- Participant is on time for the interview.
+- The participant looks credible and is dressed for an interview.
+- Submission meets required formatting guidelines (see rules).
 
 Section B: Production Quality					                                       				                                     Points: 30
 Purpose							
-•   Evidence of the student’s effort to achieve the stated purpose. Design meets the stated purpose and fulfills the
+- Evidence of the student’s effort to achieve the stated purpose. Design meets the stated purpose and fulfills the
 intent of the artwork.
-•   Artwork clearly communicates a story or statement.
-• Work integrates expression, organization, technique, and MIST’s theme through evaluation and revision.
+- Artwork clearly communicates a story or statement.
+- Work integrates expression, organization, technique, and MIST’s theme through evaluation and revision.
 Skill and Technique
-•   Media selection effectively enhances the design and the student chooses and controls media and tools to enhance
+- Media selection effectively enhances the design and the student chooses and controls media and tools to enhance
 the appearance of the work.
-•   Artwork shows superior level of skills in the production of the work and execution of each technique and
+- Artwork shows superior level of skills in the production of the work and execution of each technique and
 component is done in the superior manner.
-•   Design required time and patience and was difficult to execute.
+- Design required time and patience and was difficult to execute.
 
 Section C: Presentation Quality						                                                                             Points: 40
 Aesthetics and Design 					
-•   Visual balance, composition, and layout enhance the overall beauty of the artwork.
-•   Work features a recognizable center of interest in relation to the theme.
-•   The selected colors enhance or complement the subject matter.
-•   The artwork makes use of elements and principles of art (shape, color, texture, flow, composition) effectively.
-•   Artwork makes a visual impact and stands on its own as a complete work of art.
-• Drafts of artwork submitted reflect process, creativity, and the student's distinctive style.
+- Visual balance, composition, and layout enhance the overall beauty of the artwork.
+- Work features a recognizable center of interest in relation to the theme.
+- The selected colors enhance or complement the subject matter.
+- The artwork makes use of elements and principles of art (shape, color, texture, flow, composition) effectively.
+- Artwork makes a visual impact and stands on its own as a complete work of art.
+- Drafts of artwork submitted reflect process, creativity, and the student's distinctive style.
 Creativity
-•   Expression is unique and fully developed to present fresh concepts in imaginative and inventive ways.
-•   Work breaks new ground in communicating the message.
+- Expression is unique and fully developed to present fresh concepts in imaginative and inventive ways.
+- Work breaks new ground in communicating the message.
 
 Section D: Application of Theme							                                                                            Points: 25
-•   There is a strong, clearly evident relevance to the theme.
-•   The theme is expressed in a unique or outstanding way.
-•   Purpose of the artwork is clearly articulated and shows evidence of reflection and/or research.
-•   Elements and principles of art are clearly articulated and the student shows evidence of careful selection and
+- There is a strong, clearly evident relevance to the theme.
+- The theme is expressed in a unique or outstanding way.
+- Purpose of the artwork is clearly articulated and shows evidence of reflection and/or research.
+- Elements and principles of art are clearly articulated and the student shows evidence of careful selection and
 organization of these elements and principles.
 
-33 11
 Judges will ask the following questions to gauge the competitors' understanding of the theme and how it was expressed in
 their work. Judges will then proceed to scoring.
 1. How did you aim to convey this year’s theme in your work? In what ways does your artwork represent your individual
@@ -1118,13 +1097,12 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________________
 
-33 22
 PHOTOGRAPHY
 Format: In-Person
 Early Submission Requirements: None
 On-Site Submission Requirements:
-• Photography Portfolio.
-•   Written artist statement (500 words maximum).
+- Photography Portfolio.
+- Written artist statement (500 words maximum).
 
 Registration Guidelines:
 1. No more than four (4) students from each school can register for this competition.
@@ -1155,49 +1133,47 @@ specific answers to the interview questions.
 b. Please note that the written statement is an integral component of qualifying for an interview in the top fifteen.
 11. Competitors will be judged according to the Photography Competition Ballot
 
-33 33
 Checklist:
-•   Written statement based on interview questions (Section D of Photography Ballot).
-•   Both the submission and the written statement should be clearly labeled with:
+- Written statement based on interview questions (Section D of Photography Ballot).
+- Both the submission and the written statement should be clearly labeled with:
 - MIST IDs
 - Name of Competition
 
-33 44
 DETAILED BALLOT: PHOTOGRAPHY
 Section A: Technical									                                                                                      Points: 5
-•   Participant is on time for the interview.
-•   The participant looks credible and is dressed for an interview.
-•   Submission meets required formatting guidelines (see rules).
+- Participant is on time for the interview.
+- The participant looks credible and is dressed for an interview.
+- Submission meets required formatting guidelines (see rules).
 
 Section B: Production Quality					                                       				                                     Points: 30
 Purpose							
-•   Evidence of the student’s effort to achieve the stated purpose. Design meets the stated purpose and fulfills the
+- Evidence of the student’s effort to achieve the stated purpose. Design meets the stated purpose and fulfills the
 intent of the artwork.
-•   Artwork clearly communicates a story or statement.
-• Work integrates expression, organization, technique, and MIST’s theme through evaluation and revision.
+- Artwork clearly communicates a story or statement.
+- Work integrates expression, organization, technique, and MIST’s theme through evaluation and revision.
 Skill and Technique
-•   Media selection effectively enhances the design and the student chooses and controls media and tools to enhance
+- Media selection effectively enhances the design and the student chooses and controls media and tools to enhance
 the appearance of the work.
-•   Artwork shows superior level of skills in the production of the work and execution of each technique and
+- Artwork shows superior level of skills in the production of the work and execution of each technique and
 component is done in a superior manner.
-•   Design required time and patience and was difficult to execute.
+- Design required time and patience and was difficult to execute.
 
 Section C: Presentation Quality						                                                                             Points: 40
 Aesthetics and Design 					
-•   Visual balance, composition and layout enhance the overall beauty of the artwork.
-•   Work features a recognizable center of interest in relation to the theme.
-•   The selected colors enhance or complement the subject matter.
-•   The artwork makes use of elements and principles of art (shape, color, texture, flow, composition) effectively.
-• Artwork makes a visual impact and stands on its own as a complete work of art.
+- Visual balance, composition and layout enhance the overall beauty of the artwork.
+- Work features a recognizable center of interest in relation to the theme.
+- The selected colors enhance or complement the subject matter.
+- The artwork makes use of elements and principles of art (shape, color, texture, flow, composition) effectively.
+- Artwork makes a visual impact and stands on its own as a complete work of art.
 Creativity
-•   Expression is unique and fully developed to present fresh concepts in imaginative and inventive ways.
-•   Work breaks new ground in communicating the message.
+- Expression is unique and fully developed to present fresh concepts in imaginative and inventive ways.
+- Work breaks new ground in communicating the message.
 
 Section D: Application of Theme							                                                                            Points: 25
-•   There is a strong, clearly evident relevance to the theme.
-•   The theme is expressed in a unique or outstanding way.
-•   Purpose of the artwork is clearly articulated and shows evidence of reflection and/or research.
-•   Elements and principles of art are clearly articulated and the student shows evidence of careful selection and
+- There is a strong, clearly evident relevance to the theme.
+- The theme is expressed in a unique or outstanding way.
+- Purpose of the artwork is clearly articulated and shows evidence of reflection and/or research.
+- Elements and principles of art are clearly articulated and the student shows evidence of careful selection and
 organization of these elements and principles.
 
 Judges will ask the following questions to gauge the competitors' understanding of the theme and how it was expressed in
@@ -1207,7 +1183,6 @@ point of view, imagination, creativity, and individuality?
 2. Explain your purpose in developing this artwork and describe how you achieved that goal. Describe any influences
 from art history, artists, or art periods or styles that contributed to the development of this artwork.
 
-33 55
 3. What elements or principles of art did you use, and how did you select and organize the visual aspects of this work?
 
 PHOTOGRAPHY BALLOT
@@ -1241,8 +1216,7 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________________
 
-33 66
-CATEGORY III: WRITING AND ORATORY
+## CATEGORY III: WRITING AND ORATORY
 Extemporaneous Essay:
 Competitors are allotted 60 minutes to compose a handwritten essay on a randomly selected topic related to the theme.
 
@@ -1270,7 +1244,6 @@ Spoken Word:
 If you’re more of the performer type of a poet, then spoken word is for you! Here’s your chance to convey your passion
 and originality, all while inspiring those around you.
 
-33 77
 EXTEMPORANEOUS ESSAY
 Format: In-Person
 
@@ -1298,52 +1271,50 @@ b. Annotations within the materials will not be permitted. These include, but ar
 underlining, attaching post-its, and writing in the margins.
 7. Electronic device usage is not permitted during the competition.
 
-33 88
 DETAILED BALLOT: EXTEMPORANEOUS ESSAY
 Section A: Technical									                                                                                        Points: 5
-•   Participant is on time for the competition.
-•   The participant stopped writing when time was called.
-•   There are no identifiers on the submission aside from their MIST ID.
+- Participant is on time for the competition.
+- The participant stopped writing when time was called.
+- There are no identifiers on the submission aside from their MIST ID.
 
 Section B: Content
 Conventions    				                                     				                                                        Points: 10
-•   Is the essay mostly free of spelling mistakes?                                                         - 1 for each error
-•   Is the essay mostly free of punctuation mistakes?                                                      - 1 for each error
-•   Is the essay mostly free of grammatical mistakes?                                                     - 2 for each error
-•   Are (optional) references correctly cited in the paper?                                             +1 for each citation
-• Is there a lack of citations for (optional) references?                                                 - 2 for each error
+- Is the essay mostly free of spelling mistakes?                                                         - 1 for each error
+- Is the essay mostly free of punctuation mistakes?                                                      - 1 for each error
+- Is the essay mostly free of grammatical mistakes?                                                     - 2 for each error
+- Are (optional) references correctly cited in the paper?                                             +1 for each citation
+- Is there a lack of citations for (optional) references?                                                 - 2 for each error
 Ideas and Development			                                				                                                        Points: 20
-•   Did the writer answer one of the topics with sufficient detail?
-•   Did the writer take a unique approach when addressing the topic?
-•   Did the writer stay on topic throughout the entire essay?
-• Was the main idea or message clear to the reader?
+- Did the writer answer one of the topics with sufficient detail?
+- Did the writer take a unique approach when addressing the topic?
+- Did the writer stay on topic throughout the entire essay?
+- Was the main idea or message clear to the reader?
 Organization						                                                                                                  Points: 15
-•   Did the introduction grab the reader’s attention with a unique start, a clear thesis statement, and concise
+- Did the introduction grab the reader’s attention with a unique start, a clear thesis statement, and concise
 supporting points?
-•   Were adequate details, examples, and support provided for each supporting point?
-•   Were the paragraphs well-developed, each with their own main idea?
-• Did the conclusion link back to the introduction?
+- Were adequate details, examples, and support provided for each supporting point?
+- Were the paragraphs well-developed, each with their own main idea?
+- Did the conclusion link back to the introduction?
 Sentence Fluency				                                                                                                Points: 15
-•   Did the writer vary sentence types by using a mixture of simple and complex sentences?
-•   Do most sentences begin with different words?
-•   When read aloud, do the sentences flow well together?
-•   Was there a logical progression of ideas?
+- Did the writer vary sentence types by using a mixture of simple and complex sentences?
+- Do most sentences begin with different words?
+- When read aloud, do the sentences flow well together?
+- Was there a logical progression of ideas?
 
 Section C: Style
 Word Choice							                                                                                                  Points: 20
-•   Did the writer use thoughtful adjectives to create more vivid imagery?
-•   Did the writer use strong action verbs to support the essay’s message
+- Did the writer use thoughtful adjectives to create more vivid imagery?
+- Did the writer use strong action verbs to support the essay’s message
 i. I.e. “cruise” instead of “drive,” or “stroll” instead of “walk”
-•   Did the writer use precise nouns to help present a clear and distinct message
+- Did the writer use precise nouns to help present a clear and distinct message
 i. I.e. “7th Grade students” instead of just “students,” or “Science project” instead of “project”
-•   Did the overall usage of words create color and texture in the writing? Was it clear that this writer took risks with
+- Did the overall usage of words create color and texture in the writing? Was it clear that this writer took risks with
 their word choice?
 
-33 99
 Voice				                                                                                                Points: 15
-•   Does the writer show passion about his/her topic?
-•   Is the tone natural and consistent, reflecting original thinking and expression?
-•   Does the writer capture a tone or mood with his/her words?
+- Does the writer show passion about his/her topic?
+- Is the tone natural and consistent, reflecting original thinking and expression?
+- Does the writer capture a tone or mood with his/her words?
 
 EXTEMPORANEOUS ESSAY BALLOT
 
@@ -1379,7 +1350,6 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________________
 
-44 00
 EXTEMPORANEOUS SPEAKING
 Format: In-Person
 Registration Guidelines:
@@ -1424,52 +1394,50 @@ been given by the judge or by the authorized timekeeper.
 b. Judges (or moderators) are required to give time signals per competitior's request.
 12. Electronic device usage is not permitted during the competition.
 
-44 11
 DETAILED BALLOT: EXTEMPORANEOUS SPEAKING
 NOTE: Students do NOT have to use references. If they do use references, they may be awarded 2 points.
 However, if a student uses references and does NOT reference their source in speech, 3 points will be deducted.
 Section A: Technical									                                                                                   Points: 10
-•   Participant is on time for the competition.
-•   Did the speech finish within the seven minutes allotted? If not, did it end before the 30 second grace period
+- Participant is on time for the competition.
+- Did the speech finish within the seven minutes allotted? If not, did it end before the 30 second grace period
 finished?
-•   The participant gives no identifiers aside from their MIST ID.
-•   Participant looks credible and dressed for an interview.
+- The participant gives no identifiers aside from their MIST ID.
+- Participant looks credible and dressed for an interview.
 
 Section B: Content
 Introduction   				                                    				                                                     Points: 10
-•   Did the speaker get the audience’s attention?
-•   Was the topic clearly stated/addressed?
-• Did the speaker preview and give focus to the key ideas?
+- Did the speaker get the audience’s attention?
+- Was the topic clearly stated/addressed?
+- Did the speaker preview and give focus to the key ideas?
 Body		           				                                                                                           Points: 15
-•   Was adequate time devoted to each division within the seven minute time limit?
-• Was there a logical progression of ideas?
+- Was adequate time devoted to each division within the seven minute time limit?
+- Was there a logical progression of ideas?
 Conclusion						                                                                                                Points: 10
-•   Did the speaker tie the speech together?
-•   Was the answer to the question clear?
-•   Was there a note of finality?
+- Did the speaker tie the speech together?
+- Was the answer to the question clear?
+- Was there a note of finality?
 
 Section C: Presentation
 Analysis and Content						                                                                                      Points: 15
-•   Did the speaker answer the question?
-•   Was the content informative?
-•   Was there sufficient use of logic, facts, examples, and/or expert opinion?
-• Was the information pertinent to the selected topic?
+- Did the speaker answer the question?
+- Was the content informative?
+- Was there sufficient use of logic, facts, examples, and/or expert opinion?
+- Was the information pertinent to the selected topic?
 Delivery					                                                                                                    Points: 15
-•   Was the delivery natural, lively, and spontaneous?
-•   Was enunciation clear? Was volume appropriate?
-•   Was there sufficient variety in rate, pause, and pitch?
-•   Did the speaker exhibit poise and confidence?
-• Were gestures varied, movement motivated, and eye contact direct?
+- Was the delivery natural, lively, and spontaneous?
+- Was enunciation clear? Was volume appropriate?
+- Was there sufficient variety in rate, pause, and pitch?
+- Did the speaker exhibit poise and confidence?
+- Were gestures varied, movement motivated, and eye contact direct?
 Language					                                                                                                    Points: 15
-•   Did the speaker exhibit command of conversational style?
-•   Was the language precise, grammatically correct, and vivid?
+- Did the speaker exhibit command of conversational style?
+- Was the language precise, grammatically correct, and vivid?
 
-44 22
 Section D:Overall Experience						                                                                         Points: 1-10
 After review of extemporaneous speaking content, performance, and interview, rate the entire experience from 1 to 10:
-•   1 being very poor (no organization, intonation, or relation to the theme).
-•   4 to 6 being average.
-•   10 being exceptional (memorable performance, sound understanding of the theme, exceptional extemporaneous
+- 1 being very poor (no organization, intonation, or relation to the theme).
+- 4 to 6 being average.
+- 10 being exceptional (memorable performance, sound understanding of the theme, exceptional extemporaneous
 speech content).
 
 EXTEMPORANEOUS SPEAKING BALLOT
@@ -1509,12 +1477,11 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________________
 
-44 33
 ORIGINAL ORATORY
 Format: In-Person
 Early Submission Requirements: None
 On-Site Submission Requirements:
-• Three (3) copies of the oratory piece must be submitted to judges on-site at the time of the competition.
+- Three (3) copies of the oratory piece must be submitted to judges on-site at the time of the competition.
 
 Registration Guidelines:
 1. A limit of two (2) students from each team may register for this competition.
@@ -1545,53 +1512,51 @@ authorized timekeeper.
 a. Judges (or moderators) are required to give time signals per competitior's request.
 12. Electronic device usage is not permitted during the competition.
 
-44 44
 DETAILED BALLOT: ORIGINAL ORATORY
 Section A: Technical									                                                                                   Points: 10
-•   Participant is on time for the competition.
-•   Did the speech finish within the seven minutes allotted? If not, did it end before the 30 second grace period
+- Participant is on time for the competition.
+- Did the speech finish within the seven minutes allotted? If not, did it end before the 30 second grace period
 finished?
-•   The participant gives no identifiers aside from their MIST ID.
-•   Participant looks credible and dressed for an interview.
+- The participant gives no identifiers aside from their MIST ID.
+- Participant looks credible and dressed for an interview.
 
 Section B: Content
 Introduction   				                                    				                                                     Points: 10
-•   Did the speaker get the audience’s attention?
-•   Was the topic clearly stated/addressed?
-• Did the speaker preview and give focus to the key ideas?
+- Did the speaker get the audience’s attention?
+- Was the topic clearly stated/addressed?
+- Did the speaker preview and give focus to the key ideas?
 Body		           				                                                                                           Points: 15
-•   Was adequate time devoted to each division within the seven minute time limit?
-• Was there a logical progression of ideas?
+- Was adequate time devoted to each division within the seven minute time limit?
+- Was there a logical progression of ideas?
 Conclusion						                                                                                                Points: 10
-•   Did the speaker tie the speech together?
-•   Was the answer to the question clear?
-•   Was there a note of finality?
+- Did the speaker tie the speech together?
+- Was the answer to the question clear?
+- Was there a note of finality?
 
 Section C: Presentation
 Analysis and Content						                                                                                      Points: 15
-•   Did the speakers oration revolve around the theme?
-•   Was the content informative?
-•   Was there sufficient use of logic, facts, examples, and/or expert opinion?
-• Was the information pertinent to the selected topic?
+- Did the speakers oration revolve around the theme?
+- Was the content informative?
+- Was there sufficient use of logic, facts, examples, and/or expert opinion?
+- Was the information pertinent to the selected topic?
 Delivery					                                                                                                    Points: 15
-•   Was the delivery natural, lively, and spontaneous?
-•   Was enunciation clear? Was volume appropriate?
-•   Was there sufficient variety in rate, pause, and pitch?
-• Did the speaker exhibit poise and confidence?
-• Were gestures varied, movement motivated, and eye contact direct?
-• Was the speech memorized?
+- Was the delivery natural, lively, and spontaneous?
+- Was enunciation clear? Was volume appropriate?
+- Was there sufficient variety in rate, pause, and pitch?
+- Did the speaker exhibit poise and confidence?
+- Were gestures varied, movement motivated, and eye contact direct?
+- Was the speech memorized?
 Language					                                                                                                    Points: 15
-•   Did the speaker exhibit command of conversational style?
-•   Was the language precise, grammatically correct, and vivid?
+- Did the speaker exhibit command of conversational style?
+- Was the language precise, grammatically correct, and vivid?
 
 Section D: Overall Experience						                                                                             Points: 1-10
 After review of the original oratory content, performance, and interview, rate the entire experience from 1 to 10:
-•   1 being very poor (no organization, intonation, or relation to the theme)
-•   4 to 6 being average
-•   10 being exceptional (memorable performance, sound understanding of the theme, exceptional extemporaneous
+- 1 being very poor (no organization, intonation, or relation to the theme)
+- 4 to 6 being average
+- 10 being exceptional (memorable performance, sound understanding of the theme, exceptional extemporaneous
 speech content)
 
-44 55
 ORIGINAL ORATORY BALLOT
 Oration Duration: ____ : ____
 
@@ -1629,11 +1594,10 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________________
 
-44 66
 POETRY
 Format: Online
 Early Submission Requirements:
-• Competitors must submit their Poetry piece weeks before the Regional Tournament.
+- Competitors must submit their Poetry piece weeks before the Regional Tournament.
 Registration Guidelines:
 1. A limit of two (2) students from each team may register for this competition. Each student competes individually, so
 collaboration is not permitted.
@@ -1656,13 +1620,12 @@ tournament.
 11. Poetry submissions must include a filled-out “Poetry Analyzing Written Statement.”
 
 Checklist:
-•   PDF copy of Poetry Piece and Written Poetry Analyzing Statement submitted on MyMIST 2 weeks prior to the
+- PDF copy of Poetry Piece and Written Poetry Analyzing Statement submitted on MyMIST 2 weeks prior to the
 tournament.
-•   Both the submission and the written statement should be clearly labeled with:
+- Both the submission and the written statement should be clearly labeled with:
 - MIST IDs
 - Name of Competition
 
-44 77
 POETRY ANALYZING WRITTEN STATEMENT
 The following worksheet should be included with your poetry submission. The responses to each section must be typed,
 not handwritten.
@@ -1689,47 +1652,45 @@ Section 5: Mechanics, Grammar, Spelling
 explained?
 3. Do you feel you conveyed the theme well in your piece? How did you do so?
 
-44 88
 DETAILED BALLOT: POETRY
 Section A: Technical									                                                                                     Points: 10
-•   The poem does not exceed 40 lines.
-•   The “Poetry Worksheet” is completed.
-•   The poem is typed in black ink only.
-•   The participant gives no identifiers aside from their MIST ID.
+- The poem does not exceed 40 lines.
+- The “Poetry Worksheet” is completed.
+- The poem is typed in black ink only.
+- The participant gives no identifiers aside from their MIST ID.
 
 Section B: Poem Elements                                                                                          Points: 30
-•   Is the poetry piece free from any inappropriate content? If not, do not score the rest of the section; competitor
+- Is the poetry piece free from any inappropriate content? If not, do not score the rest of the section; competitor
 receives 0/25. If so, continue scoring.
-•   Is the structure of the piece easy to follow?
-•   Is the form of the poem appropriate to the subject? Does the poem enable the reader to see, hear, feel, or think
+- Is the structure of the piece easy to follow?
+- Is the form of the poem appropriate to the subject? Does the poem enable the reader to see, hear, feel, or think
 about the subject in a new way or in a more potent way than ever before?
-•   Does the poem use sensory details and figurative language to create vivid images that contribute significantly to
+- Does the poem use sensory details and figurative language to create vivid images that contribute significantly to
 the meaning of the poem?
-•   Are sound devices, such as rhyme, alliteration, or onomatopoeia, used effectively and contribute to the meaning of
+- Are sound devices, such as rhyme, alliteration, or onomatopoeia, used effectively and contribute to the meaning of
 the poem?
-•   Is word choice vivid and exact throughout?
+- Is word choice vivid and exact throughout?
 
 Section C: Overall Impression of Written Piece                                                                    Points: 25
-•   Is the title clearly stated?
-•   Does the piece create an appropriate mood?
-•   Does the competitor’s writing convey creativity and originality?
-•   Does the competitor’s writing grab your attention and convey sincerity?
+- Is the title clearly stated?
+- Does the piece create an appropriate mood?
+- Does the competitor’s writing convey creativity and originality?
+- Does the competitor’s writing grab your attention and convey sincerity?
 
 Section D: Written Statement Criteria                                                                             Points: 25
-•   Section 1 Poem Identity
-•   Section 2 Coherent Explanation
-•   Section 3 Elements of Poetry
-•   Section 4 Example of Inference
-•   Section 5 Mechanics, Grammar, Spelling
-•   Interview Questions
+- Section 1 Poem Identity
+- Section 2 Coherent Explanation
+- Section 3 Elements of Poetry
+- Section 4 Example of Inference
+- Section 5 Mechanics, Grammar, Spelling
+- Interview Questions
 
 Section E: Overall Experience                                                                                     Points: 10
 After review of the poem, rate the entire experience from 1 to 10:
-•   1 being very poor (no organization, intonation, or relation to the theme)
-•   4 to 6 being average
-•   10 being exceptional (memorable performance, sound understanding of the theme, exceptional poetic content)
+- 1 being very poor (no organization, intonation, or relation to the theme)
+- 4 to 6 being average
+- 10 being exceptional (memorable performance, sound understanding of the theme, exceptional poetic content)
 
-44 99
 POETRY BALLOT
 
 Subtotal
@@ -1760,11 +1721,10 @@ ________________________________________________________________________________
 
 ________________________________________________________________________________________________
 
-55 00
 PREPARED ESSAY
 Format: Online
 Early Submission Requirements:
-• Competitors must submit their Prepared Essay 2 weeks before the Regional Tournament.
+- Competitors must submit their Prepared Essay 2 weeks before the Regional Tournament.
 
 Registration Guidelines:
 1. A limit of two (2) students from each team may register for this competition. Each student competes individually, so
@@ -1795,70 +1755,67 @@ b. Only the first 2,000 countable words will be read.
 9. Competitors will be judged according to the Prepared Essay Ballot.
 
 Checklist:
-•   PDF copy of written essay and written statement submitted on MyMIST 2 weeks prior to the tournament.
-•   Written statement based on interview questions (Section D of Prepared Essay Ballot).
-•   Both the submission and the written statement should be clearly labeled with:
+- PDF copy of written essay and written statement submitted on MyMIST 2 weeks prior to the tournament.
+- Written statement based on interview questions (Section D of Prepared Essay Ballot).
+- Both the submission and the written statement should be clearly labeled with:
 - MIST IDs
 - Name of Competition
 
-55 11
 DETAILED BALLOT: PREPARED ESSAY
 Section A: Technical
 Conventions 				                                				                                           		                 Points: 5
-•   Is the essay mostly free of spelling mistakes?
-•   Is the essay mostly free of grammatical mistakes?
-• Is the essay mostly free of punctuation mistakes?
+- Is the essay mostly free of spelling mistakes?
+- Is the essay mostly free of grammatical mistakes?
+- Is the essay mostly free of punctuation mistakes?
 Presentation 				                                                                                                 Points: 5
-•   Is the essay typed?
-•   Is the essay double spaced with type 12 font?
-•   Does the essay have a cover page with the title and the MIST ID only?
-•   Is the essay between 1,500 - 2,000 words?
-•   Are the quotes that have been used given due credit?
+- Is the essay typed?
+- Is the essay double spaced with type 12 font?
+- Does the essay have a cover page with the title and the MIST ID only?
+- Is the essay between 1,500 - 2,000 words?
+- Are the quotes that have been used given due credit?
 
 Section B: Content
 Ideas and Development					                                                                                       Points: 25
-•   Did the writer address their topic with sufficient detail?
-•   Did the writer take a unique approach in addressing the topic?
-•   Did the writer stay on topic throughout the essay?
-•   Did the writer use a balance of showing and telling to paint a picture in the reader’s mind?
-•   Was the theme or message clear to the reader?
-• Was there outside information used and cited within the essay?
+- Did the writer address their topic with sufficient detail?
+- Did the writer take a unique approach in addressing the topic?
+- Did the writer stay on topic throughout the essay?
+- Did the writer use a balance of showing and telling to paint a picture in the reader’s mind?
+- Was the theme or message clear to the reader?
+- Was there outside information used and cited within the essay?
 Organization					                                                                                                Points: 25
-•   Did the introduction include a unique start, a clear thesis statement, and concise controls that grabbed the
+- Did the introduction include a unique start, a clear thesis statement, and concise controls that grabbed the
 attention of the reader?
-•   Was there an adequate amount of details, examples, and support for each control? Did the supporting details
+- Was there an adequate amount of details, examples, and support for each control? Did the supporting details
 reflect the controls?
-•   Does the title stand for the entire essay and not just a part of it?
-• Did the conclusion link back to the introduction and leave a lasting impression on the reader?
+- Does the title stand for the entire essay and not just a part of it?
+- Did the conclusion link back to the introduction and leave a lasting impression on the reader?
 Sentence Fluency				                                                                                             Points: 10
-•   Did the writer vary sentence types by using a mixture of simple and complex sentences?
-•   Do most sentences begin with different words?
-•   When read aloud, does the reader hear a rhythm behind the sentence?
-•   Was there a logical progression of ideas?
+- Did the writer vary sentence types by using a mixture of simple and complex sentences?
+- Do most sentences begin with different words?
+- When read aloud, does the reader hear a rhythm behind the sentence?
+- Was there a logical progression of ideas?
 
 Section C: Style
 Word Choice					                                                                              		                 Points: 10
-•   Did the writer use thoughtful adjectives that helped create an image in the reader’s mind?
-•   Did the writer use strong action verbs that help support the essay’s message? (ex: “cruise” instead of “drive,”
+- Did the writer use thoughtful adjectives that helped create an image in the reader’s mind?
+- Did the writer use strong action verbs that help support the essay’s message? (ex: “cruise” instead of “drive,”
 “stroll” instead of “walk”)
-•   Did the writer use precise nouns that helped present a clear and distinct message? (ex: “7th grade students”
+- Did the writer use precise nouns that helped present a clear and distinct message? (ex: “7th grade students”
 instead of “students,” or “science project” instead of “project”)
-•   Did the overall usage of words create color and texture in the description? Was it clear that the writer took risks
+- Did the overall usage of words create color and texture in the description? Was it clear that the writer took risks
 
-55 22
 Voice                                                                                                       Points: 5
-•    Does the reader show passion about his/her topic?
-•    Is the tone natural and consistent, reflecting original thinking and expression?
-•    Does the writer capture a tone or mood with his/her words?
+- Does the reader show passion about his/her topic?
+- Is the tone natural and consistent, reflecting original thinking and expression?
+- Does the writer capture a tone or mood with his/her words?
 
 Section D: Application of Theme
 Written Statement					                                                                                      Points: 15
-• There is a strong, clearly evident relevance to the theme.
-• The theme is expressed in a unique or outstanding way.
-• Purpose and inspiration of writings are clearly articulated and show evidence of reflection and/or research.
-•    Essay is easily understandable for Muslim and non-Muslim alike.
+- There is a strong, clearly evident relevance to the theme.
+- The theme is expressed in a unique or outstanding way.
+- Purpose and inspiration of writings are clearly articulated and show evidence of reflection and/or research.
+- Essay is easily understandable for Muslim and non-Muslim alike.
 
-55 33
 PREPARED ESSAY BALLOT
 
 Subtotal
@@ -1895,11 +1852,10 @@ ________________________________________________________________________________
 
 ___________________________________________________________________________________________
 
-55 44
 SHORT FICTION
 Format: Online
 Early Submission Requirements:
-• Competitors must submit their Short Fiction piece and written statement 2 weeks before the Regional Tournament.
+- Competitors must submit their Short Fiction piece and written statement 2 weeks before the Regional Tournament.
 
 Registration Guidelines:
 1. A limit of two (2) students from each team may register for this competition.
@@ -1924,66 +1880,63 @@ e. Include a written statement based on the interview questions
 7. Competitors will be judged according to the Short Fiction Ballot.
 
 Checklist:
-•   PDF copy of written Short Fiction piece and written statement submitted on MyMIST 2 weeks prior to the
+- PDF copy of written Short Fiction piece and written statement submitted on MyMIST 2 weeks prior to the
 tournament.
-•   Written statement based on interview questions (Section D of Short Fiction Ballot).
-•   Both the submission and the written statement should be clearly labeled with:
+- Written statement based on interview questions (Section D of Short Fiction Ballot).
+- Both the submission and the written statement should be clearly labeled with:
 - MIST IDs
 - Name of Competition
 
-55 55
 DETAILED BALLOT: SHORT FICTION
 Section A: Technical				                                    				                                                    Points: 5
-•   Short Fiction piece does not exceed 10 (ten) pages.
-•   There are no identifiers on the submission aside from their MIST ID.
+- Short Fiction piece does not exceed 10 (ten) pages.
+- There are no identifiers on the submission aside from their MIST ID.
 
 Section B: Content
 Conventions 				                                				                                            		                  Points: 5
-•   Is the piece mostly free of spelling mistakes?
-•   Is the piece mostly free of punctuation mistakes?
-• Is the piece mostly free of grammatical mistakes?
+- Is the piece mostly free of spelling mistakes?
+- Is the piece mostly free of punctuation mistakes?
+- Is the piece mostly free of grammatical mistakes?
 Ideas and Development           				                                                      		                      Points: 15
-•   Did the writer address the theme in a clear manner?
-•   Did the writer take a unique approach when addressing the theme?
-•   Did the writer stay on topic throughout the entire submission?
-• Was the main idea or message clear to the reader?
+- Did the writer address the theme in a clear manner?
+- Did the writer take a unique approach when addressing the theme?
+- Did the writer stay on topic throughout the entire submission?
+- Was the main idea or message clear to the reader?
 Organization 				                       				                                                    		                Points: 10
-•   Is the title relevant and applicable to the story?
-•   Does the story have a logical series of events?
-•   Were there adequate details that led to a natural flow between introduction, plot, climax, and resolution?
-•   Were the paragraphs well-developed with natural transitions?
-• Was the story original, not falling into cliché story lines?
+- Is the title relevant and applicable to the story?
+- Does the story have a logical series of events?
+- Were there adequate details that led to a natural flow between introduction, plot, climax, and resolution?
+- Were the paragraphs well-developed with natural transitions?
+- Was the story original, not falling into cliché story lines?
 Sentence Fluency			                           				                                              		                Points: 15
-•   Did the writer vary sentence types by using a mixture of simple and complex sentences?
-•   Do most sentences begin with different words?
-•   When read aloud, do the sentences flow well together?
-•   Was dialogue used where appropriate?
+- Did the writer vary sentence types by using a mixture of simple and complex sentences?
+- Do most sentences begin with different words?
+- When read aloud, do the sentences flow well together?
+- Was dialogue used where appropriate?
 
 Section C: Style
 Word Choice 				                                				                                            		                Points: 20
-•   Did the writer use thoughtful adjectives to create more vivid imagery?
-•   Did the writer use strong action verbs to support the essay’s message (i.e. “cruise” instead of “drive,” or “stroll”
+- Did the writer use thoughtful adjectives to create more vivid imagery?
+- Did the writer use strong action verbs to support the essay’s message (i.e. “cruise” instead of “drive,” or “stroll”
 instead of “walk”)?
-•   Did the writer use precise nouns to help present a clear and distinct message (i.e. “7th Grade students” instead of
+- Did the writer use precise nouns to help present a clear and distinct message (i.e. “7th Grade students” instead of
 just “students,” or “Science project” instead of “project”)?
-•   Was the dialogue formatted in an appropriate way?
-•   Did the overall usage of words create color and texture in the writing? Was it clear that this writer took risks with
+- Was the dialogue formatted in an appropriate way?
+- Did the overall usage of words create color and texture in the writing? Was it clear that this writer took risks with
 their word choice?
 Voice 		            		               				                                             		                           Points: 15
-•   Was the writer able to distinguish a clear voice in the story?
-•   Is the tone natural and consistent, reflecting original thinking and expression?
-•   Does the writer capture a tone or mood with his/her words?
-•   Does the writer appropriately reach the target audience?
+- Was the writer able to distinguish a clear voice in the story?
+- Is the tone natural and consistent, reflecting original thinking and expression?
+- Does the writer capture a tone or mood with his/her words?
+- Does the writer appropriately reach the target audience?
 
-55 66
 Section D: Application of Theme
 Written Statement					                                                                                        Points: 15
-•   There is a strong, clearly evident relevance to the theme.
-•   The theme is expressed in a unique or outstanding way.
-•   Purpose and inspiration of writings are clearly articulated and show evidence of reflection and/or research.
-•   Short Fiction piece is easily understandable for Muslim and non-Muslim alike.
+- There is a strong, clearly evident relevance to the theme.
+- The theme is expressed in a unique or outstanding way.
+- Purpose and inspiration of writings are clearly articulated and show evidence of reflection and/or research.
+- Short Fiction piece is easily understandable for Muslim and non-Muslim alike.
 
-55 77
 SHORT FICTION BALLOT
 
 Subtotal
@@ -2020,11 +1973,10 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________________
 
-55 88
 SPOKEN WORD
 Format: In-Person
 On-Site Submission Requirements:
-• Three (3) copies of the Spoken Word piece must be submitted to judges on-site, at the time of the competition.
+- Three (3) copies of the Spoken Word piece must be submitted to judges on-site, at the time of the competition.
 
 Registration Guidelines:
 1. A limit of two (2) students from each team may register for this competition.
@@ -2048,44 +2000,42 @@ been given by the judge or by the authorized timekeeper.
 b. Judges (or moderators) are required to give time signals per competitior's request.
 8. No instruments can be used for the performance.
 
-55 99
 DETAILED BALLOT: SPOKEN WORD
 Section A: Technical				                               				                                                    Points: 10
-•   Did the piece last less than six minutes?
-•   The participant gives no identifiers aside from their MIST ID.
-•   Participant looks credible and dressed for an interview.
-•   There are three (3) copies of the spoken word piece.
+- Did the piece last less than six minutes?
+- The participant gives no identifiers aside from their MIST ID.
+- Participant looks credible and dressed for an interview.
+- There are three (3) copies of the spoken word piece.
 
 Section B: Written		                  				                                                                     Points: 35
-•   Is the Spoken Word piece free from any inappropriate content? If it contains profanity, sexual innuendo, etc., do
+- Is the Spoken Word piece free from any inappropriate content? If it contains profanity, sexual innuendo, etc., do
 not score the rest of the section; the competitor receives 0/35. If not, continue scoring.
 
 Content		                     				
-•   Is the structure of the piece easy to follow?
-•   Is the Spoken Word well written (i.e. Are rhyme, metaphors, and figurative language present in the piece)?
-•   Does the Spoken Word show originality and creativity?
+- Is the structure of the piece easy to follow?
+- Is the Spoken Word well written (i.e. Are rhyme, metaphors, and figurative language present in the piece)?
+- Does the Spoken Word show originality and creativity?
 
 Section C: Perfomence		                       				
 Stage Presence                                                                                                 Points: 25
-•   Is there a connection with the audience, energy, and excitement?
-•   Do the competitors make use of the stage space? (i.e. Movement, body language.) Are bodily movements used in
+- Is there a connection with the audience, energy, and excitement?
+- Do the competitors make use of the stage space? (i.e. Movement, body language.) Are bodily movements used in
 an effective manner.
-• Does the competitor’s performance grab your attention and convey sincerity and inspiration?
+- Does the competitor’s performance grab your attention and convey sincerity and inspiration?
 Familiarity                                                                                                    Points: 20
-•   Are the words clear and easy to understand? Is pronunciation acceptable?
-•   Are rate, pitch, and volume appropriate? Is vocal variety adequate?
-•   Does the competitor set an adequate mood relating to their spoken word piece?
-•   Was the poem memorized?
+- Are the words clear and easy to understand? Is pronunciation acceptable?
+- Are rate, pitch, and volume appropriate? Is vocal variety adequate?
+- Does the competitor set an adequate mood relating to their spoken word piece?
+- Was the poem memorized?
 
 Section D: Overall Experience                                                                               Points: 1-10
 After the perusing of the extemporaneous speaking content, performance, and interview, rate the entire experience from 1
 to 10:
-•   1 being very poor (no organization, intonation, or relation to the theme)
-•   4 to 6 being average
-•   10 being exceptional (memorable performance, sound understanding of the theme, exceptional spoken word
+- 1 being very poor (no organization, intonation, or relation to the theme)
+- 4 to 6 being average
+- 10 being exceptional (memorable performance, sound understanding of the theme, exceptional spoken word
 performence).
 
-66 00
 SPOKEN WORD BALLOT
 
 Subtotal
@@ -2116,8 +2066,7 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________________
 
-66 11
-CATEGORY IV: BRACKETS
+## CATEGORY IV: BRACKETS
 Debate:
 Are you great at winning arguments? Do you have the poise of a public speaker and the convincing tone of a scholar?
 Join debate to compete with others who are just like you.
@@ -2134,8 +2083,7 @@ This competition is a fun way to display your creativity under spontaneous and t
 impress the judges in various hypothetical scenarios while under pressure to think on their feet and make the audience
 laugh!
 
-66 22
-DEBATE
+## DEBATE
 Format: In-Person
 
 Registration Guidelines:
@@ -2147,9 +2095,9 @@ format that teaches principles of reasoning, argument, and quick wit. In additio
 Parliamentary Debates must be a question of policy (ex. Capital punishment is an effective deterrent to murder).
 
 Note: Parliamentary Debate is a Bracket Competition, which stipulates that it is an elimination competition. There are:
-•   Two rounds of Preliminaries
-•   One Quarterfinal Round (top 8 teams)
-•   One Semifinal Round (top 4 teams) and one Final Round.
+- Two rounds of Preliminaries
+- One Quarterfinal Round (top 8 teams)
+- One Semifinal Round (top 4 teams) and one Final Round.
 
 In the event that an odd number of teams are present at the very first preliminary round of the Parliamentary Debate
 Tournament, even-numbered pairs will be made, with a randomized odd team sitting out the first preliminary and
@@ -2181,7 +2129,6 @@ c.   Debaters must always refer to one another in the third person (for example,
 Opposition”). They must not call other debaters by their real names.
 3. Members will speak only when called upon by the Speaker or when allowed a "Point of Information."
 
-66 33
 4. Debaters shall not use profane or offensive language.
 5. No forms of AI are permitted to prep for this competition. Any usage is grounds for point loss and/or disqualification.
 6. During the final rebuttal speeches presented by the Leader of the Opposition and the Prime Minister, debaters may
@@ -2205,69 +2152,67 @@ Prime Minister                                Rebuttal                          
 Leader of Opposition                             Rebuttal                                     3
 
 PM Constructive Speech (6 minutes):
-• Has the Burden of Proof and must show why the government side must be adopted.
-•   Introduces resolution, defines major terms, presents the basic government case (position) along with three or more
+- Has the Burden of Proof and must show why the government side must be adopted.
+- Introduces resolution, defines major terms, presents the basic government case (position) along with three or more
 constructive points (reasons) in favor of the House adopting the resolution.
 
 LO (6 minutes)
 Constructive Speech:
-• The LO presents a new independent argument relating to the case. Outlines why the government case is flawed/
+- The LO presents a new independent argument relating to the case. Outlines why the government case is flawed/
 wrong.
-•   Refutes the government case, explaining why the solution won’t work or why the problem does not actually exist.
+- Refutes the government case, explaining why the solution won’t work or why the problem does not actually exist.
 
 CM (6 minutes)
 Constructive Speech:
-• Brings forth additional one or two arguments supporting the government.
-•   The CM rebuilds the Government position and the original points introduced by the PM.
+- Brings forth additional one or two arguments supporting the government.
+- The CM rebuilds the Government position and the original points introduced by the PM.
 CM Rebuttal:
-• Goes through the points presented by the LO and rebuts them.
-•   The rebuttal should challenge the assumptions, and challenge the premises made by the Opposition.
+- Goes through the points presented by the LO and rebuts them.
+- The rebuttal should challenge the assumptions, and challenge the premises made by the Opposition.
 
 MO (6 minutes)
 Constructive Speech:
 
-66 44
-•   Brings forth the bulk of the opposition arguments, introducing 3 or 4 points.
-•   The MO rebuilds the Opposition position and reconstructs the points introduced by the LO.
+- Brings forth the bulk of the opposition arguments, introducing 3 or 4 points.
+- The MO rebuilds the Opposition position and reconstructs the points introduced by the LO.
 Rebuttal:
-• Introduces new Opposition rebuttal points (specific additional reasons raised by the Opposition for why the
+- Introduces new Opposition rebuttal points (specific additional reasons raised by the Opposition for why the
 Government case is wrong).
-•   The LO may also pose questions to the Government. Questions may be asked for clarification, or meant to corner
+- The LO may also pose questions to the Government. Questions may be asked for clarification, or meant to corner
 opponents (not rhetorical).
-•   Government may not ask questions during this section, and may freely choose to answer or refuse to answer
+- Government may not ask questions during this section, and may freely choose to answer or refuse to answer
 specific questions.
 PM Rebuttal (3 minutes):
-• Rebuild critical aspects of Government case and sum up entire debate by showing why the Government has won
+- Rebuild critical aspects of Government case and sum up entire debate by showing why the Government has won
 the debate.
-•   No new evidence or arguments may be presented here.
+- No new evidence or arguments may be presented here.
 
 LO Rebuttal (final 3 minutes):
 Offers a rebuttal to the Government, summarizes the Opposition side and restates the Opposition points.
 No new evidence or arguments may be presented here.
 
 Special Feature – Points of Information
-• Points of Information (POIs) are a unique feature of Parliamentary Debates.
-•   POIs are opportunities for debaters to rise during the opposition’s speeches and offer a question or comment.
-•   To receive permission to present a POI, a debater must say “Point of Information” and place one hand on his/her
+- Points of Information (POIs) are a unique feature of Parliamentary Debates.
+- POIs are opportunities for debaters to rise during the opposition’s speeches and offer a question or comment.
+- To receive permission to present a POI, a debater must say “Point of Information” and place one hand on his/her
 head with one hand held out palm up.
-•   The speaker then knows the debater is interested in stealing the floor and may decline this request by waving the
+- The speaker then knows the debater is interested in stealing the floor and may decline this request by waving the
 individual down or saying “No thank you”.
-•   The POI can be used to clarify something or point out a flaw or contradiction in the speaker’s argument or make a
+- The POI can be used to clarify something or point out a flaw or contradiction in the speaker’s argument or make a
 comment that will link to something the opposition will discuss later. POIs must be kept very brief and to the point
 (5-10 seconds).
-•   Only 2 POIs can be offered during any speech.
-•   POIs cannot be offered during the first and last minute of constructive speeches. No POIs may be offered during
+- Only 2 POIs can be offered during any speech.
+- POIs cannot be offered during the first and last minute of constructive speeches. No POIs may be offered during
 the last two speeches.
-•   The entire final LO and PM rebuttals are protected and POIs cannot be offered during this time.
+- The entire final LO and PM rebuttals are protected and POIs cannot be offered during this time.
 
 The Speaker
-•   The Speaker acts as the timekeeper and introduces each debater before speaking.
-•   Before beginning, the Speaker will write the exact resolution and the names of debaters in their speaking order on
+- The Speaker acts as the timekeeper and introduces each debater before speaking.
+- Before beginning, the Speaker will write the exact resolution and the names of debaters in their speaking order on
 a blackboard clearly visible to all judges.
-•   The Speaker will also flip a coin to determine which team will represent the Government and which will represent
+- The Speaker will also flip a coin to determine which team will represent the Government and which will represent
 the Opposition.
 
-66 55
 1. After the Prime Minister’s Speech, the speaker shall say: “I thank the Prime Minister for his/her remarks. We shall now
 hear the Leader of Opposition.”
 2. After the Leader of Opposition Speech, the speaker shall say: “Thank you for your remarks. I now call upon the Crown
@@ -2312,16 +2257,13 @@ Note to Organizers and Competitors:
 matches each. With this addition, the third rank will be determined more fairly. (One finals match to determine first
 and second place, and one third place match to determine third and fourth place).
 
-66 66
 DEBATE BALLOT
 
 Please find a clear version of this ballot here.
 
-66 77
 Please find a clear version of this ballot here.
 
-66 88
-MATH OLYMPICS
+## MATH OLYMPICS
 Format: In-Person
 
 Registration Guidelines:
@@ -2364,7 +2306,6 @@ d. Type three (3) questions may be found in Ciphering Round II or the Ciphering 
 2. The topics listed below are not a comprehensive list of the topics that may be included in the exam. However, there
 will be no calculus or beyond in difficulty.
 
-66 99
 MATH OLYMPICS STUDY GUIDE
 1. Geometric Formulas (The competitor will be asked to recognize or apply these formulas)
 a. Area and Perimeter of two dimensional shapes
@@ -2410,7 +2351,6 @@ d. Conditional probability
 e. Expected value
 f. Set Theory
 
-77 00
 MATH OLYMPICS STUDY GUIDE CONT.
 
 7. Logic
@@ -2432,19 +2372,15 @@ d. Sines, cosines, and tangents
 e. Pythagorean Theorem and Identities
 f. Law of Sines, Law of Cosines
 
-77 11
 MATH OLYMPICS QUESTION GUIDE
 
-77 22
 Please find a clear copy of these questions and answers here
 
-77 33
 MATH OLYMPICS GUIDE ANSWER
 
 Please find a clear copy of these questions and answers here
 
-77 44
-MIST QUIZ BOWL
+## MIST QUIZ BOWL
 Format: In-Person
 
 Registration Guidelines:
@@ -2490,7 +2426,6 @@ answered the question.
 6. If the question was answered incorrectly, the question may now be answered by the next team to buzz in for full
 original point value, with a 10 second limit given on the response.
 
-77 55
 7. Teams can buzz in as soon as buzzers are reset or they can wait for the judge to read the question again.
 8. All teams have an opportunity to answer the question before it is considered a dead question.
 9. There is no "Done" rule for this entire round.
@@ -2537,7 +2472,6 @@ Round Three
 3. Just as with Round 2, questions are considered dead after 2 incorrect answers. Therefore there are only full points
 and half points possible for the first 2 teams to buzz in.
 
-77 66
 General Point Summary
 Round            Initial Point Value       Second Attempt               Penalty              Time to Answer
 Point Value
@@ -2584,7 +2518,6 @@ b. After a question has been read, any team will be allowed to buzz in to attemp
 c.    If a team answers a question correctly, then they will be able to select another question. An incorrect answer
 will result in a penalty as in Round 2.
 
-77 77
 d. Following an incorrect response, the floor will be open for answers immediately after the judge says “incorrect.”
 If no team is able to answer the question after 10 seconds, the same team will be able to choose another
 question.
@@ -2609,8 +2542,7 @@ attempt
 3                Jeopardy Format       ½ of initial point value            Yes             10 seconds per
 attempt
 
-77 88
-IMPROV
+## IMPROV
 Format: In-Person
 
 Registration Guidelines:
@@ -2654,7 +2586,6 @@ b.   At the end of each game, judges will take a moment to write their scores, a
 minutes per team to ask questions if necessary.
 c.   Then, the subsequent game will begin.
 
-77 99
 4. All teams will have equal playing time, and they will all play the same games.
 a. All games will have a maximum of 2 minutes of prep time per team.
 5. This competition will be moderated by a host.
@@ -2689,51 +2620,49 @@ a. Use of any slurs, curse words, or rude language will not be tolerated and is 
 15. Points will be deducted, or the team disqualified (upon judges’ consideration) for inappropriate actions or comments
 that do not follow the Competition Guidelines.
 
-88 00
 DETAILED BALLOT: IMPROV
 Criteria                                   Game One   Game Two   Game Three
 Technical Performance
-•   How well did the performers adhere to the rules of the games?
-•   Did their act reflect the given prompts?
+- How well did the performers adhere to the rules of the games?
+- Did their act reflect the given prompts?
 /20        /20         /20
-•   Did they perform within the time limits?
-•   Did the performance adhere to the MIST Honor Code and MIST
+- Did they perform within the time limits?
+- Did the performance adhere to the MIST Honor Code and MIST
 guidelines of proper conduct and speech?
-•   If not, was the performance offensive or inappropriate?
+- If not, was the performance offensive or inappropriate?
 
 Skit Structure and Organization
-•   How effective was the setup, layout, placement of characters,
+- How effective was the setup, layout, placement of characters,
 and creation of the setting for the act?
-•   Did the performance have a logical plot development and                /20        /20         /20
+- Did the performance have a logical plot development and                /20        /20         /20
 sequence of events?
-•   How cohesive and understandable was the act?
+- How cohesive and understandable was the act?
 
 Character Acting
-•   Are character portrayals believable and memorable?
-•   Do actors avoid the use of cliché or uninspired roles?
+- Are character portrayals believable and memorable?
+- Do actors avoid the use of cliché or uninspired roles?
 /20        /20         /20
-•   Do actors communicate expressively, illuminating the life,
+- Do actors communicate expressively, illuminating the life,
 mannerisms, and reactions of their roles?
 
 Acting Style and Comedic Skill
-•   Do actors use their voices appropriately, enunciating and using
+- Do actors use their voices appropriately, enunciating and using
 a variety of rate, pitch, emotion, and volume?
-•   Do actors move expressively, using appropriate body language,          /20        /20         /20
+- Do actors move expressively, using appropriate body language,          /20        /20         /20
 facial expressions, and movement?
-•   Is creative and comedic improvisation used, including flexibility,
+- Is creative and comedic improvisation used, including flexibility,
 spontaneity, and risk-taking?
 Teamwork and Team Interaction
-•   Are actors able to effectively cooperate with one another as a
+- Are actors able to effectively cooperate with one another as a
 team, without overpowering one another?
-•   Do all team members participate equally?                               /20        /20         /20
+- Do all team members participate equally?                               /20        /20         /20
 Total Game Score                                   /100       /100        /100
 
 Total Averaged Score
 The average of 2 (or 3) games will be calculated. This number will be
 used for team rankings and advancement)                                     /100
 
-88 11
-CATEGORY V: GROUP PROJECTS
+## CATEGORY V: GROUP PROJECTS
 Business Venture:
 This competition encourages you to think about the business world, become a philanthropist, and market your own
 products. Familiarize yourself with modern trends and market values, while developing your own fantastic product or
@@ -2759,7 +2688,6 @@ Social Media:
 Are you a whiz with media platforms such as Instagram or TikTok? Have you started either reading or seeing more blogs?
 Take your online social habits to the next level by creating a social media presence for your MIST team!
 
-88 22
 BUSINESS VENTURE
 Format: In-Person
 Early Submission: Competitors must submit their business venture outline 2 weeks before the tournament.
@@ -2804,7 +2732,6 @@ samples.
 4. Format should be as follows and no more than 6 pages long:
 a. Executive Summary: A summary of your business venture project, description of your project, market analysis,
 
-88 33
 marketing plan, and financial plan. Ensure this does not exceed 2 pages.
 b.     Introduction: Describe your product/service in detail.
 i. What is the business? How does it work and how does it make money?
@@ -2833,81 +2760,78 @@ h.     Please note that the questions above are simply a guide. Teams do not nee
 however, all topics (market analysis, marketing plan, financial plan...etc.) must be addressed.
 
 Checklist:
-•   Business Venture Outline.
-•   Supplemental materials for group presentation.
-•   The submission should be clearly labeled with:
+- Business Venture Outline.
+- Supplemental materials for group presentation.
+- The submission should be clearly labeled with:
 - MIST IDs (Every group member)
 - Name of Competition
 
-88 44
 DETAILED BALLOT: BUSINESS VENTURE
 Section A: Technical                                                                                           Points: 10
-• Presenter(s) are on time for the competition.
-•   Presentation is a minimum of 5 minutes, with a maximum of 7 minutes.
+- Presenter(s) are on time for the competition.
+- Presentation is a minimum of 5 minutes, with a maximum of 7 minutes.
 - 3 minutes are alloted for Q&A.
-•   There are no identifiers on the submission aside from their MIST ID.
-•   The presenter(s) look credible and are dressed for an interview.
+- There are no identifiers on the submission aside from their MIST ID.
+- The presenter(s) look credible and are dressed for an interview.
 
 Section B: Presentation Components                                                                             Points: 15
 Visual Aid:
-• Did the presenters use a visual aid?
-•   Was the visual presentation neat and clearly comprehensible?
-•   Did the presenters clearly tie their project with the visual aid used?
+- Did the presenters use a visual aid?
+- Was the visual presentation neat and clearly comprehensible?
+- Did the presenters clearly tie their project with the visual aid used?
 Introduction, Body, & Conclusion
-• Did the presenters grab your attention with their introduction?
-•   Was the business venture clearly stated in the introduction? Was the introduction brief and concise? Did the
+- Did the presenters grab your attention with their introduction?
+- Was the business venture clearly stated in the introduction? Was the introduction brief and concise? Did the
 presenter preview and give focus to the key ideas?
-•   Did the presenter make effective use of signposting, internal summaries, and transitions? Was there a logical
+- Did the presenter make effective use of signposting, internal summaries, and transitions? Was there a logical
 progression of ideas?
-•   Was adequate time devoted to each section of the presentation within the 5-7 minute time limit?
-•   Did the presenters conclusively tie the presentation together? Was there a note of finality?
+- Was adequate time devoted to each section of the presentation within the 5-7 minute time limit?
+- Did the presenters conclusively tie the presentation together? Was there a note of finality?
 Section C: Presentation Delivery                                                                           Points: 20
 Delivery:
-• Was the delivery natural, lively, and spontaneous? Was the presenters’ enunciation clear and the volume
+- Was the delivery natural, lively, and spontaneous? Was the presenters’ enunciation clear and the volume
 appropriate?
-•   Did their delivery reinforce the ideas of the project?
-•   Were their gestures varied, movement motivated, and eye contact direct?
-•   Was there sufficient variety in rate, pause, and pitch?
+- Did their delivery reinforce the ideas of the project?
+- Were their gestures varied, movement motivated, and eye contact direct?
+- Was there sufficient variety in rate, pause, and pitch?
 Language Style:
-• Did the presenters exhibit command of conversational style?
-•   Was the language suitable enough to inform the audience?
-•   Was the language precise, grammatically correct, and vivid?
+- Did the presenters exhibit command of conversational style?
+- Was the language suitable enough to inform the audience?
+- Was the language precise, grammatically correct, and vivid?
 
 Section D: Presentation Analysis & Content                                                                    Points: 20
-• Did the presenters answer the questions clearly?
-•   Was the content informative? Was the information pertinent to their project idea? Was the information adequately
+- Did the presenters answer the questions clearly?
+- Was the content informative? Was the information pertinent to their project idea? Was the information adequately
 documented?
-•   Was there sufficient use of logic, facts, examples, visual aids, and/or expert opinion?
-•   Is the business venture within the scope of the competitors’ ability?
-•   Did the competitors approach the business venture in an original manner? Was the venture well thought-out and did
+- Was there sufficient use of logic, facts, examples, visual aids, and/or expert opinion?
+- Is the business venture within the scope of the competitors’ ability?
+- Did the competitors approach the business venture in an original manner? Was the venture well thought-out and did
 it show initiative in thought and design?
 
-88 55
 Section E: Business Venture Outline                                                                      Points: 35
-• Does the Executive Summary identify the problem and the business proposition for solving the problem?
+- Does the Executive Summary identify the problem and the business proposition for solving the problem?
 - Does it identify customers and competitors and illustrate the viability of the business idea?
-•   Does the venture have a sound value proposition?
-•   Have the competitors developed the product concept clearly?
-•   Are key features and benefits of the product/service clearly described?
-•   Does the venture demonstrate a need/want for the product/service by customers?
-•   Does the Market Analysis show evidence of research and is well thought out?
-•   Are descriptions of target market segments and competitors clearly established and are their attributes clearly
+- Does the venture have a sound value proposition?
+- Have the competitors developed the product concept clearly?
+- Are key features and benefits of the product/service clearly described?
+- Does the venture demonstrate a need/want for the product/service by customers?
+- Does the Market Analysis show evidence of research and is well thought out?
+- Are descriptions of target market segments and competitors clearly established and are their attributes clearly
 illustrated?
-•   Is the product/service feasibly marketable?
+- Is the product/service feasibly marketable?
 - Is there a demand?
 - Is there sustainable competitive advantage?
-•   Is the Marketing Plan clear and is it appropriate for the chosen product/service?
+- Is the Marketing Plan clear and is it appropriate for the chosen product/service?
 - Are marketing strategies likely to be effective?
-•   What is the likelihood of the business plan becoming a viable business?
+- What is the likelihood of the business plan becoming a viable business?
 - Could the venture be profitable?
-•   Have key financial considerations been taken into account adequately?
+- Have key financial considerations been taken into account adequately?
 - Does the return clearly justify the investment and the risk involved in the project?
-•   Is the Financial Plan reasonable and does it make sense based on the rest of the business plan?
-•   Is the venture stable and growth oriented or speculative and risky?
-•   Does the venture have high sensitivity to the actions of competitors, technology, the industry...etc.?
-•   Does the venture exemplify creativity and innovation?
+- Is the Financial Plan reasonable and does it make sense based on the rest of the business plan?
+- Is the venture stable and growth oriented or speculative and risky?
+- Does the venture have high sensitivity to the actions of competitors, technology, the industry...etc.?
+- Does the venture exemplify creativity and innovation?
 
-88 66
 BUSINESS VENTURE BALLOT
 
 Subtotal
@@ -2947,7 +2871,6 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________________
 
-88 77
 HUMANITARIAN SERVICE
 Format: In-Person
 Early Submission: Campaign plan and link to crowdfunding site must be submitted on MyMIST two weeks before the
@@ -2992,7 +2915,6 @@ be present to answer questions about their participation in the project.
 7. Any donations received after the cut off date will not be counted towards your page’s goal. However, they will still go
 towards the intended humanitarian fund.
 
-88 88
 8. In addition to crowdfunding efforts, competitors will be asked to provide community service initiatives that will help
 teach their community about their humanitarian cause.
 a. For example, holding an afterschool event presenting your humanitarian initiative to teachers and other
@@ -3003,7 +2925,6 @@ submission, points will be deducted.
 10. Teammates not present without a valid reason will result in point deductions for the entire group.
 11. Competitors also must provide clear information about their team size and fundraising goal to the judges.
 
-88 99
 DETAILED BALLOT: HUMANITARIAN SERVICE
 Section A: Technical
 General Rules                                                                                                       Points: 5
@@ -3049,7 +2970,6 @@ Implementation                                                                  
 Results                                                                                                             Points: 5
 1. The campaign met its fundraising goal.
 
-99 00
 2. Minimum fundraising goal guidelines*:
 i.    Teams of 1-5 students: $100
 ii.   Teams of 6-10 students: $250
@@ -3093,7 +3013,6 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________________
 
-99 11
 NASHEED/RAP
 Format: In-Person
 On-site Submission: Three (3) copies of the Nasheed/Rap must be submitted to judges on-site at the time of the
@@ -3125,80 +3044,77 @@ disqualification from the competition.
 perform.
 8. Judging Criteria will be based upon the official MIST Nasheed/Rap Ballot.
 
-99 22
 DETAILED BALLOT: NASHEED/RAP
 Section A: Administrative                                                                                             Points: 10
-• Presenter(s) are on time for the competition.
-•   Nasheed/Rap is under five (5) minutes.
-•   There are no identifiers on the submission aside from the MIST ID.
-•   The presenter(s) look credible and are dressed for an interview.
+- Presenter(s) are on time for the competition.
+- Nasheed/Rap is under five (5) minutes.
+- There are no identifiers on the submission aside from the MIST ID.
+- The presenter(s) look credible and are dressed for an interview.
 
 Section B: Content/Structure                                                                                          Points: 15
-• Is the Nasheed free from any inappropriate content?
+- Is the Nasheed free from any inappropriate content?
 - If it contains profanity, sexual innuendo, etc. do not score the rest of the section; competitor receives 0/15. If so, 		
 continue scoring.
-•   Is the Nasheed well written, (ie. Are rhyme, metaphors, and figurative language present in the lyrics?)
-•   Does the Nasheed show originality and creativity?
-•   Intro: does it establish a melodic, harmonic, and/ or rhythmic pattern related to the piece?
+- Is the Nasheed well written, (ie. Are rhyme, metaphors, and figurative language present in the lyrics?)
+- Does the Nasheed show originality and creativity?
+- Intro: does it establish a melodic, harmonic, and/ or rhythmic pattern related to the piece?
 - Does it establish a basic connection with the listener?
-•   Verse: how well does it tie into the main purpose?
+- Verse: how well does it tie into the main purpose?
 - Are the verses well defined? Is there a story/message to easily follow throughout each verse?
-•   Chorus: is the chorus easy to follow? Is it catchy?
+- Chorus: is the chorus easy to follow? Is it catchy?
 - How does the chorus embody the message of the song?
-•   Bridge: 1 bonus point.
+- Bridge: 1 bonus point.
 
 Section C: Technical                                                                                                  Points: 25
-• Intonation: Tone quality, pitch, accuracy, blend, and balance.
-•   Vocal technique: Articulation, rhythmic accuracy, fluency, flexibility, breath control, etc.
-•   Tone: sound or timbre pleasing to the ear, blend, evenness.
-•   Is there a unique texture to the performer’s voice/s? Is it a soft or gentle sound? A hoarse or gravely sound?
-•   Does/do the performer/s display a unique wide range of vocal tones? Is it just monotone?
+- Intonation: Tone quality, pitch, accuracy, blend, and balance.
+- Vocal technique: Articulation, rhythmic accuracy, fluency, flexibility, breath control, etc.
+- Tone: sound or timbre pleasing to the ear, blend, evenness.
+- Is there a unique texture to the performer’s voice/s? Is it a soft or gentle sound? A hoarse or gravely sound?
+- Does/do the performer/s display a unique wide range of vocal tones? Is it just monotone?
 - Can performer/s move from a low to medium to high note effectively?
 - Can high notes be articulated without cracking or straining their voice?
 - Do the low notes contain power/strength?
-•   Rhythmic integrity and interpretation: Style, tempo, phrasing, dynamic contract, etc.
-•   Musical effect and diction. Phrasing and melodic sensitivity, artistry, expressive and musical feeling, etc.
-•   Musicianship: Sensitivity to all aspects of execution in order to make an effective musical result: phrasing, dynamics
+- Rhythmic integrity and interpretation: Style, tempo, phrasing, dynamic contract, etc.
+- Musical effect and diction. Phrasing and melodic sensitivity, artistry, expressive and musical feeling, etc.
+- Musicianship: Sensitivity to all aspects of execution in order to make an effective musical result: phrasing, dynamics
 (good sense of loud and soft singing), vocal attack.
 
 Section D: Delivery                                                                                                   Points: 20
-• Stage Presence: Is there a connection with the audience, energy, and excitement?
-•   Is there a connection between the piece and the performer’s emotions? Does the performer embody the piece?
+- Stage Presence: Is there a connection with the audience, energy, and excitement?
+- Is there a connection between the piece and the performer’s emotions? Does the performer embody the piece?
 - What is their body language?
-•   Are the members of the group in time with one another (rhythm)?
+- Are the members of the group in time with one another (rhythm)?
 - If it is one member, are they maintaining tempo?
-•   Are the members of the group in tune with one another?
+- Are the members of the group in tune with one another?
 
-99 33
-•   If the group consists of one member, do they have a good tone?
-•   Are the lyrics clear and easy to understand? (In their presentation, not interpretation)
-•   Stage presence - group appearance, music memorized, facial expressions, staging, accompaniment, entertainment
+- If the group consists of one member, do they have a good tone?
+- Are the lyrics clear and easy to understand? (In their presentation, not interpretation)
+- Stage presence - group appearance, music memorized, facial expressions, staging, accompaniment, entertainment
 value.
-•   Do the competitors establish eye contact? Do the performers use the stage?
+- Do the competitors establish eye contact? Do the performers use the stage?
 
 Section E: Complexity                                                                                    Points: 10
-• Wide range, complex or varied rhythms, incorporation of several creative elements, complex harmonies.
+- Wide range, complex or varied rhythms, incorporation of several creative elements, complex harmonies.
 
 Section F: Overall Experience                                                                                   Points: 10
 After the reviewing the Nasheed content, performance, and interview, rate the entire experience from 1 to 10.
-• 1 being very poor (no organization, unity, intonation, relation to the theme).
-•   5 to 6 being average.
-•   10 being exceptional (memorable performance, sound understanding of the theme, exceptional Nasheed content).
+- 1 being very poor (no organization, unity, intonation, relation to the theme).
+- 5 to 6 being average.
+- 10 being exceptional (memorable performance, sound understanding of the theme, exceptional Nasheed content).
 
 Section G: Application of Theme                                                                                 Points: 10
-• There is a strong, clearly evident relevance to the theme.
-•   The theme is expressed in a unique or outstanding way.
-•   Purpose of the nasheed/rap is clearly articulated and shows evidence of reflection and/or research.
-•   Elements and principles of the project are clearly articulated and the student shows evidence of careful selection and
+- There is a strong, clearly evident relevance to the theme.
+- The theme is expressed in a unique or outstanding way.
+- Purpose of the nasheed/rap is clearly articulated and shows evidence of reflection and/or research.
+- Elements and principles of the project are clearly articulated and the student shows evidence of careful selection and
 organization of these elements and principles.
 
 Judges will ask the following questions to gauge the competitors' understanding of the theme and how it was expressed in
 their work. Judges will then proceed to scoring.
-• How did you aim to convey this year's theme in your work?
-•   What do you hope to teach people about the theme with your submission?
-•   What element of the work is the most important towards conveying your understanding of the theme?
+- How did you aim to convey this year's theme in your work?
+- What do you hope to teach people about the theme with your submission?
+- What element of the work is the most important towards conveying your understanding of the theme?
 
-99 44
 NASHEED/RAP BALLOT
 
 Subtotal
@@ -3233,7 +3149,6 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________________
 
-99 55
 SCIENCE FAIR
 Format: In-Person
 Early Submission: Abstract must be submitted two weeks early on MyMIST
@@ -3275,90 +3190,87 @@ d. Abstract (with active research included)
 8. Judging Criteria will be based upon the official MIST Science Fair ballot.
 
 Checklist:
-•   Three (3) copies of the Written abstract (500 words or less) of the desired science fair topic two (2) weeks prior to
+- Three (3) copies of the Written abstract (500 words or less) of the desired science fair topic two (2) weeks prior to
 the date of the MIST tournament on myMIST.
-•   Visual aids that will be used for the presentation.
-•   The submission should be clearly labeled with:
+- Visual aids that will be used for the presentation.
+- The submission should be clearly labeled with:
 - MIST IDs (Of every group member)
 - Name of Competition
 
-99 66
 DETAILED BALLOT: SCIENCE FAIR
 Section A: Technical
 General Rules                                                                                                 Points: 5
-• The competitors submitted three copies of their abstract, a three-paneled display board that can be easily
+- The competitors submitted three copies of their abstract, a three-paneled display board that can be easily
 transported and/or any other optional visual aids on time.
-•   Participants are all present and on time for the competition.
-•   The submissions include no identifiers aside from MIST ID Numbers.
-•   If used, the three-paneled display board has minimum dimensions of 36” x 48”.
-•   The presenters appear professionally credible and appropriately dressed for an interview.
-•   The presentation is 5-7 minutes.
-•   Q&A is 3 minutes.
-•   Bonus: Three (3) bonus points can be given if the topic is relevant to the theme.
+- Participants are all present and on time for the competition.
+- The submissions include no identifiers aside from MIST ID Numbers.
+- If used, the three-paneled display board has minimum dimensions of 36” x 48”.
+- The presenters appear professionally credible and appropriately dressed for an interview.
+- The presentation is 5-7 minutes.
+- Q&A is 3 minutes.
+- Bonus: Three (3) bonus points can be given if the topic is relevant to the theme.
 Abstract Rules                                                                                                  Points: 5
-• The abstract is five (5) pages or less in length.
-•   The font is 12-point Times New Roman.
-•   The paper is double spaced.
-•   The margins are 1” on each side.
-•   The Bibliography includes all works cited in the presentation and at least two sources are cited.
-•   All citations are made with proper MLA format.
+- The abstract is five (5) pages or less in length.
+- The font is 12-point Times New Roman.
+- The paper is double spaced.
+- The margins are 1” on each side.
+- The Bibliography includes all works cited in the presentation and at least two sources are cited.
+- All citations are made with proper MLA format.
 
 Section B: Presentation Components
 Visual Aid                                                                                                       Points: 5
-• Did the presenter use visual aids? Was it typed and not written?
-•   Was the visual presentation neat, uncluttered and clearly comprehensible?
+- Did the presenter use visual aids? Was it typed and not written?
+- Was the visual presentation neat, uncluttered and clearly comprehensible?
 - Was the display well organized so that the parts of the presentation are logical?
-•   Did the presenter clearly tie their project with the visual aid used?
-•   Does the display stand alone?
+- Did the presenter clearly tie their project with the visual aid used?
+- Does the display stand alone?
 - Is it possible to understand the study without the competitor present?
 Introduction, Body & Conclusion                                                                                 Points: 15
-• Did the presenter grab your attention with their introduction?
-•   Was the topic clearly stated in the introduction? Was the introduction brief and concise? Did the presenter preview
+- Did the presenter grab your attention with their introduction?
+- Was the topic clearly stated in the introduction? Was the introduction brief and concise? Did the presenter preview
 and give focus to the key ideas?
-•   Did the presenter make effective use of signposting, internal summaries, and transitions?
+- Did the presenter make effective use of signposting, internal summaries, and transitions?
 - Was there a logical progression of ideas?
-•   Was adequate time devoted to each section of the presentation within the 5-7 minute time limit?
-•   Did the presenter conclusively tie the speech together?
+- Was adequate time devoted to each section of the presentation within the 5-7 minute time limit?
+- Did the presenter conclusively tie the speech together?
 - Was there a note of finality?
 
 Section C: Technical
 Scientific Thought                                                                                             Points: 25
-• Did the competitor ask his/her own original testable question that can be measured quantitatively?
-•   Was the scientific method followed?
+- Did the competitor ask his/her own original testable question that can be measured quantitatively?
+- Was the scientific method followed?
 
-99 77
-•   Does the competitor have his/her own original hypothesis that can be quantitatively measured and answers the
+- Does the competitor have his/her own original hypothesis that can be quantitatively measured and answers the
 question?
-•   Is that data quantitative and does it answer the question?
-•   Are all variables original? Are they all considered and identified?
-•   Were multiple trials performed if needed?
-•   Was the data clearly interpreted? Were the conclusions accurately based on this data?
+- Is that data quantitative and does it answer the question?
+- Are all variables original? Are they all considered and identified?
+- Were multiple trials performed if needed?
+- Was the data clearly interpreted? Were the conclusions accurately based on this data?
 Thoroughness                                                                                                    Points: 15
-• Was the testable question original and the intellectual property of the competitor?
-•   Did the competitor individually collect all data available?
-•   Was the competitor able to explain any problems that arose?
-•   Did the competitor relate the work to what was reported in the literature?
-•   Was the study completed or brought to a logical stopping place?
+- Was the testable question original and the intellectual property of the competitor?
+- Did the competitor individually collect all data available?
+- Was the competitor able to explain any problems that arose?
+- Did the competitor relate the work to what was reported in the literature?
+- Was the study completed or brought to a logical stopping place?
 
 Section D: Analysis and Content                                                                                 Points: 20
-• Did the presenter answer the question clearly?
-•   Was the content informative? Was the information pertinent to their specific topic? Was the information adequately
+- Did the presenter answer the question clearly?
+- Was the content informative? Was the information pertinent to their specific topic? Was the information adequately
 documented?
-•   Was there sufficient use of logic, facts, examples, and/or expert opinion? Was scientific literature examined?
-•   Was the study/research within the scope of the competitors’ ability?
-•   Did the competitor approach the problem in an original manner with an original hypothesis?
-•   Was the study well thought out and did it show the competitor’s initiative in thought and design?
+- Was there sufficient use of logic, facts, examples, and/or expert opinion? Was scientific literature examined?
+- Was the study/research within the scope of the competitors’ ability?
+- Did the competitor approach the problem in an original manner with an original hypothesis?
+- Was the study well thought out and did it show the competitor’s initiative in thought and design?
 
 Section E: Abstract                                                                                             Points: 10
-• Is the paper a maximum of 5 pages long?
-•   Does the abstract have at least 2 cited sources?
-•   Is there a works cited/reference page at the end of the abstract?
+- Is the paper a maximum of 5 pages long?
+- Does the abstract have at least 2 cited sources?
+- Is there a works cited/reference page at the end of the abstract?
 - Is the formatting according to the MLA style?
-•   Has active research been conducted by the team and have the results been compiled and analyzed within the
+- Has active research been conducted by the team and have the results been compiled and analyzed within the
 submission?
-•   Is the research question present answered through the paper?
+- Is the research question present answered through the paper?
 
-99 88
 SCIENCE FAIR BALLOT
 
 Subtotal
@@ -3395,7 +3307,6 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________________
 
-99 99
 SHORT FILM
 Format: In-Person
 Early Submission: An unlisted YouTube/Vimeo link of your short film sent 2 weeks prior to the date of the regional
@@ -3448,12 +3359,12 @@ as of the submission date.
 a. Entrant must be the creator of the submitted work, holding the full copyright ownership therein
 
 Checklist:
-•   An unlisted YouTube link of your short film submitted 2 weeks prior to the date of the regional tournament to
+- An unlisted YouTube link of your short film submitted 2 weeks prior to the date of the regional tournament to
 myMIST.
-•   Short Film Entry Form.
-•   A 500 word maximum written statement about the short film and that answers questions under Section C: Theme.
-•   A complete list of cast, crew members and equipment used.
-•   The submission should be clearly labeled with:
+- Short Film Entry Form.
+- A 500 word maximum written statement about the short film and that answers questions under Section C: Theme.
+- A complete list of cast, crew members and equipment used.
+- The submission should be clearly labeled with:
 - MIST IDs
 - Name of Competition
 
@@ -3477,12 +3388,12 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________
 
 Film Genre:
-•   Narrative Fiction
-•   Documentary
-•   Animation
-•   Art
-•   Experimental
-•   Other: _________
+- Narrative Fiction
+- Documentary
+- Animation
+- Art
+- Experimental
+- Other: _________
 
 Length: Minutes: ____ Seconds: ____
 
@@ -3502,42 +3413,42 @@ Signature of Entrant: _____________________                    Date: ___________
 DETAILED BALLOT: SHORT FILM
 
 Section A: Technical                                                                                         Points: 4
-• Presenters are on time for the interview.
-•   Film duration within 5-7 minutes.
-•   There are no identifying characteristics on the submission aside from their MIST ID.
-•   The presenter(s) look credible and are dressed for an interview.
+- Presenters are on time for the interview.
+- Film duration within 5-7 minutes.
+- There are no identifying characteristics on the submission aside from their MIST ID.
+- The presenter(s) look credible and are dressed for an interview.
 
 Section B: Production Quality
 Production Quality - Audio                                                                                  Points: 20
-• Clear, crisp audio throughout.
-•   External microphones were used when necessary.
-•   Sound effects were used appropriately.
-•   Balance between music and dialogue when necessary.
+- Clear, crisp audio throughout.
+- External microphones were used when necessary.
+- Sound effects were used appropriately.
+- Balance between music and dialogue when necessary.
 Production Quality - Video                                                                                   Points: 30
-• Proper transitions used (i.e dissolves used mainly to establish change in time, not between every scene).
-•   Proper Headroom in all shots.
-•   Tripod for steady camera when available
-•   Quality is consistent throughout.
-•   Variation in shot selection.
-•   Scenes edited/cropped tightly to maintain smooth storytelling.
+- Proper transitions used (i.e dissolves used mainly to establish change in time, not between every scene).
+- Proper Headroom in all shots.
+- Tripod for steady camera when available
+- Quality is consistent throughout.
+- Variation in shot selection.
+- Scenes edited/cropped tightly to maintain smooth storytelling.
 
 Section C: Narrative
 Theme                                                                                                       Points: 10
-• Story addressed the theme thoroughly.
-•   Theme was consistent and present throughout film.
-•   Written statement answers the following questions:
+- Story addressed the theme thoroughly.
+- Theme was consistent and present throughout film.
+- Written statement answers the following questions:
 i. How did you aim to convey this year's theme in your work?
 ii. What do you hope to teach people about the theme with this work?
 iii. What element of the work is the most important towards conveying your understanding of the theme?
 Acting                                                                                                      Points: 10
-• Props/makeup used appropriately.
-•   Casting is believable.
+- Props/makeup used appropriately.
+- Casting is believable.
 Story                                                                                                       Points: 26
-• Film duration within 5 to 7 minutes.
-•   Cohesive narrative from beginning to end.
-•   Narrative is shown through visual storytelling, not explained through text graphics.
-•   Film does not contain profanity, sexual innuendos, or excessively vulgar content.
-•   Events of the story are believable given the context of the film.
+- Film duration within 5 to 7 minutes.
+- Cohesive narrative from beginning to end.
+- Narrative is shown through visual storytelling, not explained through text graphics.
+- Film does not contain profanity, sexual innuendos, or excessively vulgar content.
+- Events of the story are believable given the context of the film.
 
 SHORT FILM BALLOT
 
@@ -3629,27 +3540,27 @@ k.     Any other information or additional features such as video clips, search 
 14. Competitors will be judged according to the Social Media Ballot.
 
 Checklist:
-•   A link to your media platform with the typed statement submitted two weeks prior to myMIST.
-•   The submission should be clearly labeled with:
+- A link to your media platform with the typed statement submitted two weeks prior to myMIST.
+- The submission should be clearly labeled with:
 - MIST IDs
 - Name of Competition
 
 DETAILED BALLOT: SOCIAL MEDIA
 Section A: Technical                                                                                             Points: 5
-• Participants are on time for the interview.
-•   The participants look credible and are dressed for an interview.
-•   Media platform link has been submitted prior to the interview.
-•   Length of written statement does not exceed three pages (1000 words).
+- Participants are on time for the interview.
+- The participants look credible and are dressed for an interview.
+- Media platform link has been submitted prior to the interview.
+- Length of written statement does not exceed three pages (1000 words).
 
 Section B: Content Quality                                                                                     Points: 15
-• The social media platform is easily understood using a computer and/or phone
-•   The platform includes a minimum of five posts, including two posts regarding current events, with one being a pure
+- The social media platform is easily understood using a computer and/or phone
+- The platform includes a minimum of five posts, including two posts regarding current events, with one being a pure
 news story.
-•   The overall page is appealing and inviting.
+- The overall page is appealing and inviting.
 - Users can quickly get the “big picture” of what is offered by the blog or social media account.
-•   The page is a means of inspiration for anyone who wants to start their own page.
-•   Social page addresses the needs of users.
-•   The social media submission has the following required items:
+- The page is a means of inspiration for anyone who wants to start their own page.
+- Social page addresses the needs of users.
+- The social media submission has the following required items:
 i. Info about MSA/MIST team
 ii. Prayer times
 iii. Contact information
@@ -3657,42 +3568,42 @@ iv. Information about events
 v. Link to the teams MIST regional page and MIST Nationals page
 vi. Next meeting time and place
 vii. Info on how to join the MSA/MIST team and MIST/MSA mission statement.
-•   Islamic Instagram posts or TikTok’s, typically those that adolescents can relate to, are included.
+- Islamic Instagram posts or TikTok’s, typically those that adolescents can relate to, are included.
 
 Section C: Social Media Platform Quality                                                                       Points: 10
-• The social media account’s name is reflective of the MSA/MIST team.
-•   The social media platform uses a proper amount of updates so that the platform does not appear stale.
-•   The social media platform includes updates that are posts from the blog.
-•   The social media updates include a variety of content – text, images, video, etc.
+- The social media account’s name is reflective of the MSA/MIST team.
+- The social media platform uses a proper amount of updates so that the platform does not appear stale.
+- The social media platform includes updates that are posts from the blog.
+- The social media updates include a variety of content – text, images, video, etc.
 
 Section D: Presentation Quality                                                                                Points: 30
-• The content goes beyond your basic MSA facts and data.
+- The content goes beyond your basic MSA facts and data.
 - It contains information that is useful to MSA/MIST members.
-•   The page contains a mix of content formats (i.e. text, graphics, photographs, video, audio) to address specific needs.
+- The page contains a mix of content formats (i.e. text, graphics, photographs, video, audio) to address specific needs.
 - There is a good balance between text and graphics.
-•   All graphics load successfully and quickly. Text is easy to read.
+- All graphics load successfully and quickly. Text is easy to read.
 
 Section E: Application of Theme                                                                                 Points: 25
-• There is a strong, clearly evident relevance to the theme.
-•   The theme is expressed in a unique or outstanding way.
-•   Purpose of the project is clearly articulated and shows evidence of reflection and/or research.
-•   Elements and principles of art are clearly articulated and the student shows evidence of careful selection and
+- There is a strong, clearly evident relevance to the theme.
+- The theme is expressed in a unique or outstanding way.
+- Purpose of the project is clearly articulated and shows evidence of reflection and/or research.
+- Elements and principles of art are clearly articulated and the student shows evidence of careful selection and
 organization of these elements and principles.
 
 Judges will ask the following questions to gauge the competitors' understanding of the theme and how it was expressed in
 their work. Judges will then proceed to scoring.
-• How did you aim to convey this year’s theme in your work? In what ways does your submission represent your
+- How did you aim to convey this year’s theme in your work? In what ways does your submission represent your
 teams point of view, imagination, creativity, and individuality?
-•   Explain your purpose in developing this artwork and describe how you achieved that goal. Describe any influences
+- Explain your purpose in developing this artwork and describe how you achieved that goal. Describe any influences
 from the online world that contributed to the development of your submission.
-•   What elements or principles of social media did you use, and how did you select and organize the visual aspects of
+- What elements or principles of social media did you use, and how did you select and organize the visual aspects of
 this work?
 
 Section F: Written Statement                                                                                  Points: 10
-• Is the paper no more than 3 pages long?
-•   Does it properly explain the content from the social media platform?
-•   Does it include the competitor's inspiration for the approach to their social media strategy?
-•   Have the content strategy and member contributions been clearly explained?
+- Is the paper no more than 3 pages long?
+- Does it properly explain the content from the social media platform?
+- Does it include the competitor's inspiration for the approach to their social media strategy?
+- Have the content strategy and member contributions been clearly explained?
 
 SOCIAL MEDIA BALLOT
 
@@ -3726,17 +3637,17 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________________
 
-CATEGORY VI: SPORTS
+## CATEGORY VI: SPORTS
 Basketball:
 If shooting hoops and hearing your sneakers squeak on the court is your thing, basketball is the perfect sport to get your
 blood pumping and adrenaline rushing.
 
 Please note:
-• Any competitor who registers for a sport must also be registered for a scholastic competition.
-•   Being registered in a competition entails attendance being mandatory.
-•   If competitors partake in a sport but do not attend their other registered competition, they will be disqualified from
+- Any competitor who registers for a sport must also be registered for a scholastic competition.
+- Being registered in a competition entails attendance being mandatory.
+- If competitors partake in a sport but do not attend their other registered competition, they will be disqualified from
 their sport/e-sport.
-•   This means teams risk losing their rankings for sports they may have already won.
+- This means teams risk losing their rankings for sports they may have already won.
 
 BASKETBALL
 MIST follows standard high school basketball rules which are readily available online and are commonly known among
@@ -3812,4 +3723,3 @@ All the best this year at MIST!
 
 The 2026 MIST Team
 (you can stop reading now)
-

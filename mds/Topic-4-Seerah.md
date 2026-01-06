@@ -41,4 +41,3 @@ context for. Whole ayahs in the Qur’an will not be tested and references do no
 be read.
 
 For questions about the materials, please reach out to hkhattak@getmistified.com
-

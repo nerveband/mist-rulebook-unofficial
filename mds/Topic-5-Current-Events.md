@@ -47,4 +47,3 @@ name this international football competition, held from January 9 to February 6,
 Cameroon, which Senegal won for the first time."
 
 Answer: The 2021 Africa Cup of Nations (accept AFCON 2021)
-
