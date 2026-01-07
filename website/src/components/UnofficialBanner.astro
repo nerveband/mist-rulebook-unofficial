@@ -1,0 +1,83 @@
+---
+---
+
+<div id="unofficial-banner" class="unofficial-banner">
+  <p>
+    <strong>Unofficial Resource:</strong> This is not affiliated with MIST National. For official rules, visit <a href="https://getmistified.com" target="_blank" rel="noopener">getmistified.com</a>
+  </p>
+  <button id="dismiss-banner" aria-label="Dismiss banner">&times;</button>
+</div>
+
+<style>
+  .unofficial-banner {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 9999;
+    background: #b91c1c;
+    color: #ffffff;
+    padding: 0.5rem 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    font-size: 0.875rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  }
+
+  .unofficial-banner.hidden {
+    display: none;
+  }
+
+  .unofficial-banner p {
+    margin: 0;
+    text-align: center;
+  }
+
+  .unofficial-banner a {
+    color: #fecaca;
+    text-decoration: underline;
+  }
+
+  .unofficial-banner a:hover {
+    color: #ffffff;
+  }
+
+  .unofficial-banner button {
+    background: transparent;
+    border: none;
+    color: #ffffff;
+    font-size: 1.5rem;
+    cursor: pointer;
+    padding: 0 0.5rem;
+    line-height: 1;
+    opacity: 0.8;
+  }
+
+  .unofficial-banner button:hover {
+    opacity: 1;
+  }
+
+  /* Add padding to body when banner is visible */
+  :global(body:has(#unofficial-banner:not(.hidden))) {
+    padding-top: 2.5rem;
+  }
+</style>
+
+<script>
+  const banner = document.getElementById('unofficial-banner');
+  const dismissBtn = document.getElementById('dismiss-banner');
+  const STORAGE_KEY = 'mist-unofficial-banner-dismissed';
+
+  // Check if already dismissed
+  if (localStorage.getItem(STORAGE_KEY) === 'true') {
+    banner?.classList.add('hidden');
+  }
+
+  // Handle dismiss
+  dismissBtn?.addEventListener('click', () => {
+    banner?.classList.add('hidden');
+    localStorage.setItem(STORAGE_KEY, 'true');
+  });
+</script>

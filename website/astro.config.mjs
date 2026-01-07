@@ -7,7 +7,9 @@ export default defineConfig({
 		starlight({
 			title: 'MIST Rulebook',
 			description: 'Unofficial MIST 2026 Competition Rulebook',
-
+			components: {
+				Head: './src/components/Head.astro',
+			},
 			social: [
 				{ icon: 'external', label: 'Official MIST', href: 'https://getmistified.com' },
 			],

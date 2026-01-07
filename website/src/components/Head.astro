@@ -1,0 +1,37 @@
+---
+import type { Props } from '@astrojs/starlight/props';
+import Default from '@astrojs/starlight/components/Head.astro';
+---
+
+<Default {...Astro.props}><slot /></Default>
+
+<!-- Unofficial Banner Script - runs on every page -->
+<script is:inline>
+  (function() {
+    const STORAGE_KEY = 'mist-unofficial-banner-dismissed';
+    
+    // Only create banner if not dismissed
+    if (localStorage.getItem(STORAGE_KEY) !== 'true') {
+      // Create banner element
+      const banner = document.createElement('div');
+      banner.id = 'unofficial-banner';
+      banner.innerHTML = `
+        <p><strong>Unofficial Resource:</strong> This is not affiliated with MIST National. For official rules, visit <a href="https://getmistified.com" target="_blank" rel="noopener">getmistified.com</a></p>
+        <button id="dismiss-banner" aria-label="Dismiss banner">&times;</button>
+      `;
+      
+      // Insert at top of body
+      document.body.insertBefore(banner, document.body.firstChild);
+      
+      // Add dismiss handler
+      document.getElementById('dismiss-banner').addEventListener('click', function() {
+        banner.style.display = 'none';
+        document.body.classList.remove('has-banner');
+        localStorage.setItem(STORAGE_KEY, 'true');
+      });
+      
+      // Add class to body for padding
+      document.body.classList.add('has-banner');
+    }
+  })();
+</script>
