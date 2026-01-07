@@ -1,17 +1,36 @@
 /* MIST Rulebook Custom Styles - Light Mode Only */
 
-:root {
+/* Force light mode colors regardless of data-theme attribute */
+:root,
+:root[data-theme='dark'],
+:root[data-theme='light'] {
 	--sl-color-accent-low: #e6f4f7;
 	--sl-color-accent: #2d6a7a;
 	--sl-color-accent-high: #1a4a5a;
 	--sl-color-white: #ffffff;
 	--sl-color-gray-1: #f5f6f8;
-	--sl-color-gray-2: #e8eaed;
+	--sl-color-gray-2: #eceef1;
 	--sl-color-gray-3: #c2c7cc;
 	--sl-color-gray-4: #888d94;
 	--sl-color-gray-5: #545a60;
 	--sl-color-gray-6: #353a3f;
 	--sl-color-black: #181a1b;
+	
+	/* Force light background and text */
+	--sl-color-bg: #ffffff;
+	--sl-color-bg-nav: #f5f6f8;
+	--sl-color-bg-sidebar: #f5f6f8;
+	--sl-color-bg-inline-code: #f5f6f8;
+	--sl-color-hairline-light: #e8eaed;
+	--sl-color-hairline: #c2c7cc;
+	--sl-color-text: #181a1b;
+	--sl-color-text-accent: #1a4a5a;
+}
+
+/* Hide theme toggle completely */
+starlight-theme-select,
+[data-theme-select] {
+	display: none !important;
 }
 
 /* Banner styles for homepage */
