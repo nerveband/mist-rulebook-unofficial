@@ -11,7 +11,8 @@ export default defineConfig({
 				Head: './src/components/Head.astro',
 			},
 			social: [
-				{ icon: 'external', label: 'Official MIST', href: 'https://getmistified.com' },
+				{ icon: 'external', label: 'Official MIST Site', href: 'https://getmistified.com' },
+				{ icon: 'github', label: 'GitHub', href: 'https://github.com/nerveband/mist-rulebook-unofficial' },
 			],
 			customCss: ['./src/styles/custom.css'],
 			head: [
