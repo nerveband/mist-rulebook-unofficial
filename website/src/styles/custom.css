@@ -46,6 +46,22 @@
 	font-weight: 600;
 }
 
+/* Early submission note styling */
+.early-note {
+	font-size: 0.875rem;
+	color: var(--sl-color-gray-3);
+	margin-top: -0.5rem;
+	margin-bottom: 2rem;
+}
+
+.early-note a {
+	color: var(--sl-color-accent-high);
+}
+
+:root[data-theme='light'] .early-note {
+	color: var(--sl-color-gray-4);
+}
+
 /* Print styles */
 @media print {
 	.sl-sidebar,

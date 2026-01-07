@@ -22,97 +22,93 @@ import { Card, CardGrid, LinkCard, Icon } from '@astrojs/starlight/components';
 ## Quick Start by Role
 
 <CardGrid>
-  <Card title="For Students" icon="pencil">
-    Eligibility, categories, deadlines, rubrics, and what to bring.
-    
-    [View Student Guide →](/guides/for-students/)
-  </Card>
-  <Card title="For Coaches" icon="list-format">
-    Registration, supervision rules, and day-of checklists.
-    
-    [View Coach Guide →](/guides/for-coaches/)
-  </Card>
-  <Card title="For Judges" icon="approve-check">
-    Scoring criteria, ballots, timekeeping, and conduct.
-    
-    [View Judge Guide →](/guides/for-judges/)
-  </Card>
+  <LinkCard
+    title="For Students"
+    description="Eligibility, categories, deadlines, rubrics, and what to bring"
+    href="/guides/for-students/"
+  />
+  <LinkCard
+    title="For Coaches"
+    description="Registration, supervision rules, and day-of checklists"
+    href="/guides/for-coaches/"
+  />
+  <LinkCard
+    title="For Judges"
+    description="Scoring criteria, ballots, timekeeping, and conduct"
+    href="/guides/for-judges/"
+  />
 </CardGrid>
 
 ## Competition Categories
 
 <CardGrid>
-  <Card title="Knowledge & Quran" icon="open-book">
-    Knowledge Tests, Quran Memorization, Quran Recitation
-    
-    [View Rules →](/rulebook/knowledge-quran/knowledge-tests/)
-  </Card>
-  <Card title="Arts" icon="star">
-    2D Art, 3D Art, Fashion Design, Digital Art*, Photography
-    
-    <small>*Has <a href="/rulebook/early-submissions/">early submission</a></small>
-    
-    [View Rules →](/rulebook/arts/2d-art/)
-  </Card>
-  <Card title="Writing & Oratory" icon="document">
-    Essays, Speaking, Oratory, Poetry*, Prepared Essay*, Short Fiction*, Spoken Word
-    
-    <small>*Has <a href="/rulebook/early-submissions/">early submission</a></small>
-    
-    [View Rules →](/rulebook/writing-oratory/extemporaneous-essay/)
-  </Card>
-  <Card title="Brackets" icon="rocket">
-    Debate, Math Olympics, Quiz Bowl, Improv
-    
-    [View Rules →](/rulebook/brackets/debate/)
-  </Card>
-  <Card title="Group Projects" icon="puzzle">
-    Business*, Humanitarian*, Nasheed, Science Fair*, Short Film*, Social Media*
-    
-    <small>*Has <a href="/rulebook/early-submissions/">early submission</a></small>
-    
-    [View Rules →](/rulebook/group-projects/business-venture/)
-  </Card>
-  <Card title="Sports" icon="heart">
-    Basketball
-    
-    [View Rules →](/rulebook/sports/basketball/)
-  </Card>
+  <LinkCard
+    title="Knowledge & Quran"
+    description="Knowledge Tests, Quran Memorization, Quran Recitation"
+    href="/rulebook/knowledge-quran/knowledge-tests/"
+  />
+  <LinkCard
+    title="Arts"
+    description="2D Art, 3D Art, Fashion Design, Digital Art*, Photography"
+    href="/rulebook/arts/2d-art/"
+  />
+  <LinkCard
+    title="Writing & Oratory"
+    description="Essays, Speaking, Oratory, Poetry*, Prepared Essay*, Short Fiction*, Spoken Word"
+    href="/rulebook/writing-oratory/extemporaneous-essay/"
+  />
+  <LinkCard
+    title="Brackets"
+    description="Debate, Math Olympics, Quiz Bowl, Improv"
+    href="/rulebook/brackets/debate/"
+  />
+  <LinkCard
+    title="Group Projects"
+    description="Business*, Humanitarian*, Nasheed, Science Fair*, Short Film*, Social Media*"
+    href="/rulebook/group-projects/business-venture/"
+  />
+  <LinkCard
+    title="Sports"
+    description="Basketball"
+    href="/rulebook/sports/basketball/"
+  />
 </CardGrid>
+
+<p class="early-note"><Icon name="information" size="1em" /> * = Has <a href="/rulebook/early-submissions/">early submission requirements</a></p>
 
 ## Study Materials
 
 <CardGrid>
-  <Card title="Quiz Bowl Topics" icon="magnifier">
-    Five topics with source materials and transcripts for study.
-    
-    [View Topics →](/quiz-bowl-topics/topic-1-water/)
-  </Card>
-  <Card title="Debate Topics" icon="comment">
-    Current debate resolutions for the 2026 season.
-    
-    [View Topics →](/debate-topics/)
-  </Card>
+  <LinkCard
+    title="Quiz Bowl Topics"
+    description="Five topics with source materials and transcripts for study"
+    href="/quiz-bowl-topics/topic-1-water/"
+  />
+  <LinkCard
+    title="Debate Topics"
+    description="Current debate resolutions for the 2026 season"
+    href="/debate-topics/"
+  />
 </CardGrid>
 
 ## Resources
 
-<CardGrid stagger>
-  <Card title="Early Submissions" icon="cloud-download">
-    9 competitions require early submission via MyMIST. Don't miss the deadline!
-    
-    [View Requirements →](/rulebook/early-submissions/)
-  </Card>
-  <Card title="Glossary" icon="information">
-    Definitions of key MIST terms like Tajweed, POI, ballot, and more.
-    
-    [View Glossary →](/glossary/)
-  </Card>
-  <Card title="PDF Downloads" icon="download">
-    Original rulebook and topic PDFs for offline reference.
-    
-    [View Downloads →](/resources/)
-  </Card>
+<CardGrid>
+  <LinkCard
+    title="Early Submissions"
+    description="9 competitions require early submission via MyMIST"
+    href="/rulebook/early-submissions/"
+  />
+  <LinkCard
+    title="Glossary"
+    description="Definitions of key MIST terms"
+    href="/glossary/"
+  />
+  <LinkCard
+    title="PDF Downloads"
+    description="Original rulebook and topic PDFs"
+    href="/resources/"
+  />
 </CardGrid>
 
 ---
