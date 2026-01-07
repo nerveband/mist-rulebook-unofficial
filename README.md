@@ -1,8 +1,8 @@
 # MIST Rulebook Unofficial
 
 Unofficial markdown copies of MIST rulebook and topic PDFs.
-Markdown files live in `mds/`.
-Source PDFs live in `pdfs/`.
+Markdown files live in `docs/mds/`.
+Source PDFs live in `docs/pdfs/`.
 
 Debate topics and key changes were copied from https://www.getmistified.com/news/2024/11/20/2025-competitions-rulebook.
 
