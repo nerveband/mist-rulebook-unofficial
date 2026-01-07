@@ -17,8 +17,8 @@ The first part of all **Round 1 questions** will highlight information **not exp
 
 ## Source Materials
 
-- **Current Events Timeline** (use scroll feature for Jan-Dec)
-- **Current Events Deaths** (use scroll feature for Jan-Dec)
+- [**Current Events Timeline**](https://en.wikipedia.org/wiki/2025) - Wikipedia (use scroll feature for Jan-Dec)
+- [**Current Events Deaths**](https://en.wikipedia.org/wiki/Deaths_in_2025#December) - Wikipedia (use scroll feature for Jan-Dec)
 
 ## What's Fair Game
 

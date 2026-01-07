@@ -15,31 +15,31 @@ This topic explores key moments in the life of the Prophet Muhammad (SAW) that s
 
 Questions will be asked from the following Dr. Yasir Qadhi lectures:
 
-1. **Seerah of Prophet Muhammed 31: Building of the First Mosques in Islam**
+1. [**Seerah of Prophet Muhammed 31: Building of the First Mosques in Islam**](https://www.youtube.com/watch?v=DtvaaYZAIH8&t=15s) (YouTube)
    - *Testable: Start to 33:45 and 42:06 to 49:43*
 
-2. **Seerah of Prophet Muhammed 34: Change of the Qiblah & Abrogation in Qur'an**
+2. [**Seerah of Prophet Muhammed 34: Change of the Qiblah & Abrogation in Qur'an**](https://youtu.be/kHdmBfZk60c?si=pEIvbn6WuK3GSdVH) (YouTube)
    - *Testable: Start to 1:08:59*
 
-3. **Seerah of Prophet Muhammad 63: Between the Battle of Khandaq & Hudaybiyya P1**
+3. [**Seerah of Prophet Muhammad 63: Between the Battle of Khandaq & Hudaybiyya P1**](https://www.youtube.com/watch?v=KoKc9ZuATao) (YouTube)
    - *Testable: Start to 50:14*
 
-4. **Seerah of Prophet Muhammad 64: The Treaty of Hudaybiyya P2**
+4. [**Seerah of Prophet Muhammad 64: The Treaty of Hudaybiyya P2**](https://www.youtube.com/watch?v=3T9ISoCbRbw) (YouTube)
    - *Testable: Start to 53:39 and 1:00:17 to 1:21:47*
 
-5. **Seerah of Prophet Muhammad 65: The Treaty of Hudaybiyya P3**
+5. [**Seerah of Prophet Muhammad 65: The Treaty of Hudaybiyya P3**](https://www.youtube.com/watch?v=XlcZj24RJ8g) (YouTube)
    - *Testable: Start to 27:22 and 30:34 to end*
 
-6. **Seerah of Prophet Muhammad 66: The Treaty of Hudaybiyya P4**
+6. [**Seerah of Prophet Muhammad 66: The Treaty of Hudaybiyya P4**](https://www.youtube.com/watch?v=6Km5XNLLMdw) (YouTube)
    - *Full video testable*
 
-7. **Seerah of Prophet Muhammad 67: The Treaty of Hudaybiyya P5**
+7. [**Seerah of Prophet Muhammad 67: The Treaty of Hudaybiyya P5**](https://youtu.be/xntLOocUCRk?si=0KoUz8SlP37N0Gjs) (YouTube)
    - *Full video testable*
 
-8. **The Political Impacts Of The Treaty Of Al-Hudaybiya** - Migration Letters
+8. [**The Political Impacts Of The Treaty Of Al-Hudaybiya**](https://migrationletters.com/index.php/ml/article/view/10557/7050) - Migration Letters (PDF)
 
 :::tip[Study Guide]
-A study guide (not exhaustive transcript) from the Yasir Qadhi podcast is available. Find assigned portions through its table of contents. Supplemental definitions clearly stated are open for testing.
+A [study guide](https://www.dropbox.com/scl/fi/x31e2rixmz2gormlzqvd7/Sh.-Dr.-YQ-s-Seerah-Transcript-All-in-One.pdf?rlkey=zk88e0vmyp0a5ay1vtr7k1rj0&e=1&st=0g2l8j97&dl=0) (not exhaustive transcript) from the Yasir Qadhi podcast is available. Find assigned portions through its table of contents. Supplemental definitions clearly stated are open for testing.
 :::
 
 ## What's Fair Game

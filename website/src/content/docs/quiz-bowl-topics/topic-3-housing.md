@@ -15,14 +15,14 @@ This topic examines how decisions about housing shape who has access to stabilit
 
 Questions will be asked from the following:
 
-1. **Housing and Inclusive Growth** - Organisation for Economic Co-operation and Development (OECD)
+1. [**Housing and Inclusive Growth**](https://www.oecd.org/content/dam/oecd/en/publications/reports/2020/09/housing-and-inclusive-growth_6034487d/6ef36f4b-en.pdf) - Organisation for Economic Co-operation and Development (OECD) (PDF)
    - *Note: Foreword and Annexes will not be covered*
 
-2. **4 Practical Solutions to The World's Spiraling Housing Crisis** - World Economic Forum (WEF)
+2. [**4 Practical Solutions to The World's Spiraling Housing Crisis**](https://www.weforum.org/stories/2024/06/global-housing-crisis-practical-solutions/) - World Economic Forum (WEF)
 
-3. **The Right to Adequate Housing** - Office of the United Nations High Commissioner for Human Rights (UN OHCHR)
+3. [**The Right to Adequate Housing**](https://www.ohchr.org/sites/default/files/Documents/Publications/FS21_rev_1_Housing_en.pdf) - Office of the United Nations High Commissioner for Human Rights (UN OHCHR) (PDF)
 
-4. **Housing Segregation and Redlining in America: A Short History** - Code Switch NPR
+4. [**Housing Segregation and Redlining in America: A Short History**](https://youtu.be/O5FBJyqfoLM?si=bH6ntJpj4HUx2qAp&t=31) - Code Switch NPR (YouTube)
    - *Testable timestamp: 0:31 to end of video*
 
 ## What's Fair Game
