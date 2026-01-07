@@ -6,7 +6,7 @@ description: Download original PDFs and find helpful MIST resources
 ## Official MIST Resources
 
 :::caution[Unofficial Resource]
-This website is an unofficial markdown version of the MIST rulebook. For official and authoritative rules, always refer to the official MIST website.
+This website is an unofficial version of the MIST rulebook. For official and authoritative rules, always refer to the official MIST website.
 :::
 
 **Official MIST Website:** [getmistified.com](https://getmistified.com)
@@ -72,7 +72,7 @@ Found an error or have a suggestion for this unofficial rulebook site?
 
 ## About This Site
 
-This unofficial markdown version of the MIST rulebook was created to make the rules more accessible and searchable.
+This unofficial version of the MIST rulebook was created to make the rules more accessible and searchable.
 
 **Maintained by:** [Ashraf Ali](https://ashrafali.net)  
 **Questions:** hello@ashrafali.net

@@ -6,7 +6,7 @@ A searchable, well-organized website version of the MIST 2026 Competition Rulebo
 
 ## About
 
-This is an **unofficial** markdown version of the MIST (Muslim Interscholastic Tournament) rulebook and competition materials. The goal is to make the rules more accessible, searchable, and easier to navigate than the original PDF documents.
+This is an **unofficial** version of the MIST (Muslim Interscholastic Tournament) rulebook and competition materials. The goal is to make the rules more accessible, searchable, and easier to navigate.
 
 **For official and authoritative rules, always refer to [getmistified.com](https://getmistified.com).**
 
