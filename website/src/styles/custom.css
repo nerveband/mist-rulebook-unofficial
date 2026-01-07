@@ -31,6 +31,46 @@
 	--sl-color-black: #ffffff;
 }
 
+/* Hero section with water theme background */
+.hero {
+	background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.6)), url('/water-theme-2026.jpg');
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	padding: 4rem 1rem !important;
+	margin: 0 !important;
+}
+
+.hero h1,
+.hero .tagline {
+	color: #ffffff !important;
+	text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.hero .sl-flex {
+	color: #ffffff;
+}
+
+/* Hero action buttons */
+.hero a.primary {
+	background-color: #ffffff !important;
+	color: #1a4a5a !important;
+	border: none !important;
+}
+
+.hero a.primary:hover {
+	background-color: #e0e0e0 !important;
+}
+
+.hero a.minimal {
+	color: #ffffff !important;
+	border-color: rgba(255, 255, 255, 0.5) !important;
+}
+
+.hero a.minimal:hover {
+	background-color: rgba(255, 255, 255, 0.1) !important;
+}
+
 /* Banner styles for homepage */
 .hero-banner {
 	background: linear-gradient(135deg, #2d6a7a, #1a4a5a);
