@@ -2,7 +2,7 @@
 
 A searchable, well-organized website version of the MIST 2026 Competition Rulebook and study materials.
 
-**Live Site:** [mist-rulebook.netlify.app](https://mist-rulebook.netlify.app) *(link will be active after deployment)*
+**Live Site:** [mist-rulebook.netlify.app](https://mist-rulebook.netlify.app)
 
 ## About
 
