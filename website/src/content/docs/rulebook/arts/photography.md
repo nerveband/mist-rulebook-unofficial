@@ -7,8 +7,10 @@ sidebar:
 
 Not only do you carry around your camera with you all the time, but you see everything as an opportunity for the perfect photo. Those other artists, yeah, they're cool - but you prefer a lens and the dark room for your creative pursuits.
 
-**Format:** In-Person  
-**Early Submission:** None
+<div class="competition-badges">
+  <span class="badge badge-format">In-Person</span>
+  <span class="badge badge-type">Individual</span>
+</div>
 
 ## On-Site Submission Requirements
 - Photograph submission

@@ -10,11 +10,11 @@ sidebar:
 
 Have you been inspired by this year's MIST theme? The prepared essay competition is perfect if you're looking for an outlet. This is your chance to be creative and persuade us on the significance of your chosen topic.
 
-| | |
-|---|---|
-| **Format** | Virtual |
-| **Type** | Individual |
-| **Early Submission** | 2 weeks prior |
+<div class="competition-badges">
+  <span class="badge badge-virtual">Virtual</span>
+  <span class="badge badge-type">Individual</span>
+  <span class="badge badge-early">Early Submission</span>
+</div>
 
 ## Registration Guidelines
 

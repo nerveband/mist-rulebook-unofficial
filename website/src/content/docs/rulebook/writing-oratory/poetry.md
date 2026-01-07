@@ -10,11 +10,11 @@ sidebar:
 
 Competitors must submit an original piece of poetry never before published within a 40-line limit. The piece must clearly relate back to the theme but also be applicable to a general audience.
 
-| | |
-|---|---|
-| **Format** | Virtual |
-| **Type** | Individual |
-| **Early Submission** | 2 weeks prior |
+<div class="competition-badges">
+  <span class="badge badge-virtual">Virtual</span>
+  <span class="badge badge-type">Individual</span>
+  <span class="badge badge-early">Early Submission</span>
+</div>
 
 ## Registration Guidelines
 

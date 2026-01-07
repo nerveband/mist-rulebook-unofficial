@@ -7,8 +7,10 @@ sidebar:
 
 You don't just love fashion, you design it! Get inspired by the MIST theme to become the next fashion phenomenon.
 
-**Format:** In-Person  
-**Early Submission:** None
+<div class="competition-badges">
+  <span class="badge badge-format">In-Person</span>
+  <span class="badge badge-type">Individual</span>
+</div>
 
 ## On-Site Submission Requirements
 - Collection Portfolio

@@ -7,8 +7,10 @@ sidebar:
 
 Think you have what it takes to be the next great sculptor? Is clay your ultimate inspiration? Show us your skills in the 3D art competition.
 
-**Format:** In-Person  
-**Early Submission:** None
+<div class="competition-badges">
+  <span class="badge badge-format">In-Person</span>
+  <span class="badge badge-type">Individual</span>
+</div>
 
 ## On-Site Submission Requirements
 - Artwork must be prepared and ready when you arrive at the tournament

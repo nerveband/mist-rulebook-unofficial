@@ -10,11 +10,11 @@ sidebar:
 
 Competitors submit an original work of fiction no longer than 10 pages that relates to the theme and can be applied to a competitor-defined target audience. Illustrations are permitted for younger intended audiences.
 
-| | |
-|---|---|
-| **Format** | Virtual |
-| **Type** | Individual |
-| **Early Submission** | 2 weeks prior |
+<div class="competition-badges">
+  <span class="badge badge-virtual">Virtual</span>
+  <span class="badge badge-type">Individual</span>
+  <span class="badge badge-early">Early Submission</span>
+</div>
 
 ## Registration Guidelines
 

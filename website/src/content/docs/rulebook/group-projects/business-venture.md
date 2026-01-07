@@ -10,11 +10,11 @@ sidebar:
 
 Create and present a business plan that addresses a real-world need while incorporating Islamic values and principles.
 
-| | |
-|---|---|
-| **Format** | In-Person |
-| **Type** | Team (3-5) |
-| **Early Submission** | 2 weeks prior |
+<div class="competition-badges">
+  <span class="badge badge-format">In-Person</span>
+  <span class="badge badge-team">Team (3-5)</span>
+  <span class="badge badge-early">Early Submission</span>
+</div>
 
 ## Registration Guidelines
 

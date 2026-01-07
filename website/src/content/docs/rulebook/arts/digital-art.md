@@ -10,11 +10,11 @@ sidebar:
 
 If you're the Photoshop or Illustrator whiz that everyone goes to for event flyers, the digital art competition is for you. Pixelate away!
 
-| | |
-|---|---|
-| **Format** | In-Person |
-| **Type** | Individual |
-| **Early Submission** | 2 weeks prior |
+<div class="competition-badges">
+  <span class="badge badge-format">In-Person</span>
+  <span class="badge badge-type">Individual</span>
+  <span class="badge badge-early">Early Submission</span>
+</div>
 
 :::note[Changed in 2026]
 Graphic Design has been renamed to Digital Art.

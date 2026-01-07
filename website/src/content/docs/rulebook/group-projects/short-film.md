@@ -10,11 +10,11 @@ sidebar:
 
 Create an original short film that tells a compelling story related to the annual MIST theme.
 
-| | |
-|---|---|
-| **Format** | In-Person |
-| **Type** | Team (2-6) |
-| **Early Submission** | 2 weeks prior |
+<div class="competition-badges">
+  <span class="badge badge-format">In-Person</span>
+  <span class="badge badge-team">Team (2-6)</span>
+  <span class="badge badge-early">Early Submission</span>
+</div>
 
 ## Registration Guidelines
 

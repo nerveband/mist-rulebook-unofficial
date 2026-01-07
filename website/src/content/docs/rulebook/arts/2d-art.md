@@ -7,11 +7,10 @@ sidebar:
 
 Are you an aspiring painter? Do you doodle more than writing notes in class? Put your inspiration on canvas with the 2D art competition!
 
-| | |
-|---|---|
-| **Format** | In-Person |
-| **Type** | Individual |
-| **Early Submission** | None |  
+<div class="competition-badges">
+  <span class="badge badge-format">In-Person</span>
+  <span class="badge badge-type">Individual</span>
+</div>  
 
 ## On-Site Submission Requirements
 - Artwork must be prepared and ready when you arrive at the tournament
