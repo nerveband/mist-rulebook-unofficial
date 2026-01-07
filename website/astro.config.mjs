@@ -7,6 +7,10 @@ export default defineConfig({
 		starlight({
 			title: 'MIST Rulebook',
 			description: 'Unofficial MIST 2026 Competition Rulebook',
+			// Force light mode only - disable dark mode
+			components: {
+				ThemeSelect: './src/components/EmptyThemeSelect.astro',
+			},
 			social: [
 				{ icon: 'external', label: 'Official MIST', href: 'https://getmistified.com' },
 			],
