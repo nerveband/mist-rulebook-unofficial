@@ -4,8 +4,8 @@ description: Rules, procedures, and rubric for MIST Digital Art competition (for
 sidebar:
   order: 4
   badge:
-    text: Early Submission
-    variant: caution
+    text: Updated
+    variant: note
 ---
 
 If you're the Photoshop or Illustrator whiz that everyone goes to for event flyers, the digital art competition is for you. Pixelate away!

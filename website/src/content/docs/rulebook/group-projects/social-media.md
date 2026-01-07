@@ -3,18 +3,15 @@ title: Social Media
 description: Rules and requirements for MIST Social Media competition
 sidebar:
   order: 6
-  badge:
-    text: Early Submission
-    variant: caution
 ---
 
 Create and execute a social media campaign that spreads positive messages related to the annual MIST theme.
 
-| | |
-|---|---|
-| **Format** | In-Person |
-| **Type** | Team (2-4) |
-| **Early Submission** | 2 weeks prior |
+<div class="competition-badges">
+  <span class="badge badge-format">In-Person</span>
+  <span class="badge badge-team">Team (2-4)</span>
+  <span class="badge badge-early">Early Submission</span>
+</div>
 
 ## Registration Guidelines
 

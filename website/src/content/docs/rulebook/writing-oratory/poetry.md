@@ -3,9 +3,6 @@ title: Poetry
 description: Rules and rubric for MIST Poetry competition
 sidebar:
   order: 4
-  badge:
-    text: Early Submission
-    variant: caution
 ---
 
 Competitors must submit an original piece of poetry never before published within a 40-line limit. The piece must clearly relate back to the theme but also be applicable to a general audience.

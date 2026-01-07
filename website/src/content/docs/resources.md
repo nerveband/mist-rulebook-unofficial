@@ -1,6 +1,6 @@
 ---
-title: Resources & PDFs
-description: Download original PDFs and find helpful MIST resources
+title: PDFs
+description: Download original PDF documents
 ---
 
 ## Official MIST Resources

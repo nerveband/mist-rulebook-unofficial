@@ -101,6 +101,11 @@
 	padding-top: 0 !important;
 }
 
+/* Prevent horizontal scrollbar from 100vw elements */
+html, body {
+	overflow-x: hidden;
+}
+
 /* Hero section with water theme background - full width */
 .hero {
 	background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.6)), url('/water-theme-2026.jpg');

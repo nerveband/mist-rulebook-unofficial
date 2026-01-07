@@ -5,12 +5,15 @@ sidebar:
   order: 2
   badge:
     text: Updated
-    variant: tip
+    variant: note
 ---
 
 Think you have what it takes for the Olympics? Earn the title of true Math Olympian in this intense battle of numbers.
 
-**Format:** In-Person (Bracket Competition)
+<div class="competition-badges">
+  <span class="badge badge-bracket">Bracket</span>
+  <span class="badge badge-team">Team (4)</span>
+</div>
 
 :::note[Changed in 2026]
 The competition now includes expanded content coverage along with supplemented practice questions to better guide student preparation.

@@ -7,8 +7,11 @@ sidebar:
 
 Compete in basketball while representing your school and demonstrating good sportsmanship.
 
-**Format:** In-Person  
-**Gender Segregated:** Yes
+<div class="competition-badges">
+  <span class="badge badge-format">In-Person</span>
+  <span class="badge badge-team">Team</span>
+  <span class="badge badge-type">Gender Segregated</span>
+</div>
 
 ## Registration Guidelines
 

@@ -4,17 +4,16 @@ description: Rules, format, and scoring for MIST Parliamentary Debate competitio
 sidebar:
   order: 1
   badge:
-    text: Bracket
+    text: Updated
     variant: note
 ---
 
 Are you great at winning arguments? Do you have the poise of a public speaker and the convincing tone of a scholar? Join debate to compete with others who are just like you.
 
-| | |
-|---|---|
-| **Format** | Bracket |
-| **Type** | Team (2) |
-| **Early Submission** | None |
+<div class="competition-badges">
+  <span class="badge badge-bracket">Bracket</span>
+  <span class="badge badge-team">Team (2)</span>
+</div>
 
 :::note[Changed in 2026]
 Updated speech times and revised rebuttal order. Standardized tie-breaker criteria introduced for use after preliminary rounds. Ballot edited to better match judging criteria structure.

@@ -7,7 +7,10 @@ sidebar:
 
 Competitors are allotted 60 minutes to compose a handwritten essay on a randomly selected topic related to the theme.
 
-**Format:** In-Person
+<div class="competition-badges">
+  <span class="badge badge-format">In-Person</span>
+  <span class="badge badge-type">Individual</span>
+</div>
 
 ## Registration Guidelines
 

@@ -7,7 +7,11 @@ sidebar:
 
 Test your recitation of the Quran in Arabic, according to Tajweed (rules of recitation). The focus is on recitation quality and Tajweed, NOT memorization.
 
-**Format:** In-Person
+<div class="competition-badges">
+  <span class="badge badge-format">In-Person</span>
+  <span class="badge badge-type">Individual</span>
+  <span class="badge badge-type">Gender Segregated</span>
+</div>
 
 ## Registration Requirements
 

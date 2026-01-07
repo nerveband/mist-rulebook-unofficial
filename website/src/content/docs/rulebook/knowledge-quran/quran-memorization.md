@@ -5,13 +5,16 @@ sidebar:
   order: 2
   badge:
     text: Updated
-    variant: tip
+    variant: note
 ---
 
 Test your memorization and recitation of the Quran in Arabic according to Tajweed (rules of recitation). Level 1 is for beginners, while Levels 2 and 3 are for more advanced competitors.
 
-**Format:** In-Person  
-**Number of Levels:** Three (3)
+<div class="competition-badges">
+  <span class="badge badge-format">In-Person</span>
+  <span class="badge badge-type">Individual</span>
+  <span class="badge badge-type">Gender Segregated</span>
+</div>
 
 ## Registration Guidelines
 

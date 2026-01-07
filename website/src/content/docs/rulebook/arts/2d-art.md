@@ -3,6 +3,9 @@ title: 2D Art
 description: Rules, procedures, and rubric for MIST 2D Art competition
 sidebar:
   order: 1
+  badge:
+    text: Updated
+    variant: note
 ---
 
 Are you an aspiring painter? Do you doodle more than writing notes in class? Put your inspiration on canvas with the 2D art competition!

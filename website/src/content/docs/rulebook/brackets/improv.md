@@ -7,8 +7,11 @@ sidebar:
 
 This competition is a fun way to display your creativity under spontaneous and timed circumstances. Each team must impress the judges in various hypothetical scenarios while under pressure to think on their feet and make the audience laugh!
 
-**Format:** In-Person (Bracket Competition)  
-**Gender Segregated:** Yes (Brothers and Sisters compete separately)
+<div class="competition-badges">
+  <span class="badge badge-bracket">Bracket</span>
+  <span class="badge badge-team">Team (4)</span>
+  <span class="badge badge-type">Gender Segregated</span>
+</div>
 
 ## Registration Guidelines
 

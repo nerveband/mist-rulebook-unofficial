@@ -5,13 +5,15 @@ sidebar:
   order: 3
   badge:
     text: Updated
-    variant: tip
+    variant: note
 ---
 
 Competitors present a memorized original oration within a seven (7) minute period. The oration must relate back to the theme but also be applicable to a general audience.
 
-**Format:** In-Person  
-**Early Submission:** None
+<div class="competition-badges">
+  <span class="badge badge-format">In-Person</span>
+  <span class="badge badge-type">Individual</span>
+</div>
 
 :::note[Changed in 2026]
 Memorization is now an officially scored component within the rubric.

@@ -5,12 +5,15 @@ sidebar:
   order: 2
   badge:
     text: Updated
-    variant: tip
+    variant: note
 ---
 
 The art of extemporaneous speaking is for those who can always make conversation. Delivering a coherent, engaging, and moving speech is easy enough, right? Now try doing that on the spot with only 30 minutes of preparation!
 
-**Format:** In-Person
+<div class="competition-badges">
+  <span class="badge badge-format">In-Person</span>
+  <span class="badge badge-type">Individual</span>
+</div>
 
 :::note[Changed in 2026]
 Preparation time has been adjusted to 30 minutes to support stronger research and performance readiness.

@@ -4,17 +4,17 @@ description: Rules and requirements for MIST Humanitarian Service competition
 sidebar:
   order: 2
   badge:
-    text: Early Submission
-    variant: caution
+    text: Updated
+    variant: note
 ---
 
 Design and execute a humanitarian service project that addresses a real need in your community while incorporating Islamic principles of charity and service.
 
-| | |
-|---|---|
-| **Format** | In-Person |
-| **Type** | Team (3-8) |
-| **Early Submission** | 2 weeks prior |
+<div class="competition-badges">
+  <span class="badge badge-format">In-Person</span>
+  <span class="badge badge-team">Team (3-8)</span>
+  <span class="badge badge-early">Early Submission</span>
+</div>
 
 :::note[Changed in 2026]
 - Now partnered with HHRD instead of IRUSA

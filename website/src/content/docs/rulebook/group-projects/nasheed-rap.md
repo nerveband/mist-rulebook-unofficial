@@ -7,8 +7,11 @@ sidebar:
 
 Perform an original nasheed or rap that reflects Islamic values and connects to the annual theme.
 
-**Format:** In-Person  
-**Gender Segregated:** Yes
+<div class="competition-badges">
+  <span class="badge badge-format">In-Person</span>
+  <span class="badge badge-team">Team (3-6)</span>
+  <span class="badge badge-type">Gender Segregated</span>
+</div>
 
 ## Registration Guidelines
 

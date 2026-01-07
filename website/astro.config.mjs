@@ -26,8 +26,8 @@ export default defineConfig({
 			],
 			sidebar: [
 				{ label: 'Home', link: '/' },
-				{ 
-					label: "What's New in 2026", 
+				{
+					label: "What's New in 2026",
 					link: '/changes/2026/',
 					badge: { text: 'New', variant: 'tip' },
 				},
@@ -40,46 +40,51 @@ export default defineConfig({
 					],
 				},
 				{
+					label: 'Resources',
+					items: [
+						{ label: 'Knowledge Test Books', link: '/knowledge-test-books/' },
+						{
+							label: 'Quiz Bowl Topics',
+							autogenerate: { directory: 'quiz-bowl-topics' },
+						},
+						{ label: 'Debate Topics', link: '/debate-topics/' },
+						{ label: 'Glossary', link: '/glossary/' },
+						{ label: 'PDFs', link: '/resources/' },
+					],
+				},
+				{
 					label: 'Rulebook',
 					items: [
 						{ label: 'Theme & Honor Code', link: '/rulebook/theme-honor-code/' },
 						{ label: 'Tournament Guidelines', link: '/rulebook/tournament-guidelines/' },
 						{ label: 'Competitor Guidelines', link: '/rulebook/competitor-guidelines/' },
 						{ label: 'Early Submissions', link: '/rulebook/early-submissions/' },
-						{ 
-							label: 'Knowledge & Quran', 
+						{
+							label: 'Knowledge & Quran',
 							autogenerate: { directory: 'rulebook/knowledge-quran' },
 						},
-						{ 
-							label: 'Arts', 
+						{
+							label: 'Arts',
 							autogenerate: { directory: 'rulebook/arts' },
 						},
-						{ 
-							label: 'Writing & Oratory', 
+						{
+							label: 'Writing & Oratory',
 							autogenerate: { directory: 'rulebook/writing-oratory' },
 						},
-						{ 
-							label: 'Brackets', 
+						{
+							label: 'Brackets',
 							autogenerate: { directory: 'rulebook/brackets' },
 						},
-						{ 
-							label: 'Group Projects', 
+						{
+							label: 'Group Projects',
 							autogenerate: { directory: 'rulebook/group-projects' },
 						},
-						{ 
-							label: 'Sports', 
+						{
+							label: 'Sports',
 							autogenerate: { directory: 'rulebook/sports' },
 						},
 					],
 				},
-				{ 
-					label: 'Quiz Bowl Topics', 
-					autogenerate: { directory: 'quiz-bowl-topics' },
-				},
-				{ label: 'Debate Topics', link: '/debate-topics/' },
-				{ label: 'Knowledge Test Books', link: '/knowledge-test-books/' },
-				{ label: 'Glossary', link: '/glossary/' },
-				{ label: 'Resources & PDFs', link: '/resources/' },
 			],
 		}),
 	],

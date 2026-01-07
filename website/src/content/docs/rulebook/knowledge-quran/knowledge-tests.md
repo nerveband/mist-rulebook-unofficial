@@ -5,13 +5,15 @@ sidebar:
   order: 1
   badge:
     text: Updated
-    variant: tip
+    variant: note
 ---
 
 Read one of four books and take a test on it. The test is comprised of a set of multiple choice questions to judge reading comprehension and analytical abilities.
 
-**Format:** In Person  
-**Number of Tests:** 4
+<div class="competition-badges">
+  <span class="badge badge-format">In-Person</span>
+  <span class="badge badge-type">Individual</span>
+</div>
 
 Knowledge Test books will be made available on the MIST National's website: [getmistified.com/rulebook](https://www.getmistified.com/rulebook)
 

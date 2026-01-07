@@ -3,9 +3,6 @@ title: Short Film
 description: Rules and requirements for MIST Short Film competition
 sidebar:
   order: 5
-  badge:
-    text: Early Submission
-    variant: caution
 ---
 
 Create an original short film that tells a compelling story related to the annual MIST theme.

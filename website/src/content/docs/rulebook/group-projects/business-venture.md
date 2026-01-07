@@ -3,9 +3,6 @@ title: Business Venture
 description: Rules and requirements for MIST Business Venture competition
 sidebar:
   order: 1
-  badge:
-    text: Early Submission
-    variant: caution
 ---
 
 Create and present a business plan that addresses a real-world need while incorporating Islamic values and principles.

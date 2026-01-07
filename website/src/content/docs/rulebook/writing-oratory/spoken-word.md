@@ -5,12 +5,15 @@ sidebar:
   order: 7
   badge:
     text: Updated
-    variant: tip
+    variant: note
 ---
 
 If you're more of the performer type of poet, then spoken word is for you! Here's your chance to convey your passion and originality, all while inspiring those around you.
 
-**Format:** In-Person
+<div class="competition-badges">
+  <span class="badge badge-format">In-Person</span>
+  <span class="badge badge-type">Individual</span>
+</div>
 
 :::note[Changed in 2026]
 Memorization is now an officially scored component within the rubric.

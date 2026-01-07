@@ -5,12 +5,15 @@ sidebar:
   order: 3
   badge:
     text: Updated
-    variant: tip
+    variant: note
 ---
 
 Do you get an adrenaline rush at knowing the answer to any question asked? Are you a memorization whiz? Then MIST Quiz Bowl is the competition for you!
 
-**Format:** In-Person (Bracket Competition)
+<div class="competition-badges">
+  <span class="badge badge-bracket">Bracket</span>
+  <span class="badge badge-team">Team (4)</span>
+</div>
 
 :::note[Changed in 2026]
 - Round 1 now focuses exclusively on current events with toss-up questions in a revised structure
