@@ -1,0 +1,56 @@
+---
+title: "Topic 3: Housing Inequality"
+description: "MIST Quiz Bowl Topic 3 - Where The Lines Are Drawn"
+sidebar:
+  order: 3
+---
+
+## Where The Lines Are Drawn: Housing and the Map of Inequality
+
+This topic examines how decisions about housing shape who has access to stability, opportunity, and security. Through a combination of reporting, human rights frameworks, and economic analysis, the materials examine how housing policies, markets, and systems of governance influence where and how people live.
+
+**Goal:** Consider how boundaries around housing are created, reinforced, and challenged, and what these lines reveal about inequality, belonging, and power within societies.
+
+## Source Materials
+
+Questions will be asked from the following:
+
+1. **Housing and Inclusive Growth** - Organisation for Economic Co-operation and Development (OECD)
+   - *Note: Foreword and Annexes will not be covered*
+
+2. **4 Practical Solutions to The World's Spiraling Housing Crisis** - World Economic Forum (WEF)
+
+3. **The Right to Adequate Housing** - Office of the United Nations High Commissioner for Human Rights (UN OHCHR)
+
+4. **Housing Segregation and Redlining in America: A Short History** - Code Switch NPR
+   - *Testable timestamp: 0:31 to end of video*
+
+## What's Fair Game
+
+All information in the materials is testable, including:
+- Graph/figure content (labels, numbers, statistics)
+- Dates
+- Numbers and statistics
+- Names and backgrounds of speakers or individuals mentioned
+- Definitions for key terms
+
+:::note
+References within the materials do not need to be memorized.
+:::
+
+## Key Themes to Study
+
+- Redlining and its historical impact
+- Fair Housing Act of 1968
+- Housing as a human right
+- Connection between housing and:
+  - Wealth inequality
+  - School funding
+  - Health outcomes
+  - Policing
+- Global housing crisis solutions
+- HOLC residential security maps
+
+## Contact
+
+For questions about the materials: hkhattak@getmistified.com

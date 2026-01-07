@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+
+# Build output
+website/dist/
+website/.astro/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Logs
+*.log
+npm-debug.log*
+
+# Netlify
+.netlify/
