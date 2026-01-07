@@ -77,6 +77,7 @@ export default defineConfig({
 					autogenerate: { directory: 'quiz-bowl-topics' },
 				},
 				{ label: 'Debate Topics', link: '/debate-topics/' },
+				{ label: 'Knowledge Test Books', link: '/knowledge-test-books/' },
 				{ label: 'Glossary', link: '/glossary/' },
 				{ label: 'Resources & PDFs', link: '/resources/' },
 			],

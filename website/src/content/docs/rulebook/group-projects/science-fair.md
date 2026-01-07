@@ -3,12 +3,18 @@ title: Science Fair
 description: Rules and requirements for MIST Science Fair competition
 sidebar:
   order: 4
+  badge:
+    text: Early Submission
+    variant: caution
 ---
 
 Present a scientific research project or experiment that demonstrates inquiry, methodology, and connection to Islamic principles of seeking knowledge.
 
-**Format:** In-Person  
-**Early Submission:** Science Fair Abstract (2 weeks prior)
+| | |
+|---|---|
+| **Format** | In-Person |
+| **Type** | Team (1-3) |
+| **Early Submission** | 2 weeks prior |
 
 ## Registration Guidelines
 

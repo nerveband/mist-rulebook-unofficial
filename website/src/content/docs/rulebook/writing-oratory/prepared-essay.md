@@ -3,12 +3,18 @@ title: Prepared Essay
 description: Rules and rubric for MIST Prepared Essay competition
 sidebar:
   order: 5
+  badge:
+    text: Early Submission
+    variant: caution
 ---
 
 Have you been inspired by this year's MIST theme? The prepared essay competition is perfect if you're looking for an outlet. This is your chance to be creative and persuade us on the significance of your chosen topic.
 
-**Format:** Online (Virtual)  
-**Early Submission:** 2 weeks before Regional Tournament
+| | |
+|---|---|
+| **Format** | Virtual |
+| **Type** | Individual |
+| **Early Submission** | 2 weeks prior |
 
 ## Registration Guidelines
 

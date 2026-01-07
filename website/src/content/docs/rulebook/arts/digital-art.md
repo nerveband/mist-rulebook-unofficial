@@ -4,14 +4,17 @@ description: Rules, procedures, and rubric for MIST Digital Art competition (for
 sidebar:
   order: 4
   badge:
-    text: Renamed
-    variant: note
+    text: Early Submission
+    variant: caution
 ---
 
 If you're the Photoshop or Illustrator whiz that everyone goes to for event flyers, the digital art competition is for you. Pixelate away!
 
-**Format:** In-Person  
-**Early Submission:** Two weeks prior to tournament
+| | |
+|---|---|
+| **Format** | In-Person |
+| **Type** | Individual |
+| **Early Submission** | 2 weeks prior |
 
 :::note[Changed in 2026]
 Graphic Design has been renamed to Digital Art.

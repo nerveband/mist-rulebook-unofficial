@@ -1,21 +1,21 @@
 /* MIST Rulebook Custom Styles */
 
-/* Unofficial Banner - shows on first visit until dismissed */
+/* Unofficial Banner - subtle, bottom of page */
 #unofficial-banner {
 	position: fixed;
-	top: 0;
+	bottom: 0;
 	left: 0;
 	right: 0;
 	z-index: 9999;
-	background: #b91c1c;
-	color: #ffffff;
-	padding: 0.5rem 1rem;
+	background: rgba(0, 0, 0, 0.85);
+	color: #d1d5db;
+	padding: 0.625rem 1rem;
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	gap: 1rem;
-	font-size: 0.875rem;
-	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+	gap: 0.75rem;
+	font-size: 0.8125rem;
+	backdrop-filter: blur(4px);
 }
 
 #unofficial-banner p {
@@ -24,32 +24,40 @@
 }
 
 #unofficial-banner a {
-	color: #fecaca;
+	color: #93c5fd;
 	text-decoration: underline;
 }
 
 #unofficial-banner a:hover {
-	color: #ffffff;
+	color: #bfdbfe;
 }
 
 #unofficial-banner button {
-	background: transparent;
-	border: none;
-	color: #ffffff;
-	font-size: 1.5rem;
+	background: rgba(255, 255, 255, 0.1);
+	border: 1px solid rgba(255, 255, 255, 0.2);
+	border-radius: 4px;
+	color: #d1d5db;
+	font-size: 0.75rem;
 	cursor: pointer;
-	padding: 0 0.5rem;
+	padding: 0.25rem 0.5rem;
 	line-height: 1;
-	opacity: 0.8;
 }
 
 #unofficial-banner button:hover {
-	opacity: 1;
+	background: rgba(255, 255, 255, 0.2);
+	color: #ffffff;
 }
 
-/* Add padding to body when banner is visible */
-body.has-banner {
-	padding-top: 2.5rem !important;
+@media (max-width: 600px) {
+	#unofficial-banner {
+		flex-direction: column;
+		gap: 0.5rem;
+		padding: 0.75rem 1rem;
+	}
+	
+	#unofficial-banner p {
+		font-size: 0.75rem;
+	}
 }
 
 /* Dark mode colors (default in Starlight) */
@@ -175,6 +183,130 @@ body.has-banner {
 
 :root[data-theme='light'] .early-note {
 	color: var(--sl-color-gray-4);
+}
+
+/* GitHub link styling */
+.github-link {
+	text-align: center;
+	margin-top: 2rem;
+	font-size: 0.875rem;
+}
+
+.github-link a {
+	display: inline-flex;
+	align-items: center;
+	gap: 0.5rem;
+	color: var(--sl-color-gray-3);
+	text-decoration: none;
+	padding: 0.5rem 1rem;
+	border: 1px solid var(--sl-color-gray-5);
+	border-radius: 6px;
+	transition: all 0.2s ease;
+}
+
+.github-link a:hover {
+	color: var(--sl-color-accent);
+	border-color: var(--sl-color-accent);
+	background: var(--sl-color-accent-low);
+}
+
+:root[data-theme='light'] .github-link a {
+	color: var(--sl-color-gray-4);
+	border-color: var(--sl-color-gray-5);
+}
+
+:root[data-theme='light'] .github-link a:hover {
+	color: var(--sl-color-accent);
+	border-color: var(--sl-color-accent);
+}
+
+/* Book cards for Knowledge Test Books page */
+.book-grid {
+	display: flex;
+	flex-direction: column;
+	gap: 2rem;
+	margin: 2rem 0;
+}
+
+.book-card {
+	display: flex;
+	gap: 1.5rem;
+	padding: 1.5rem;
+	background: var(--sl-color-gray-6);
+	border-radius: 12px;
+	border: 1px solid var(--sl-color-gray-5);
+}
+
+:root[data-theme='light'] .book-card {
+	background: var(--sl-color-gray-7);
+	border-color: var(--sl-color-gray-5);
+}
+
+.book-cover {
+	width: 120px;
+	height: auto;
+	border-radius: 6px;
+	box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+	flex-shrink: 0;
+}
+
+.book-info {
+	flex: 1;
+}
+
+.book-info h3 {
+	margin: 0 0 0.25rem 0;
+	font-size: 1.25rem;
+	color: var(--sl-color-white);
+}
+
+.book-subtitle {
+	margin: 0 0 0.5rem 0;
+	font-size: 0.9rem;
+	color: var(--sl-color-gray-2);
+	font-style: italic;
+}
+
+.book-author {
+	margin: 0 0 0.75rem 0;
+	font-size: 0.9rem;
+	color: var(--sl-color-accent-high);
+	font-weight: 500;
+}
+
+.book-description {
+	margin: 0 0 1rem 0;
+	font-size: 0.9rem;
+	color: var(--sl-color-gray-2);
+	line-height: 1.5;
+}
+
+.book-link {
+	display: inline-block;
+	padding: 0.5rem 1rem;
+	background: var(--sl-color-accent);
+	color: #ffffff !important;
+	text-decoration: none;
+	border-radius: 6px;
+	font-size: 0.875rem;
+	font-weight: 500;
+	transition: background 0.2s ease;
+}
+
+.book-link:hover {
+	background: var(--sl-color-accent-high);
+}
+
+@media (max-width: 600px) {
+	.book-card {
+		flex-direction: column;
+		align-items: center;
+		text-align: center;
+	}
+	
+	.book-cover {
+		width: 150px;
+	}
 }
 
 /* Print styles */

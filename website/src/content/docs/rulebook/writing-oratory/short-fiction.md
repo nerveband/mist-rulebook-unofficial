@@ -3,12 +3,18 @@ title: Short Fiction
 description: Rules and rubric for MIST Short Fiction competition
 sidebar:
   order: 6
+  badge:
+    text: Early Submission
+    variant: caution
 ---
 
 Competitors submit an original work of fiction no longer than 10 pages that relates to the theme and can be applied to a competitor-defined target audience. Illustrations are permitted for younger intended audiences.
 
-**Format:** Online (Virtual)  
-**Early Submission:** 2 weeks before Regional Tournament
+| | |
+|---|---|
+| **Format** | Virtual |
+| **Type** | Individual |
+| **Early Submission** | 2 weeks prior |
 
 ## Registration Guidelines
 
