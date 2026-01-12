@@ -1,0 +1,159 @@
+---
+title: Photography
+description: Rules, procedures, and rubric for MIST Photography competition
+sidebar:
+  order: 5
+---
+
+import { Aside, Steps, LinkButton } from '@astrojs/starlight/components';
+import { OFFICIAL_RULEBOOK_URL } from '../../../../consts';
+import InteractiveBallot from '../../../../components/InteractiveBallot.astro';
+
+<div class="competition-badges">
+  <span class="badge badge-format">In-Person</span>
+  <span class="badge badge-type">Individual</span>
+</div>
+
+<LinkButton href={`${OFFICIAL_RULEBOOK_URL}#page=33`} target="_blank" icon="external" variant="secondary">
+  View Official PDF (Page 33)
+</LinkButton>
+
+Showcase your photography skills with a portfolio that reflects this year's theme through a coherent visual narrative.
+
+## Format
+In-Person
+
+## Submission Requirements
+
+**On-Site:**
+- Photography Portfolio (3-5 photographs)
+- Written artist statement (500 words maximum)
+
+**Early Submission:** None
+
+## Registration Guidelines
+
+1. No more than **four (4) students** from each school can register.
+2. This competition is **NOT** a team effort. Each competitor must turn in separate work.
+
+## Procedure
+
+<Steps>
+
+1. All artwork must be labeled with **MIST ID ONLY**.
+   - Competitor name must not appear anywhere.
+
+2. Submit **3-5 photographs** with a coherent theme or style to showcase your skill.
+
+3. Pictures must reflect on this year's **theme** and can be of any inanimate OR animate object.
+
+4. All work must be the competitor's own from beginning to end, including taking the pictures.
+
+5. Pictures must be taken **exclusively for this competition** (no previous years).
+
+6. Photographs may **NOT be digitally modified** beyond standard optimization:
+   - Dust removal
+   - Cropping
+   - Minor exposure, color, and contrast adjustments
+
+7. Each participant interviewed for **5 minutes** to describe purpose and inspiration.
+
+8. If more than **15 entries**, only the top 15 (based on artwork and written statement) will be interviewed.
+   - Open gallery preliminary judging round first.
+   - Top 15 get 5-minute interview with Judges' Panel.
+
+9. Include a written statement **(500 words max.)** explaining your artwork, inspiration, and answers to interview questions.
+
+10. Competitors judged according to the Photography Competition Ballot.
+
+</Steps>
+
+<Aside type="note" title="Important">
+The written statement is an integral component of qualifying for an interview in the top fifteen.
+</Aside>
+
+## Checklist
+
+- [ ] Photography portfolio (3-5 photos with coherent theme)
+- [ ] Written statement based on interview questions (Section D)
+- [ ] Both submission and statement labeled with MIST ID and competition name
+
+## Interview Questions
+
+Judges will ask:
+
+1. How did you aim to convey this year's theme in your work? In what ways does your artwork represent your individual point of view, imagination, creativity, and individuality?
+2. Explain your purpose in developing this artwork and describe how you achieved that goal. Describe any influences from art history, artists, or art periods or styles.
+3. What elements or principles of art did you use, and how did you select and organize the visual aspects of this work?
+
+---
+
+## Interactive Scoring Ballot
+
+<InteractiveBallot 
+  criteria={[
+    {
+      name: "Technical",
+      section: "Section A: Technical (5 points)",
+      max: 5,
+      items: [
+        "Participant is on time for interview",
+        "Participant looks credible and dressed for interview",
+        "Submission meets formatting guidelines"
+      ]
+    },
+    {
+      name: "Purpose",
+      section: "Section B: Production Quality (30 points)",
+      max: 15,
+      items: [
+        "Evidence of effort to achieve stated purpose",
+        "Artwork clearly communicates a story or statement",
+        "Work integrates expression, organization, technique, and MIST's theme"
+      ]
+    },
+    {
+      name: "Skills and Technique",
+      section: "Section B: Production Quality (30 points)",
+      max: 15,
+      items: [
+        "Media selection effectively enhances design",
+        "Superior level of skills in production",
+        "Design required time and patience"
+      ]
+    },
+    {
+      name: "Aesthetics and Design",
+      section: "Section C: Presentation Quality (40 points)",
+      max: 20,
+      items: [
+        "Visual balance, composition, and layout enhance beauty",
+        "Recognizable center of interest relating to theme",
+        "Colors enhance or complement subject matter",
+        "Effective use of elements and principles of art",
+        "Artwork makes visual impact as a complete work"
+      ]
+    },
+    {
+      name: "Creativity",
+      section: "Section C: Presentation Quality (40 points)",
+      max: 20,
+      items: [
+        "Expression is unique and fully developed",
+        "Work breaks new ground in communicating the message"
+      ]
+    },
+    {
+      name: "Application of Theme",
+      section: "Section D: Application of Theme (25 points)",
+      max: 25,
+      items: [
+        "Strong, clearly evident relevance to the theme",
+        "Theme expressed in unique or outstanding way",
+        "Purpose clearly articulated with evidence of reflection/research",
+        "Elements and principles clearly articulated with careful selection"
+      ]
+    }
+  ]}
+  totalMax={100}
+/>

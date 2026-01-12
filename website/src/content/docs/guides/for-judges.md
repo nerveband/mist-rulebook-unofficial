@@ -48,9 +48,9 @@ Most competitions use a **100-point scale** with sections:
 
 | Competition | Time Limit | Grace Period |
 |-------------|-----------|--------------|
-| Extemporaneous Speaking | 7 min | 30 sec |
-| Original Oratory | 7 min | 30 sec |
-| Spoken Word | 6 min | None specified |
+| [Extemporaneous Speaking](/rulebook/writing-oratory/extemporaneous-speaking/) | 7 min | 30 sec |
+| [Original Oratory](/rulebook/writing-oratory/original-oratory/) | 7 min | 30 sec |
+| [Spoken Word](/rulebook/writing-oratory/spoken-word/) | 6 min | None specified |
 
 ### Time Signals
 - **Must provide time signals** when requested by competitor
@@ -62,7 +62,7 @@ Most competitions use a **100-point scale** with sections:
 
 ## Ballot Overview by Competition Type
 
-### Arts Competitions (2D, 3D, Digital, Fashion, Photography)
+### Arts Competitions ([2D](/rulebook/arts/2d-art/), [3D](/rulebook/arts/3d-art/), [Digital](/rulebook/arts/digital-art/), [Fashion](/rulebook/arts/fashion-design/), [Photography](/rulebook/arts/photography/))
 - Section A: Technical (5 pts)
 - Section B: Production Quality (30 pts)
 - Section C: Presentation Quality (40 pts)
@@ -70,25 +70,25 @@ Most competitions use a **100-point scale** with sections:
 
 **Note**: Pre-interview scoring cap at 80 points. Only top 15 interviewed can score above 80.
 
-### Oratory Competitions (Extemp Speaking, Original Oratory)
+### Oratory Competitions ([Extemp Speaking](/rulebook/writing-oratory/extemporaneous-speaking/), [Original Oratory](/rulebook/writing-oratory/original-oratory/))
 - Section A: Technical (10 pts)
 - Section B: Content - Intro/Body/Conclusion (35 pts)
 - Section C: Presentation - Analysis/Delivery/Language (45 pts)
 - Section D: Overall Experience (10 pts)
 
-### Writing Competitions (Poetry, Prepared Essay, Short Fiction)
+### Writing Competitions ([Poetry](/rulebook/writing-oratory/poetry/), [Prepared Essay](/rulebook/writing-oratory/prepared-essay/), [Short Fiction](/rulebook/writing-oratory/short-fiction/))
 - Section A: Technical/Conventions (5-10 pts)
 - Section B: Content/Ideas/Organization (40-50 pts)
 - Section C: Style - Word Choice/Voice (25-35 pts)
 - Section D: Theme Application (15-25 pts)
 
 ### Quran Competitions
-**Memorization:**
+**[Memorization](/rulebook/knowledge-quran/quran-memorization/):**
 - 3 passages scored
 - Memorization + Pronunciation per passage
 - Point deductions for mistakes and prompting
 
-**Recitation:**
+**[Recitation](/rulebook/knowledge-quran/quran-recitation/):**
 - 3 passages scored
 - Recitation + Tajweed per passage
 - Tajweed knowledge questions (10 pts)

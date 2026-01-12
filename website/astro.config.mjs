@@ -1,12 +1,22 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
+import mermaid from 'astro-mermaid';
+import starlightScrollToTop from 'starlight-scroll-to-top';
+import starlightSidebarSwipe from 'starlight-sidebar-swipe';
+import starlightVideos from 'starlight-videos';
 
 export default defineConfig({
 	integrations: [
+		mermaid(),
 		starlight({
 			title: 'MIST Rulebook',
 			description: 'Unofficial MIST 2026 Competition Rulebook',
+			plugins: [
+				starlightScrollToTop(),
+				starlightSidebarSwipe(),
+				starlightVideos(),
+			],
 			components: {
 				Head: './src/components/Head.astro',
 			},

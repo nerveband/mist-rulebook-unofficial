@@ -67,6 +67,10 @@ Whole ayahs in the Qur'an will not be tested. References do not need to be memor
   - Reactions of the Companions
   - Political and spiritual significance
 
+## Competition Rules
+
+See the [Quiz Bowl](/rulebook/brackets/quiz-bowl/) page for full competition rules and scoring.
+
 ## Contact
 
 For questions about the materials: hkhattak@getmistified.com

@@ -1,0 +1,173 @@
+---
+title: Prepared Essay
+description: Rules, procedures, and rubric for MIST Prepared Essay competition
+sidebar:
+  order: 5
+---
+
+import { Aside, Steps, LinkButton } from '@astrojs/starlight/components';
+import { OFFICIAL_RULEBOOK_URL } from '../../../../consts';
+import InteractiveBallot from '../../../../components/InteractiveBallot.astro';
+
+<div class="competition-badges">
+  <span class="badge badge-virtual">Virtual</span>
+  <span class="badge badge-type">Individual</span>
+  <span class="badge badge-early">Early Submission</span>
+</div>
+
+<LinkButton href={`${OFFICIAL_RULEBOOK_URL}#page=51`} target="_blank" icon="external" variant="secondary">
+  View Official PDF (Page 51)
+</LinkButton>
+
+Have you been inspired by this year's MIST theme? The prepared essay competition is perfect if you're looking for an outlet. This is your chance to be creative and persuade us on the significance of your chosen topic. Share the passion!
+
+## Format
+Virtual (Online)
+
+## Early Submission Requirements
+
+- Competitors must submit their Prepared Essay **2 weeks before** the Regional Tournament via MyMIST.
+
+## Registration Guidelines
+
+1. A limit of **two (2) students** from each team may register for this competition.
+2. Each student competes **individually** — collaboration is not permitted.
+
+## Procedure
+
+<Steps>
+
+1. Competitors shall write about any topic that reflects this year's **theme**.
+   - The topic must refer to authentic sources of Islamic knowledge and historical facts.
+   - Examples: stories from trusted scholars or reliable Islamic institutions (e.g., Yaqeen Institute).
+
+2. The essay must be typed and **double-spaced** on white, 8.5 × 11 paper.
+
+3. The essay **MUST have a cover page** with title and MIST ID only.
+   - Competitor's name must not appear anywhere on the submission.
+
+4. If outside sources are used, include proper **MLA citations** and a "Works Cited" page.
+
+5. **No AI permitted** — usage is grounds for point loss and/or disqualification.
+
+6. A **PDF copy** must be submitted via MyMIST 2 weeks before the Regional Tournament.
+   - Late submissions result in point deduction.
+   - Your region may have different deadlines — contact Regional Competitions HQ.
+
+7. This is an **entirely virtual competition** — no copy required at tournament.
+   - Entries should be typed in black ink only.
+
+8. Essay length: minimum **1,500 words**, maximum **2,000 words**.
+   - All abbreviations and articles (excluding a, an, the) will be counted.
+   - Only the first 2,000 countable words will be read.
+
+9. Competitors will be judged according to the Prepared Essay Ballot.
+
+</Steps>
+
+## Checklist
+
+- [ ] PDF copy of essay on MyMIST (2 weeks prior)
+- [ ] Written statement based on interview questions (Section D)
+- [ ] Cover page with title and MIST ID only
+- [ ] Works Cited page if using outside sources
+- [ ] Labeled with MIST ID and competition name
+
+---
+
+## Interactive Scoring Ballot
+
+<InteractiveBallot 
+  criteria={[
+    {
+      name: "Conventions",
+      section: "Section A: Technical (10 points)",
+      max: 5,
+      items: [
+        "Is the essay mostly free of spelling mistakes?",
+        "Is the essay mostly free of grammatical mistakes?",
+        "Is the essay mostly free of punctuation mistakes?"
+      ]
+    },
+    {
+      name: "Presentation",
+      section: "Section A: Technical (10 points)",
+      max: 5,
+      items: [
+        "Is the essay typed?",
+        "Is the essay double-spaced with 12pt font?",
+        "Does the essay have a cover page with title and MIST ID only?",
+        "Is the essay between 1,500-2,000 words?",
+        "Are quotes given due credit?"
+      ]
+    },
+    {
+      name: "Ideas and Development",
+      section: "Section B: Content (60 points)",
+      max: 25,
+      items: [
+        "Did the writer address the topic with sufficient detail?",
+        "Did the writer take a unique approach?",
+        "Did the writer stay on topic throughout?",
+        "Did the writer use a balance of showing and telling?",
+        "Was the theme or message clear to the reader?",
+        "Was outside information used and cited?"
+      ]
+    },
+    {
+      name: "Organization",
+      section: "Section B: Content (60 points)",
+      max: 25,
+      items: [
+        "Did the introduction include a unique start, clear thesis, and concise controls?",
+        "Was there adequate support for each control point?",
+        "Does the title represent the entire essay?",
+        "Did the conclusion link back to the introduction and leave a lasting impression?"
+      ]
+    },
+    {
+      name: "Sentence Fluency",
+      section: "Section B: Content (60 points)",
+      max: 10,
+      items: [
+        "Did the writer vary sentence types (simple and complex)?",
+        "Do most sentences begin with different words?",
+        "When read aloud, is there rhythm?",
+        "Was there a logical progression of ideas?"
+      ]
+    },
+    {
+      name: "Word Choice",
+      section: "Section C: Style (15 points)",
+      max: 10,
+      items: [
+        "Did the writer use thoughtful adjectives to create imagery?",
+        "Did the writer use strong action verbs?",
+        "Did the writer use precise nouns?",
+        "Did word usage create color and texture? Did the writer take risks?"
+      ]
+    },
+    {
+      name: "Voice",
+      section: "Section C: Style (15 points)",
+      max: 5,
+      items: [
+        "Does the reader sense passion about the topic?",
+        "Is the tone natural and consistent?",
+        "Does the writer capture a mood with their words?"
+      ]
+    },
+    {
+      name: "Application of Theme",
+      section: "Section D: Application of Theme (15 points)",
+      max: 15,
+      items: [
+        "Strong, clearly evident relevance to the theme",
+        "Theme expressed in a unique or outstanding way",
+        "Purpose and inspiration clearly articulated with evidence of reflection/research",
+        "Essay easily understandable for Muslim and non-Muslim alike"
+      ]
+    }
+  ]}
+  totalMax={100}
+/>

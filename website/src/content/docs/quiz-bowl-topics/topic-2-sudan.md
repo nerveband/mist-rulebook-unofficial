@@ -44,6 +44,10 @@ References within the materials do not need to be memorized.
 - Humanitarian crisis and displacement
 - International response and aid challenges
 
+## Competition Rules
+
+See the [Quiz Bowl](/rulebook/brackets/quiz-bowl/) page for full competition rules and scoring.
+
 ## Contact
 
 For questions about the materials: hkhattak@getmistified.com

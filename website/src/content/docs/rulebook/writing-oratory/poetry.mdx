@@ -1,0 +1,168 @@
+---
+title: Poetry
+description: Rules, procedures, and rubric for MIST Poetry competition
+sidebar:
+  order: 4
+---
+
+import { Aside, Steps, LinkButton } from '@astrojs/starlight/components';
+import { OFFICIAL_RULEBOOK_URL } from '../../../../consts';
+import InteractiveBallot from '../../../../components/InteractiveBallot.astro';
+
+<div class="competition-badges">
+  <span class="badge badge-virtual">Virtual</span>
+  <span class="badge badge-type">Individual</span>
+  <span class="badge badge-early">Early Submission</span>
+</div>
+
+<LinkButton href={`${OFFICIAL_RULEBOOK_URL}#page=47`} target="_blank" icon="external" variant="secondary">
+  View Official PDF (Page 47)
+</LinkButton>
+
+Competitors must submit an original piece of poetry never before published within a 40-line limit. The piece must clearly relate back to the theme but also be applicable to a general audience.
+
+## Format
+Virtual (Online)
+
+## Early Submission Requirements
+
+- Competitors must submit their Poetry piece **2 weeks before** the Regional Tournament via MyMIST.
+
+## Registration Guidelines
+
+1. A limit of **two (2) students** from each team may register for this competition.
+2. Each student competes **individually** — collaboration is not permitted.
+
+## Procedure
+
+<Steps>
+
+1. Poetry must clearly reflect upon any aspect of this year's **theme**.
+
+2. Submissions must be labeled with **MIST ID and title only**.
+   - Competitor's name must not appear anywhere on the work.
+
+3. Competitors may incorporate any style or genre: rhymed, lyric, dramatic, narrative, or free verse.
+
+4. **No AI permitted** — usage is grounds for point loss and/or disqualification.
+
+5. All poems must have a **title** and not exceed **40 lines** (excluding title).
+
+6. Poems must be the **original work** of the entrant.
+   - Entries must not have been published, self-published, or broadcast before January 2026.
+
+7. A **PDF copy** must be submitted via MyMIST 2 weeks before the Regional Tournament.
+   - Late submissions result in point deduction.
+
+8. This is an **entirely virtual competition** — no copy required at tournament.
+
+9. Entries should be typed in **black ink only**.
+
+10. Entries can be double or single-spaced.
+
+11. Poetry submissions **must include** a filled-out "Poetry Analyzing Written Statement."
+
+</Steps>
+
+## Checklist
+
+- [ ] PDF copy of Poetry Piece on MyMIST (2 weeks prior)
+- [ ] Written Poetry Analyzing Statement
+- [ ] Labeled with MIST ID and competition name
+
+---
+
+## Poetry Analyzing Written Statement
+
+*Responses to each section must be typed, not handwritten.*
+
+### Section 1: Poem Identity
+- Form of Poetry (e.g., Ballad, Sonnet, etc.)
+
+### Section 2: Explanation of Poem
+- Provide an explanation in **250 words or less**
+
+### Section 3: Elements of Poetry
+- Identify at least **five (5) elements** of poetry from your writing
+- State line number, type of element, and explanation
+- Examples: alliteration, metaphor, assonance, personification
+
+### Section 4: Example of Inferences
+- Provide an example of inference from your writing
+- State line number and explain what you wished to infer
+- Examples: historical inference, literary inference
+
+### Section 5: Mechanics, Grammar, Spelling
+*Answer all within 500 words or less:*
+
+1. In what ways does your piece represent your individuality? What inspired or influenced you?
+2. Are there subtleties you hoped would come across without explanation?
+3. Do you feel you conveyed the theme well? How did you do so?
+
+---
+
+## Interactive Scoring Ballot
+
+<Aside type="caution" title="Important">
+If the poetry piece contains inappropriate content, score 0/30 for Poem Elements.
+</Aside>
+
+<InteractiveBallot 
+  criteria={[
+    {
+      name: "Technical",
+      section: "Section A: Technical (10 points)",
+      max: 10,
+      items: [
+        "Poem does not exceed 40 lines",
+        "Poetry Worksheet is completed",
+        "Poem is typed in black ink only",
+        "No identifiers aside from MIST ID"
+      ]
+    },
+    {
+      name: "Poem Elements",
+      section: "Section B: Poem Elements (30 points)",
+      max: 30,
+      items: [
+        "Is the structure easy to follow?",
+        "Is the form appropriate to the subject?",
+        "Does the poem enable the reader to see, hear, feel, or think about the subject in a new or potent way?",
+        "Does it use sensory details and figurative language to create vivid images?",
+        "Are sound devices (rhyme, alliteration, onomatopoeia) used effectively?",
+        "Is word choice vivid and exact throughout?"
+      ]
+    },
+    {
+      name: "Overall Impression",
+      section: "Section C: Overall Impression (25 points)",
+      max: 25,
+      items: [
+        "Is the title clearly stated?",
+        "Does the piece create an appropriate mood?",
+        "Does the writing convey creativity and originality?",
+        "Does it grab attention and convey sincerity?"
+      ]
+    },
+    {
+      name: "Written Statement Criteria",
+      section: "Section D: Written Statement (25 points)",
+      max: 25,
+      items: [
+        "Section 1: Poem Identity",
+        "Section 2: Coherent Explanation",
+        "Section 3: Elements of Poetry",
+        "Section 4: Example of Inference",
+        "Section 5: Mechanics, Grammar, Spelling",
+        "Interview Questions answered"
+      ]
+    },
+    {
+      name: "Overall Experience",
+      section: "Section E: Overall Experience (10 points)",
+      max: 10,
+      description: "Rate 1-10: 1 = Very poor, 4-6 = Average, 10 = Exceptional"
+    }
+  ]}
+  totalMax={100}
+/>

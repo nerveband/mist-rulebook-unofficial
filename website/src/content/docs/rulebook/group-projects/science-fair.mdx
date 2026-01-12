@@ -1,0 +1,218 @@
+---
+title: Science Fair
+description: Rules, procedures, and rubric for MIST Science Fair competition
+sidebar:
+  order: 4
+---
+
+import { Aside, Steps, LinkButton } from '@astrojs/starlight/components';
+import InteractiveBallot from '../../../../components/InteractiveBallot.astro';
+
+<div class="competition-badges">
+  <span class="badge badge-format">In-Person</span>
+  <span class="badge badge-team">Team (1-6)</span>
+  <span class="badge badge-early">Early Submission</span>
+</div>
+
+<LinkButton href={`https://www.getmistified.com/s/Final-Draft-Rulebook-2026-KT-Update.pdf#page=91`} target="_blank" icon="external" variant="secondary">
+  View Official PDF (Page 91)
+</LinkButton>
+
+Present original scientific research with active experiments, data analysis, and comprehensive findings in this team-based competition.
+
+## Format
+In-Person
+
+## Submission Requirements
+
+**Early Submission (2 weeks prior):**
+- Abstract (5 pages or less) submitted to MyMIST
+- Must include title page, abstract, bibliography, and citations
+
+**On-Site:**
+- Three (3) copies of the abstract
+- Any physical visual aids
+- Presentation (medium of choice)
+
+## Registration Guidelines
+
+1. A minimum of **one (1)** and a maximum of **six (6)** people can register.
+2. **One submission per MIST team/school.**
+
+## Procedure
+
+<Steps>
+
+1. Submit an **abstract (5 pages or less)** of your science fair project **two (2) weeks prior** to MyMIST.
+   - Must include title page, abstract, bibliography, and citations.
+
+2. Presentation must be **5-7 minutes minimum/maximum**.
+   - **3 minutes** allocated for Q&A.
+
+3. Science Fair projects may **NOT be used** if presented at previous MIST tournaments or other competitions.
+
+4. **Visual aids are required** along with the speech.
+   - If computer usage needed, bring aid on a USB.
+   - Options: PowerPoint, posters, pictures, props, video clips
+   - Encouraged to include figures, pictures, tables, and graphs.
+
+5. Team must do their own **active research**:
+   - Experiments, surveys, questionnaires, etc.
+   - Results must be compiled and analyzed within the research paper.
+   - If surveys/questionnaires conducted, must be included in presentation.
+
+6. Present a **scientific research question** at the beginning of the abstract.
+   - Question should be answered by the conclusion of the presentation.
+
+7. At least **two sources** must be cited accurately within the abstract.
+   - Works cited page required, separate from bibliography page.
+   - Abstract and all citations must adhere to **MLA format**.
+   - Abstract must be **maximum five (5) pages**.
+
+8. Science Fair project should consist of **four components**:
+   - Speech
+   - Visual Aids
+   - Bibliography (as part of abstract)
+   - Abstract (with active research included)
+
+9. Judging based on official MIST Science Fair ballot.
+
+</Steps>
+
+<Aside type="tip" title="Theme Bonus">
++3 bonus points can be awarded if the topic is relevant to the theme.
+</Aside>
+
+## Abstract Requirements
+
+| Requirement | Specification |
+|-------------|---------------|
+| Length | 5 pages maximum |
+| Font | 12-point Times New Roman |
+| Spacing | Double-spaced |
+| Margins | 1" on each side |
+| Format | MLA style |
+| Sources | At least 2 cited sources |
+
+## Checklist
+
+- [ ] Abstract (5 pages max) with title page, bibliography, citations
+- [ ] Three (3) copies of abstract for judges
+- [ ] Visual aids (poster board, PowerPoint, etc.)
+- [ ] Active research data and analysis
+- [ ] Works cited page (MLA format)
+- [ ] Submission labeled with MIST IDs (all group members) and Competition Name
+
+---
+
+## Interactive Scoring Ballot
+
+<InteractiveBallot 
+  criteria={[
+    {
+      name: "General Rules",
+      section: "Section A: Technical (10 points)",
+      max: 5,
+      items: [
+        "Three copies of abstract submitted on time",
+        "Visual aids submitted (display board if used)",
+        "Participants all present and on time",
+        "No identifiers aside from MIST ID Numbers",
+        "Presenters professionally credible and appropriately dressed",
+        "Presentation is 5-7 minutes, Q&A is 3 minutes"
+      ]
+    },
+    {
+      name: "Abstract Rules",
+      section: "Section A: Technical (10 points)",
+      max: 5,
+      items: [
+        "Abstract is five (5) pages or less",
+        "12-point Times New Roman font, double-spaced, 1\" margins",
+        "Bibliography includes all works cited (at least 2 sources)",
+        "All citations in proper MLA format"
+      ]
+    },
+    {
+      name: "Visual Aid",
+      section: "Section B: Presentation Components (20 points)",
+      max: 5,
+      items: [
+        "Did presenter use visual aids? Typed, not written?",
+        "Visual presentation neat, uncluttered, comprehensible?",
+        "Display well organized with logical parts?",
+        "Project clearly tied to visual aid?",
+        "Does display stand alone (understandable without competitor)?"
+      ]
+    },
+    {
+      name: "Introduction, Body & Conclusion",
+      section: "Section B: Presentation Components (20 points)",
+      max: 15,
+      items: [
+        "Introduction grabbed attention?",
+        "Topic clearly stated, brief, concise? Key ideas previewed?",
+        "Effective signposting, internal summaries, transitions?",
+        "Logical progression of ideas?",
+        "Adequate time for each section within 5-7 minutes?",
+        "Conclusive tie of speech? Note of finality?"
+      ]
+    },
+    {
+      name: "Scientific Thought",
+      section: "Section C: Scientific Method (40 points)",
+      max: 25,
+      items: [
+        "Original testable question that can be measured quantitatively?",
+        "Scientific method followed?",
+        "Original hypothesis that answers the question?",
+        "Quantitative data that answers the question?",
+        "All variables original, considered, and identified?",
+        "Multiple trials performed if needed?",
+        "Data clearly interpreted? Conclusions accurately based on data?"
+      ]
+    },
+    {
+      name: "Thoroughness",
+      section: "Section C: Scientific Method (40 points)",
+      max: 15,
+      items: [
+        "Testable question original and intellectual property of competitor?",
+        "Data individually collected?",
+        "Problems that arose explained?",
+        "Work related to reported literature?",
+        "Study completed or brought to logical stopping place?"
+      ]
+    },
+    {
+      name: "Analysis and Content",
+      section: "Section D: Analysis and Content (20 points)",
+      max: 20,
+      items: [
+        "Question answered clearly?",
+        "Content informative and pertinent to specific topic?",
+        "Information adequately documented?",
+        "Sufficient logic, facts, examples, expert opinion?",
+        "Scientific literature examined?",
+        "Original approach with original hypothesis?",
+        "Well thought-out showing initiative in thought and design?"
+      ]
+    },
+    {
+      name: "Abstract",
+      section: "Section E: Abstract (10 points)",
+      max: 10,
+      items: [
+        "Paper maximum 5 pages long?",
+        "At least 2 cited sources?",
+        "Works cited/reference page at end of abstract?",
+        "Formatting according to MLA style?",
+        "Active research conducted with results compiled and analyzed?",
+        "Research question present and answered through the paper?"
+      ]
+    }
+  ]}
+  bonusLabel="Topic is relevant to the theme"
+  bonusValue={3}
+  totalMax={100}
+/>

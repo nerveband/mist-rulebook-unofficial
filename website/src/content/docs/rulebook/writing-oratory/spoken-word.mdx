@@ -1,0 +1,122 @@
+---
+title: Spoken Word
+description: Rules, procedures, and rubric for MIST Spoken Word competition
+sidebar:
+  order: 7
+---
+
+import { Aside, Steps, LinkButton } from '@astrojs/starlight/components';
+import { OFFICIAL_RULEBOOK_URL } from '../../../../consts';
+import InteractiveBallot from '../../../../components/InteractiveBallot.astro';
+
+<div class="competition-badges">
+  <span class="badge badge-format">In-Person</span>
+  <span class="badge badge-type">Individual</span>
+</div>
+
+<LinkButton href={`${OFFICIAL_RULEBOOK_URL}#page=59`} target="_blank" icon="external" variant="secondary">
+  View Official PDF (Page 59)
+</LinkButton>
+
+If you're more of the performer type of poet, then spoken word is for you! Here's your chance to convey your passion and originality, all while inspiring those around you.
+
+## Format
+In-Person
+
+## On-Site Submission Requirements
+
+- Three (3) copies of the Spoken Word piece must be submitted to judges on-site at the time of the competition.
+
+## Registration Guidelines
+
+1. A limit of **two (2) students** from each team may register for this competition.
+2. Each student competes **individually** — collaboration is not permitted.
+
+## Procedure
+
+<Steps>
+
+1. Competitors must come prepared with copies of their Spoken Word Pieces.
+   - MIST will NOT photocopy any spoken word pieces.
+   - Competitor must compete with the piece submitted at that time.
+
+2. Pieces must be labeled with **MIST ID ONLY**. Competitor's name must not appear anywhere on the work.
+
+3. All competitors report to the competition room at the same time (designated in competition schedule).
+
+4. **No AI permitted** — usage is grounds for point loss and/or disqualification.
+
+5. Spoken Word pieces will be judged on: **writing, performance, originality, sincerity, and inspiration**.
+
+6. The piece must be relevant to the **annual theme** to receive full marks in Section D.
+
+7. Performance should **not exceed 6 minutes**.
+   - Violation results in being ranked last when visible time signals have been given.
+   - Judges/moderators are required to give time signals per competitor's request.
+
+8. **No instruments** can be used for the performance.
+
+</Steps>
+
+## Interactive Scoring Ballot
+
+<Aside type="caution" title="Important">
+If the Spoken Word piece contains inappropriate content (profanity, sexual innuendo, etc.), score 0/35 for Content.
+</Aside>
+
+<InteractiveBallot 
+  criteria={[
+    {
+      name: "Technical",
+      section: "Section A: Technical (10 points)",
+      max: 10,
+      items: [
+        "Did the piece last less than 6 minutes?",
+        "No identifiers aside from MIST ID",
+        "Participant looks credible and dressed for an interview",
+        "Three (3) copies of the spoken word piece provided"
+      ]
+    },
+    {
+      name: "Content (Written)",
+      section: "Section B: Written (35 points)",
+      max: 35,
+      items: [
+        "Is the structure of the piece easy to follow?",
+        "Is the Spoken Word well written (rhyme, metaphors, figurative language)?",
+        "Does the Spoken Word show originality and creativity?"
+      ]
+    },
+    {
+      name: "Stage Presence",
+      section: "Section C: Performance (45 points)",
+      max: 25,
+      items: [
+        "Is there connection with the audience, energy, and excitement?",
+        "Does the competitor make use of stage space (movement, body language)?",
+        "Are bodily movements used effectively?",
+        "Does the performance grab attention and convey sincerity and inspiration?"
+      ]
+    },
+    {
+      name: "Familiarity",
+      section: "Section C: Performance (45 points)",
+      max: 20,
+      items: [
+        "Are the words clear and easy to understand?",
+        "Is pronunciation acceptable?",
+        "Are rate, pitch, and volume appropriate?",
+        "Is vocal variety adequate?",
+        "Does the competitor set an adequate mood relating to the piece?",
+        "Was the piece memorized?"
+      ]
+    },
+    {
+      name: "Overall Experience",
+      section: "Section D: Overall Experience (10 points)",
+      max: 10,
+      description: "Rate 1-10: 1 = Very poor, 4-6 = Average, 10 = Exceptional"
+    }
+  ]}
+  totalMax={100}
+/>

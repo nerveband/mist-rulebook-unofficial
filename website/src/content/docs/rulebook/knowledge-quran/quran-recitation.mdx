@@ -1,0 +1,144 @@
+---
+title: Qur'an Recitation
+description: Rules, procedures, and rubric for MIST Qur'an Recitation competition
+sidebar:
+  order: 3
+---
+
+import { Aside, Steps, LinkButton } from '@astrojs/starlight/components';
+import InteractiveBallot from '../../../../components/InteractiveBallot.astro';
+
+<div class="competition-badges">
+  <span class="badge badge-format">In-Person</span>
+  <span class="badge badge-type">Individual</span>
+</div>
+
+<LinkButton href={`https://www.getmistified.com/s/Final-Draft-Rulebook-2026-KT-Update.pdf#page=19`} target="_blank" icon="external" variant="secondary">
+  View Official PDF (Page 19)
+</LinkButton>
+
+Test your recitation of the Qur'an in Arabic according to Tajweed (rules of recitation). Unlike Memorization, this competition focuses on proper recitation and Tajweed rules.
+
+## Format
+In-Person
+
+## Registration Guidelines
+
+1. This is a **gender-segregated** competition.
+   - Brothers' Qur'an Recitation
+   - Sisters' Qur'an Recitation
+
+2. Each team may have a maximum of **two (2) brothers** and **two (2) sisters**.
+
+## Procedure
+
+<Steps>
+
+1. There are **no levels** for this competition - the **entirety of the Qur'an** is testable material.
+
+2. Judges will tell the competitor **where to start** and **where to stop** the recitation.
+
+3. Judging based on **three separate passages** from any part of the Qur'an.
+
+4. The focus is **Qur'an recitation and Tajweed**, NOT memorization.
+
+5. Competitors will recite **3 passages live** during their interview.
+
+6. Each passage will be about **10 verses long**.
+
+7. Students must bring their **own Qur'an** for the competition.
+   - **Annotations NOT permitted**: highlighting, underlining, post-its, writing in margins
+   - **Color-coded Qur'ans with Tajweed rules listed are NOT permitted**
+
+8. The interview will include:
+   - Recitation of up to 3 passages
+   - Scoring on pronunciation (Tajweed) during recitation
+   - Testing on **basic Tajweed rules** for final 10 points
+   - Expectation to identify rules (place of articulation, qualities of letters, nasal sounds, types of madd, etc.)
+
+9. Competitors will **NOT** be expected to have extensive knowledge on the laws of Tajweed.
+
+</Steps>
+
+<Aside type="caution" title="Qur'an Requirements">
+Color-coded Qur'ans with Tajweed rules listed are NOT permitted. Bring a clean copy without annotations.
+</Aside>
+
+## Mistake Categories
+
+### Minor Mistakes
+| Type | Description |
+|------|-------------|
+| Heavy vs. Light | Overlooking rules of tafkheem and tarqeeq when reciting Allah's name and letter Raa |
+| Ghunnah | Not adhering to rules of izhaar, idghaam, iqlaab, ikhfaa in their respective places |
+| Incorrect Makhraj or Sifat | Not pronouncing letters from correct place of articulation and respective qualities (qalqala, etc.) |
+| Prolongation | Not prolonging/stretching a letter when madd is present |
+
+### Major Mistakes
+| Type | Description |
+|------|-------------|
+| Addition | Adding letters to words or adding entire words |
+| Omission | Leaving off letters from words or leaving out entire words |
+| Replacement | Replacing a letter for another or replacing entire words |
+| Change Harakah | Changing fat'ha, dhamma, or kasra |
+| Harakah/Sukoon | Replacing harakah with sukoon or vice versa |
+
+## What to Bring
+
+- [ ] Personal Qur'an (no annotations or color-coding)
+- [ ] MIST ID
+
+---
+
+## Interactive Scoring Ballot
+
+<InteractiveBallot 
+  criteria={[
+    {
+      name: "Passage 1 - Recitation",
+      max: 15,
+      description: "Quality of recitation from the Qur'an"
+    },
+    {
+      name: "Passage 1 - Tajweed",
+      max: 15,
+      description: "Proper application of Tajweed rules"
+    },
+    {
+      name: "Passage 2 - Recitation",
+      max: 15,
+      description: "Quality of recitation from the Qur'an"
+    },
+    {
+      name: "Passage 2 - Tajweed",
+      max: 15,
+      description: "Proper application of Tajweed rules"
+    },
+    {
+      name: "Passage 3 - Recitation",
+      max: 15,
+      description: "Quality of recitation from the Qur'an"
+    },
+    {
+      name: "Passage 3 - Tajweed",
+      max: 15,
+      description: "Proper application of Tajweed rules"
+    },
+    {
+      name: "Tajweed Rules Knowledge",
+      max: 10,
+      description: "Ability to identify: Makhraj, Sifat, Ghunnah, Madd, and other basic rules"
+    }
+  ]}
+  showDeductions={true}
+  deductions={[
+    { name: "Self-correction", value: -1 },
+    { name: "Minor mistake not corrected", value: -5 },
+    { name: "Major mistake not corrected", value: -10 }
+  ]}
+  totalMax={100}
+/>
+
+<Aside type="note" title="Key Difference from Memorization">
+This competition focuses on **recitation quality and Tajweed** rather than memorization. Competitors read from the Qur'an (not from memory) and are judged on their ability to properly apply Tajweed rules.
+</Aside>

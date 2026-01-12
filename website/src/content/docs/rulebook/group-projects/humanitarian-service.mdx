@@ -1,0 +1,191 @@
+---
+title: Humanitarian Service
+description: Rules, procedures, and rubric for MIST Humanitarian Service competition
+sidebar:
+  order: 2
+---
+
+import { Aside, Steps, LinkButton } from '@astrojs/starlight/components';
+import InteractiveBallot from '../../../../components/InteractiveBallot.astro';
+
+<div class="competition-badges">
+  <span class="badge badge-format">In-Person</span>
+  <span class="badge badge-team">Team (1-6)</span>
+  <span class="badge badge-early">Early Submission</span>
+</div>
+
+<LinkButton href={`https://www.getmistified.com/s/Final-Draft-Rulebook-2026-KT-Update.pdf#page=83`} target="_blank" icon="external" variant="secondary">
+  View Official PDF (Page 83)
+</LinkButton>
+
+Create and implement a crowdfunding campaign to raise funds, support, and awareness for a Helping Hand for Relief and Development (HHRD) project.
+
+## Format
+In-Person
+
+## Submission Requirements
+
+**Early Submission (2 weeks prior):**
+- Campaign plan submitted to MyMIST
+- Link to crowdfunding site
+
+**On-Site:**
+- Three (3) copies of the Campaign Plan
+
+## Registration Guidelines
+
+1. A minimum of **one (1)** and a maximum of **six (6)** people can register.
+2. **One submission per MIST team/school.**
+
+## Procedure
+
+<Steps>
+
+1. Create and implement a **campaign plan** and **crowdfunding site** for a Helping Hand for Relief and Development (HHRD) project.
+   - Find more information at [HHRD's website](https://www.hhrd.org).
+
+2. Campaign plan must be **no more than 6 pages**:
+   - Typed with 12-point Times New Roman font, double-spaced, 1" margins
+   - Include Title Page with campaign name, competitor MIST IDs, and competition name
+   - Include abstract (max 250 words), Table of Contents, and Bibliography
+   - Include campaign goals (written as SMART goals), campaign calendar/timeline
+   - Include ideal funder profile/targeted funder personas section
+   - Include marketing plan
+
+3. Describe the **implementation strategy** including social media and community engagement plan.
+   - Paid social media promotions are **not** permitted.
+
+4. **Optional:** Include digital and physical collateral (pamphlets, stickers, infographics), screenshots, and alternative marketing plans.
+
+5. Crowdfunding site content should:
+   - Identify the problem
+   - Describe HHRD's solution
+   - Explain the crowdfunding campaign
+   - Display incentives planned
+
+6. Prepare a **5-7 minute presentation** for judges:
+   - Focus on lessons learned about the issue, HHRD's intervention, crowdfunding, and community engagement
+   - May present recommendations to HHRD for better digital crowdfunding engagement
+
+7. **Optional:** Students are encouraged to use marketing analytics.
+   - **+1 bonus point** for analytics providing valuable inferences (Conversion Rate, Marketing ROI, Average Lead Close Rate, Impression/Reach Rates)
+
+8. Present for **5-7 minutes** then field questions from judges.
+   - Not all students required to speak, but all registered students must be present for Q&A.
+
+9. Donations received after cut-off date won't count toward goal but still go to the humanitarian fund.
+
+10. Provide **community service initiatives** to teach your community about the humanitarian cause.
+    - Examples: afterschool events, mosque/community center lectures
+
+11. All submissions labeled with **MIST ID ONLY** - points deducted if names appear.
+
+12. Teammates not present without valid reason will result in point deductions for entire group.
+
+13. Provide clear information about **team size and fundraising goal** to judges.
+
+</Steps>
+
+<Aside type="caution" title="Important">
+Paid social media promotions are not permitted for this competition.
+</Aside>
+
+## Minimum Fundraising Goals
+
+| Team Size | Minimum Goal |
+|-----------|--------------|
+| 1-5 students | $100 |
+| 6-10 students | $250 |
+| 11-25 students | $500 |
+| 26-50 students | $750 |
+| 51-100 students | $1,000 |
+| Over 100 students | $2,000 |
+
+**Bonus:** Teams who raise **double or more** their goal amount receive **+2 bonus points**
+
+## Checklist
+
+- [ ] Campaign plan (6 pages max) with Title Page, Abstract, TOC, Bibliography
+- [ ] Crowdfunding site link
+- [ ] SMART goals and campaign calendar
+- [ ] Marketing plan and implementation strategy
+- [ ] Community engagement documentation
+- [ ] Submission labeled with MIST IDs and Competition Name
+
+---
+
+## Interactive Scoring Ballot
+
+<InteractiveBallot 
+  criteria={[
+    {
+      name: "General Rules",
+      section: "Section A: Technical (30 points)",
+      max: 5,
+      items: [
+        "Crowdfunding campaign created on time with complete marketing plan",
+        "Participants all present and on time",
+        "No identifiers aside from MIST ID Numbers",
+        "Presenters professionally credible and appropriately dressed",
+        "Presentation is 5-7 minutes, Q&A is 3 minutes"
+      ]
+    },
+    {
+      name: "Presentation",
+      section: "Section A: Technical (30 points)",
+      max: 25,
+      items: [
+        "Presentation explains lessons learned from campaign",
+        "Format can be verbal, video, PowerPoint, or combination",
+        "Includes recommendations for HHRD based on learnings",
+        "Speakers demonstrate adequate practice and subject mastery",
+        "Presentation flows smoothly and logically",
+        "Topic presented in relevant, engaging manner for high school students"
+      ]
+    },
+    {
+      name: "General Content",
+      section: "Section B: Content (40 points)",
+      max: 25,
+      items: [
+        "Crowdfunding campaign properly summarizes project with engaging writing",
+        "Problem well-defined with facts and statistics",
+        "HHRD's intervention explained with donation usage",
+        "Marketing best practices used",
+        "Proper outline of community engagement and education efforts"
+      ]
+    },
+    {
+      name: "Creative Content",
+      section: "Section B: Content (40 points)",
+      max: 15,
+      items: [
+        "Thorough, complete, sophisticated marketing plan",
+        "Diverse and appealing marketing collateral (5+ pieces)",
+        "Collateral suitable for articulated Ideal Customer Profile"
+      ]
+    },
+    {
+      name: "Implementation",
+      section: "Section C: Implementation (30 points)",
+      max: 25,
+      items: [
+        "Campaign conducted over extended period (weeks, not days)",
+        "Strategic rollout plan for social media and community outreach",
+        "Project accomplished by teamwork of all registered members",
+        "Clear implementation plan through campaign calendar",
+        "Variety of marketing methods used",
+        "Adequate explanation for physical and digital donations"
+      ]
+    },
+    {
+      name: "Results",
+      section: "Section C: Implementation (30 points)",
+      max: 5,
+      description: "Campaign met its fundraising goal (+2 bonus for doubling goal)"
+    }
+  ]}
+  bonusLabel="Analytics formulas used correctly OR doubled fundraising goal"
+  bonusValue={2}
+  totalMax={100}
+/>

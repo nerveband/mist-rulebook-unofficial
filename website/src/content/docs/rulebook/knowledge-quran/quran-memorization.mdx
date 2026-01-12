@@ -1,0 +1,167 @@
+---
+title: Qur'an Memorization
+description: Rules, procedures, and rubric for MIST Qur'an Memorization competition
+sidebar:
+  order: 2
+---
+
+import { Aside, Steps, LinkButton } from '@astrojs/starlight/components';
+import InteractiveBallot from '../../../../components/InteractiveBallot.astro';
+
+<div class="competition-badges">
+  <span class="badge badge-format">In-Person</span>
+  <span class="badge badge-type">Individual</span>
+</div>
+
+<LinkButton href={`https://www.getmistified.com/s/Final-Draft-Rulebook-2026-KT-Update.pdf#page=15`} target="_blank" icon="external" variant="secondary">
+  View Official PDF (Page 15)
+</LinkButton>
+
+Test your memorization and recitation of the Qur'an in Arabic according to Tajweed (rules of recitation). Level 1 is for beginners, while Levels 2 and 3 are for more advanced competitors.
+
+## Format
+In-Person
+
+## Number of Levels
+Three (3)
+
+## Memorization Requirements by Level
+
+| Level | Surahs Required |
+|-------|-----------------|
+| **Level 1** | Surahs 1 (Al-Fatiha), 78 (An-Naba) - 114 (An-Nas) |
+| **Level 2** | Surahs 67 (Al-Mulk) - 77 (Al-Mursalaat) **+ all Level 1** |
+| **Level 3** | Surahs 36 (Ya-Seen), 55 (Ar-Rahman), 56 (Al-Waqiah) **AND** competitor's choice of: Surah 12 (Yusuf), 18 (Al-Kahf), 19 (Mariam), or 20 (Ta-Ha) **+ all above** |
+
+## Registration Guidelines
+
+1. Each level is treated as a **separate competition** and is **gender-segregated**.
+   - Male competitors register for Brothers Qur'an Memorization Level 1/2/3
+   - Female competitors register for Sisters Qur'an Memorization Level 1/2/3
+
+2. Each team may have a maximum of:
+   - **Two (2) male** and **two (2) female** competitors for Level 1, 2, and 3
+
+3. If a student has competed in a Qur'an Memorization Level in the past, they **must register for a higher level** than previously registered.
+
+## Procedure
+
+<Steps>
+
+1. Students are expected to **memorize** the portion of Qur'an relevant to their level in Arabic and recite **from memory fluently**.
+   - **Hafs** (on the authority of Asim) is the recitation style to be used.
+
+2. Students may begin with Level 1 in their first year but may **not repeat the same Level** in subsequent years.
+
+3. Judges will **prompt students** by reading a portion of a verse, and students will continue until motioned to stop.
+   - Judging based on **three separate passages**
+   - Judges choose all three passages
+   - Passage length based on judges' discretion
+
+4. If student cannot continue after **5 seconds of silence**, judge may read a word (or few words) to help continue.
+   - If student repeats and continues without further help: **no points deducted**
+   - If judge reminds beginning of current verse helping student start over: **-1 point**
+   - Each following time judge reminds next word(s): **-2 points**
+
+5. If student cannot continue after **three failed attempts**, judge may ask student to proceed to next passage.
+   - Remaining memorization points for that passage are forfeited.
+
+6. Judges will **immediately signal** after a mistake with a pen tap:
+   - **1 tap** for minor mistakes
+   - **2 quick taps** for major mistakes
+
+7. If mistake is **self-corrected within 5 seconds** without prompting: **-1 point**
+
+8. After allowing self-correction time, judge should **audibly tap** to indicate mistake and allow another chance.
+
+9. If mistake not corrected on second reading, judge may recite the correction.
+   - Student may ask for clarification
+   - If student correctly fixes after judge's correction: **-3 points**
+
+10. If unable to fix after prompting:
+    - Minor mistakes: **-1 point**
+    - Major mistakes: **-2 points**
+    - Pronunciation mistakes (not memorization) only penalized once if recurring
+
+11. **Maximum score: 96 points**
+    - In case of tie, judges may break up to 5-way tie using tie-breaker section
+
+</Steps>
+
+## Mistake Categories
+
+### Minor Mistakes
+| Type | Description |
+|------|-------------|
+| Heavy vs. Light | Overlooking rules of tafkheem and tarqeeq when reciting Allah's name and letter Raa |
+| Ghunnah | Not adhering to rules of izhaar, idghaam, iqlaab, ikhfaa in their respective places |
+| Incorrect Makhraj or Sifat | Not pronouncing letters from correct place of articulation and respective qualities (qalqala, etc.) |
+| Prolongation | Not prolonging/stretching a letter when madd is present |
+
+### Major Mistakes
+| Type | Description |
+|------|-------------|
+| Addition | Adding letters to words or adding entire words |
+| Omission | Leaving off letters from words or leaving out entire words |
+| Replacement | Replacing a letter for another or replacing entire words |
+| Change Harakah | Changing fat'ha, dhamma, or kasra |
+| Harakah/Sukoon | Replacing harakah with sukoon or vice versa |
+
+---
+
+## Interactive Scoring Ballot
+
+<InteractiveBallot 
+  criteria={[
+    {
+      name: "Passage 1 - Memorization",
+      max: 22,
+      description: "Starting score: 22. Deduct points for mistakes."
+    },
+    {
+      name: "Passage 1 - Pronunciation",
+      max: 10,
+      description: "Tajweed and pronunciation quality"
+    },
+    {
+      name: "Passage 2 - Memorization",
+      max: 22,
+      description: "Starting score: 22. Deduct points for mistakes."
+    },
+    {
+      name: "Passage 2 - Pronunciation",
+      max: 10,
+      description: "Tajweed and pronunciation quality"
+    },
+    {
+      name: "Passage 3 - Memorization",
+      max: 22,
+      description: "Starting score: 22. Deduct points for mistakes."
+    },
+    {
+      name: "Passage 3 - Pronunciation",
+      max: 10,
+      description: "Tajweed and pronunciation quality"
+    },
+    {
+      name: "Tie Breaker",
+      max: 4,
+      description: "Only for students who went through tiebreaker (up to 5 people)"
+    }
+  ]}
+  showDeductions={true}
+  deductions={[
+    { name: "Self-correction without being prompted", value: -1 },
+    { name: "Reminder of beginning of verse from judge", value: -1 },
+    { name: "Self-correction with audible tap", value: -2 },
+    { name: "Continuation of verse by judge", value: -2 },
+    { name: "Major mistake not corrected", value: -2 },
+    { name: "Self-correction with recitation", value: -3 },
+    { name: "Unable to continue at all", value: -10 }
+  ]}
+  totalMax={100}
+/>
+
+<Aside type="note" title="Tie Breaker">
+Only add points to students who went through a tiebreaker for up to 5 people, otherwise students receive 0 in this section.
+</Aside>

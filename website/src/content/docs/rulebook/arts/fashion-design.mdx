@@ -1,0 +1,189 @@
+---
+title: Fashion Design
+description: Rules, procedures, and rubric for MIST Fashion Design competition
+sidebar:
+  order: 3
+---
+
+import { Aside, Steps, LinkButton } from '@astrojs/starlight/components';
+import { OFFICIAL_RULEBOOK_URL } from '../../../../consts';
+import InteractiveBallot from '../../../../components/InteractiveBallot.astro';
+
+<div class="competition-badges">
+  <span class="badge badge-format">In-Person</span>
+  <span class="badge badge-type">Individual</span>
+</div>
+
+<LinkButton href={`${OFFICIAL_RULEBOOK_URL}#page=25`} target="_blank" icon="external" variant="secondary">
+  View Official PDF (Page 25)
+</LinkButton>
+
+Express your creativity through fashion design by creating a cohesive collection that reflects this year's theme.
+
+## Format
+In-Person
+
+## Submission Requirements
+
+**On-Site:**
+- Collection Portfolio
+
+## Registration Guidelines
+
+1. No more than **four (4) students** from each school can register.
+2. This competition is **NOT** a team effort. Each competitor must turn in separate work.
+3. MIST ID and order of competition will be pre-assigned randomly.
+
+## Portfolio Requirements
+
+Your portfolio must include:
+
+<Steps>
+
+1. **Cover/Presentation Case** — Be creative!
+
+2. **Philosophy Statement** (500 words max)
+   - How you'll use the theme as inspiration for your collection
+   - Example: "Loyalty + Environment (trees, landscape)"
+   - Serves as your written component
+
+3. **Mood/Inspiration Page** — Images that inspire your collection
+
+4. **Fabric Swatch/Color Palette Page**
+
+5. **Six (6) Outfits** in one of these combinations:
+   - OPTION 1: 3 adult female + 3 adult male outfits
+   - OPTION 2: 6 complete male OR 6 complete female outfits
+
+</Steps>
+
+## Outfit Requirements
+
+For each of the 6 outfits, submit:
+
+| Item | Specifications |
+|------|----------------|
+| **Illustration** | 5"×7" to 8.5"×11", in color, matted/mounted, in page protector |
+| **Flat Sketches** | 2 per outfit (front & back), black and white, 12 total |
+| **Description** | Sewing notes and hard-to-see details |
+
+### Illustration Guidelines
+- Must be hand-drawn (no photographs)
+- Clean and neatly mounted/matted
+- Acceptable media: colored pencils, charcoal, pastels, watercolor, colored pen/ink, crayons
+- Outfits can be on a figure or as colored flats
+
+<Aside type="tip" title="Bonus Points">
+Extra points available for accessories: shoes, pins, jewelry, etc. (Outfits without shoes will NOT be disqualified)
+</Aside>
+
+## Design Requirements
+
+<Steps>
+
+1. All designs labeled with **MIST ID ONLY**.
+
+2. Provide a **common feature** within the set (similar buttons, colors, etc.).
+
+3. Designs must be **modest** while exuding creativity.
+
+4. Designs should inspire **comfort, confidence, and dignity**.
+
+5. Be **original** in all designs.
+
+</Steps>
+
+## Interview Process
+
+- Each participant interviewed for **5 minutes**
+- If more than 15 entries, only top 15 (based on portfolio) will be interviewed
+- Interview questions found in Fashion Design Ballot
+
+### Interview Topics
+- Inspiration behind the design
+- What you like most and dislike most
+- Outstanding or unusual details
+- What makes your designs different from others in the market
+
+## Checklist
+
+- [ ] Fashion Design Portfolio with philosophy
+- [ ] 6 outfit illustrations (color, mounted)
+- [ ] 12 flat sketches (black and white)
+- [ ] Mood/inspiration page
+- [ ] Fabric swatch/color palette page
+- [ ] Labeled with MIST ID and competition name
+
+---
+
+## Interactive Scoring Ballot
+
+<InteractiveBallot 
+  criteria={[
+    {
+      name: "Technical",
+      section: "Section A: Technical (5 points)",
+      max: 5,
+      items: [
+        "Presenter is on time for the interview",
+        "Presenter is dressed for an interview",
+        "Written statement does not exceed 500 words",
+        "Submission meets required formatting guidelines"
+      ]
+    },
+    {
+      name: "Purpose",
+      section: "Section B: Production Quality (30 points)",
+      max: 15,
+      items: [
+        "Evidence of student's effort to achieve stated purpose",
+        "Portfolio clearly communicates a cohesive collection",
+        "Work integrates expression, organization, technique, and MIST's theme"
+      ]
+    },
+    {
+      name: "Skills and Technique",
+      section: "Section B: Production Quality (30 points)",
+      max: 15,
+      items: [
+        "Media selection effectively enhances the design",
+        "Superior level of skills in illustration and flat sketches",
+        "Design required time and patience",
+        "Process shown through mood boards and development"
+      ]
+    },
+    {
+      name: "Aesthetics and Design",
+      section: "Section C: Presentation Quality (40 points)",
+      max: 20,
+      items: [
+        "Visual balance, composition, and layout enhance overall beauty",
+        "Recognizable center of interest in relation to theme",
+        "Colors and fabrics enhance or complement the collection",
+        "Effective use of fashion design elements and principles",
+        "Portfolio reflects process, creativity, and distinctive style"
+      ]
+    },
+    {
+      name: "Creativity",
+      section: "Section C: Presentation Quality (40 points)",
+      max: 20,
+      items: [
+        "Expression is unique and fully developed",
+        "Work breaks new ground in communicating the message"
+      ]
+    },
+    {
+      name: "Application of Theme",
+      section: "Section D: Application of Theme (25 points)",
+      max: 25,
+      items: [
+        "Strong, clearly evident relevance to the theme",
+        "Theme expressed in unique or outstanding way",
+        "Purpose clearly articulated with evidence of reflection/research",
+        "Elements and principles of design clearly articulated"
+      ]
+    }
+  ]}
+  totalMax={100}
+/>

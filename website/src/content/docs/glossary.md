@@ -9,7 +9,7 @@ description: Definitions of key MIST terms and concepts
 The scoring form used by judges to evaluate competitors. Contains rubric criteria and point allocations for each section.
 
 ### Bracket Competition
-An elimination-style competition where teams/individuals are paired and winners advance to subsequent rounds. Examples: Debate, Math Olympics, Quiz Bowl, Improv.
+An elimination-style competition where teams/individuals are paired and winners advance to subsequent rounds. Examples: [Debate](/rulebook/brackets/debate/), [Math Olympics](/rulebook/brackets/math-olympics/), [Quiz Bowl](/rulebook/brackets/quiz-bowl/), [Improv](/rulebook/brackets/improv/).
 
 ### Early Submission
 Competitions requiring materials to be submitted via MyMIST before the tournament (typically 2 weeks prior). Late submissions incur point deductions.
@@ -47,7 +47,7 @@ Presenting another's work or ideas as your own without proper attribution. Groun
 
 ---
 
-## Quran Competition Terms
+## [Quran](/rulebook/knowledge-quran/) Competition Terms
 
 ### Ghunnah
 A nasal sound produced when pronouncing certain Arabic letters. Part of Tajweed rules.
@@ -84,7 +84,7 @@ The rules governing proper Quran recitation, including pronunciation, rhythm, an
 
 ---
 
-## Debate Terms
+## [Debate](/rulebook/brackets/debate/) Terms
 
 ### Bill
 The resolution or motion being debated in Parliamentary Debate.
@@ -124,7 +124,7 @@ The moderator of a Parliamentary Debate round.
 
 ---
 
-## Quiz Bowl Terms
+## [Quiz Bowl](/rulebook/brackets/quiz-bowl/) Terms
 
 ### Bonus Question
 A multi-part question awarded to the team that correctly answers a toss-up. Team may confer.

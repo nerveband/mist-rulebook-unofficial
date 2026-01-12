@@ -19,26 +19,26 @@ Everything you need to know as a MIST competitor.
 
 | Category | Competitions |
 |----------|-------------|
-| **Knowledge & Quran** | Knowledge Tests, Quran Memorization (3 levels), Quran Recitation |
-| **Arts** | 2D Art, 3D Art, Fashion Design, Digital Art, Photography |
-| **Writing & Oratory** | Extemporaneous Essay, Extemporaneous Speaking, Original Oratory, Poetry, Prepared Essay, Short Fiction, Spoken Word |
-| **Brackets** | Debate, Math Olympics, Quiz Bowl, Improv |
-| **Group Projects** | Business Venture, Humanitarian Service, Nasheed/Rap, Science Fair, Short Film, Social Media |
-| **Sports** | Basketball |
+| **[Knowledge & Quran](/rulebook/knowledge-quran/)** | [Knowledge Tests](/rulebook/knowledge-quran/knowledge-tests/), [Quran Memorization](/rulebook/knowledge-quran/quran-memorization/) (3 levels), [Quran Recitation](/rulebook/knowledge-quran/quran-recitation/) |
+| **[Arts](/rulebook/arts/)** | [2D Art](/rulebook/arts/2d-art/), [3D Art](/rulebook/arts/3d-art/), [Fashion Design](/rulebook/arts/fashion-design/), [Digital Art](/rulebook/arts/digital-art/), [Photography](/rulebook/arts/photography/) |
+| **[Writing & Oratory](/rulebook/writing-oratory/)** | [Extemporaneous Essay](/rulebook/writing-oratory/extemporaneous-essay/), [Extemporaneous Speaking](/rulebook/writing-oratory/extemporaneous-speaking/), [Original Oratory](/rulebook/writing-oratory/original-oratory/), [Poetry](/rulebook/writing-oratory/poetry/), [Prepared Essay](/rulebook/writing-oratory/prepared-essay/), [Short Fiction](/rulebook/writing-oratory/short-fiction/), [Spoken Word](/rulebook/writing-oratory/spoken-word/) |
+| **[Brackets](/rulebook/brackets/)** | [Debate](/rulebook/brackets/debate/), [Math Olympics](/rulebook/brackets/math-olympics/), [Quiz Bowl](/rulebook/brackets/quiz-bowl/), [Improv](/rulebook/brackets/improv/) |
+| **[Group Projects](/rulebook/group-projects/)** | [Business Venture](/rulebook/group-projects/business-venture/), [Humanitarian Service](/rulebook/group-projects/humanitarian-service/), [Nasheed/Rap](/rulebook/group-projects/nasheed-rap/), [Science Fair](/rulebook/group-projects/science-fair/), [Short Film](/rulebook/group-projects/short-film/), [Social Media](/rulebook/group-projects/social-media/) |
+| **[Sports](/rulebook/sports/)** | [Basketball](/rulebook/sports/basketball/) |
 
 ## Key Deadlines
 
 ### Two Weeks Before Tournament
-Submit these via MyMIST:
-- Prepared Essay
-- Short Fiction
-- Poetry
-- Short Film
-- Business Venture Proposal
-- Science Fair Abstract
-- Social Media
-- Humanitarian Service
-- Digital Art
+Submit these via MyMIST (see [Early Submissions](/rulebook/early-submissions/)):
+- [Prepared Essay](/rulebook/writing-oratory/prepared-essay/)
+- [Short Fiction](/rulebook/writing-oratory/short-fiction/)
+- [Poetry](/rulebook/writing-oratory/poetry/)
+- [Short Film](/rulebook/group-projects/short-film/)
+- [Business Venture](/rulebook/group-projects/business-venture/) Proposal
+- [Science Fair](/rulebook/group-projects/science-fair/) Abstract
+- [Social Media](/rulebook/group-projects/social-media/)
+- [Humanitarian Service](/rulebook/group-projects/humanitarian-service/)
+- [Digital Art](/rulebook/arts/digital-art/)
 
 ### Late Submission Penalties
 - Within 24 hours: **-5 points**
@@ -54,12 +54,12 @@ Submit these via MyMIST:
 - [ ] Any required materials for your competitions
 
 ### Competition-Specific Items
-- **Knowledge Tests**: Your own copy of the assigned book (no annotations!)
-- **Quran Recitation**: Your own Quran (no annotations or color-coded versions)
-- **2D/3D Art**: Completed artwork, drafts, written statement
-- **Fashion Design**: Portfolio with all required elements
-- **Oratory/Spoken Word**: 3 copies of your piece
-- **Science Fair**: Display board, abstract copies, lab notebook
+- **[Knowledge Tests](/rulebook/knowledge-quran/knowledge-tests/)**: Your own copy of the [assigned book](/knowledge-test-books/) (no annotations!)
+- **[Quran Recitation](/rulebook/knowledge-quran/quran-recitation/)**: Your own Quran (no annotations or color-coded versions)
+- **[2D](/rulebook/arts/2d-art/)/[3D Art](/rulebook/arts/3d-art/)**: Completed artwork, drafts, written statement
+- **[Fashion Design](/rulebook/arts/fashion-design/)**: Portfolio with all required elements
+- **[Oratory](/rulebook/writing-oratory/original-oratory/)/[Spoken Word](/rulebook/writing-oratory/spoken-word/)**: 3 copies of your piece
+- **[Science Fair](/rulebook/group-projects/science-fair/)**: Display board, abstract copies, lab notebook
 
 ## Top 10 Rules Competitors Break
 

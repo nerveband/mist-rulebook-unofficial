@@ -20,9 +20,9 @@ sidebar:
    - However, the format in which it is listed in the rulebook is how the competition will be run during Nationals.
 
 6. Many competitions have changed in either how they are run, when they are submitted, or how many competitors may sign up per team.
-   - Prepared Essay, Poetry, and Short Fiction will now be run as their own competitions. They will no longer run under Creative Writing.
-   - Graphic Design has now been renamed to Digital Art.
-   - All other changes are outlined on the main MIST website.
+   - [Prepared Essay](/rulebook/writing-oratory/prepared-essay/), [Poetry](/rulebook/writing-oratory/poetry/), and [Short Fiction](/rulebook/writing-oratory/short-fiction/) will now be run as their own competitions. They will no longer run under Creative Writing.
+   - Graphic Design has now been renamed to [Digital Art](/rulebook/arts/digital-art/).
+   - All other changes are outlined on the main MIST website and in [What's New in 2026](/changes/2026/).
 
 7. Students registered in a sport or e-sport **MUST** register for another non-sport competition.
 
@@ -55,5 +55,5 @@ sidebar:
 8. **Turn off cell phones and other electronic devices.**
    - No photography and/or filming.
 
-9. Parents, coaches, and other supporters are more than welcome to attend MIST Quiz Bowl.
+9. Parents, coaches, and other supporters are more than welcome to attend [MIST Quiz Bowl](/rulebook/brackets/quiz-bowl/).
    - Please check with your Regional Headquarters to confirm.

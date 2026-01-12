@@ -1,0 +1,605 @@
+---
+interface Criterion {
+  name: string;
+  description?: string;
+  items?: string[];
+  max: number;
+  section?: string;
+}
+
+interface Deduction {
+  name: string;
+  description?: string;
+  value: number; // negative number
+}
+
+interface Props {
+  criteria: Criterion[];
+  columns?: string[];
+  deductions?: Deduction[];
+  showDeductions?: boolean;
+  bonusLabel?: string;
+  bonusValue?: number;
+  totalMax?: number;
+  averageLabel?: string;
+  showAverage?: boolean;
+}
+
+const { 
+  criteria, 
+  columns = ['Score'], 
+  deductions = [],
+  showDeductions = false,
+  bonusLabel,
+  bonusValue = 1,
+  totalMax = 100,
+  averageLabel = 'Average Score',
+  showAverage = false
+} = Astro.props;
+
+// Group criteria by section if sections exist
+const sections = criteria.reduce((acc, criterion) => {
+  const section = criterion.section || 'default';
+  if (!acc[section]) acc[section] = [];
+  acc[section].push(criterion);
+  return acc;
+}, {} as Record<string, Criterion[]>);
+
+const hasSections = Object.keys(sections).length > 1 || !sections['default'];
+const ballotId = `ballot-${Math.random().toString(36).substr(2, 9)}`;
+---
+
+<div class="interactive-ballot" data-ballot-id={ballotId}>
+  <h3>Interactive Ballot</h3>
+  <p class="ballot-instructions">Enter scores to calculate the total automatically.</p>
+  
+  <table>
+    <thead>
+      <tr>
+        <th>Criteria</th>
+        {columns.map(col => <th class="score-col">{col}</th>)}
+      </tr>
+    </thead>
+    <tbody>
+      {hasSections ? (
+        Object.entries(sections).map(([sectionName, sectionCriteria]) => (
+          <>
+            {sectionName !== 'default' && (
+              <tr class="section-header">
+                <td colspan={columns.length + 1}><strong>{sectionName}</strong></td>
+              </tr>
+            )}
+            {sectionCriteria.map((criterion, idx) => (
+              <tr>
+                <td>
+                  <strong>{criterion.name}</strong>
+                  {criterion.description && <p class="criterion-desc">{criterion.description}</p>}
+                  {criterion.items && criterion.items.length > 0 && (
+                    <ul>
+                      {criterion.items.map(item => <li>{item}</li>)}
+                    </ul>
+                  )}
+                </td>
+                {columns.map((col, colIdx) => (
+                  <td class="score-cell">
+                    <input 
+                      type="number" 
+                      min="0" 
+                      max={criterion.max}
+                      class={`score-input col-${colIdx}`}
+                      data-max={criterion.max}
+                      placeholder={`/${criterion.max}`}
+                    />
+                  </td>
+                ))}
+              </tr>
+            ))}
+            {hasSections && sectionName !== 'default' && (
+              <tr class="section-subtotal">
+                <td><em>Section Subtotal</em></td>
+                {columns.map((col, colIdx) => (
+                  <td class="score-cell">
+                    <span class={`section-total-${sectionName.replace(/[^a-zA-Z0-9]/g, '')}-col-${colIdx}`}>0</span>
+                    <span class="max-display"> / {sectionCriteria.reduce((sum, c) => sum + c.max, 0)}</span>
+                  </td>
+                ))}
+              </tr>
+            )}
+          </>
+        ))
+      ) : (
+        criteria.map((criterion, idx) => (
+          <tr>
+            <td>
+              <strong>{criterion.name}</strong>
+              {criterion.description && <p class="criterion-desc">{criterion.description}</p>}
+              {criterion.items && criterion.items.length > 0 && (
+                <ul>
+                  {criterion.items.map(item => <li>{item}</li>)}
+                </ul>
+              )}
+            </td>
+            {columns.map((col, colIdx) => (
+              <td class="score-cell">
+                <input 
+                  type="number" 
+                  min="0" 
+                  max={criterion.max}
+                  class={`score-input col-${colIdx}`}
+                  data-max={criterion.max}
+                  placeholder={`/${criterion.max}`}
+                />
+              </td>
+            ))}
+          </tr>
+        ))
+      )}
+      
+      {/* Bonus row if applicable */}
+      {bonusLabel && (
+        <tr class="bonus-row">
+          <td>
+            <strong>{bonusLabel}</strong>
+            <span class="bonus-note">(+{bonusValue} point{bonusValue > 1 ? 's' : ''})</span>
+          </td>
+          {columns.map((col, colIdx) => (
+            <td class="score-cell">
+              <label class="bonus-checkbox">
+                <input type="checkbox" class={`bonus-input col-${colIdx}`} data-value={bonusValue} />
+                <span>+{bonusValue}</span>
+              </label>
+            </td>
+          ))}
+        </tr>
+      )}
+      
+      {/* Column totals row */}
+      <tr class="total-row">
+        <td><strong>Total Score</strong></td>
+        {columns.map((col, colIdx) => (
+          <td class="score-cell">
+            <span class={`column-total col-${colIdx}-total`}>0</span>
+            <span class="max-display"> / {totalMax}</span>
+          </td>
+        ))}
+      </tr>
+    </tbody>
+  </table>
+
+  {/* Deductions section */}
+  {showDeductions && deductions.length > 0 && (
+    <div class="deductions-section">
+      <h4>Deductions</h4>
+      <p class="deduction-instructions">Enter the number of occurrences for each deduction type.</p>
+      <table class="deductions-table">
+        <thead>
+          <tr>
+            <th>Deduction Type</th>
+            <th>Points</th>
+            <th>Count</th>
+            <th>Subtotal</th>
+          </tr>
+        </thead>
+        <tbody>
+          {deductions.map((deduction, idx) => (
+            <tr>
+              <td>
+                <strong>{deduction.name}</strong>
+                {deduction.description && <p class="criterion-desc">{deduction.description}</p>}
+              </td>
+              <td class="deduction-value">{deduction.value}</td>
+              <td class="score-cell">
+                <input 
+                  type="number" 
+                  min="0" 
+                  max="99"
+                  class="deduction-input"
+                  data-value={deduction.value}
+                  placeholder="0"
+                />
+              </td>
+              <td class="deduction-subtotal">0</td>
+            </tr>
+          ))}
+          <tr class="total-row">
+            <td colspan="3"><strong>Total Deductions</strong></td>
+            <td class="deductions-total">0</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  )}
+
+  {/* Average/Final score display */}
+  {(showAverage || columns.length > 1) && (
+    <div class="final-score">
+      <strong>{showAverage ? averageLabel : 'Final Score'}: </strong>
+      <span class="final-score-value">0</span>
+      <span class="max-display"> / {totalMax}</span>
+      {showAverage && columns.length > 1 && (
+        <p class="average-note">(Average of {columns.length} {columns.length === 1 ? 'column' : 'columns'})</p>
+      )}
+    </div>
+  )}
+  
+  {showDeductions && (
+    <div class="net-score">
+      <strong>Net Score (after deductions): </strong>
+      <span class="net-score-value">0</span>
+      <span class="max-display"> / {totalMax}</span>
+    </div>
+  )}
+</div>
+
+<style>
+  .interactive-ballot {
+    margin: 2rem 0;
+    padding: 1.5rem;
+    border: 1px solid var(--sl-color-gray-5);
+    border-radius: 8px;
+    background-color: var(--sl-color-gray-6);
+  }
+
+  .interactive-ballot h3 {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+  }
+
+  .ballot-instructions,
+  .deduction-instructions {
+    color: var(--sl-color-gray-3);
+    font-size: 0.9rem;
+    margin-bottom: 1rem;
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 1rem;
+  }
+
+  th, td {
+    padding: 0.75rem;
+    border-bottom: 1px solid var(--sl-color-gray-4);
+    text-align: left;
+    vertical-align: top;
+  }
+
+  th {
+    background-color: var(--sl-color-black);
+    color: var(--sl-color-white);
+  }
+
+  .score-col {
+    width: 100px;
+    text-align: center;
+  }
+
+  .score-cell {
+    text-align: center;
+    vertical-align: middle;
+  }
+
+  .criterion-desc {
+    margin: 0.25rem 0 0 0;
+    font-size: 0.85rem;
+    color: var(--sl-color-gray-3);
+  }
+
+  td ul {
+    margin: 0.5rem 0 0 0;
+    padding-left: 1.25rem;
+  }
+
+  td ul li {
+    margin-bottom: 0.25rem;
+    font-size: 0.85rem;
+    color: var(--sl-color-gray-2);
+  }
+
+  input[type="number"] {
+    width: 70px;
+    padding: 0.5rem;
+    border: 1px solid var(--sl-color-gray-4);
+    border-radius: 4px;
+    background-color: var(--sl-color-black);
+    color: var(--sl-color-white);
+    text-align: center;
+    font-size: 1rem;
+  }
+
+  input[type="number"]:focus {
+    border-color: var(--sl-color-accent);
+    outline: none;
+  }
+
+  input[type="number"].invalid {
+    border-color: var(--sl-color-red);
+    background-color: rgba(255, 0, 0, 0.1);
+  }
+
+  .section-header {
+    background-color: var(--sl-color-gray-5);
+  }
+
+  .section-header td {
+    padding: 0.5rem 0.75rem;
+    font-size: 0.95rem;
+    color: var(--sl-color-accent);
+  }
+
+  .section-subtotal {
+    background-color: var(--sl-color-gray-5);
+    font-style: italic;
+  }
+
+  .section-subtotal td {
+    padding: 0.5rem 0.75rem;
+  }
+
+  .total-row {
+    background-color: var(--sl-color-gray-5);
+    font-weight: bold;
+  }
+
+  .total-row td {
+    font-size: 1.1rem;
+    padding: 1rem 0.75rem;
+  }
+
+  .bonus-row {
+    background-color: rgba(0, 255, 0, 0.05);
+  }
+
+  .bonus-note {
+    font-size: 0.85rem;
+    color: var(--sl-color-gray-3);
+    margin-left: 0.5rem;
+  }
+
+  .bonus-checkbox {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    cursor: pointer;
+  }
+
+  .bonus-checkbox input[type="checkbox"] {
+    width: 18px;
+    height: 18px;
+    cursor: pointer;
+  }
+
+  .max-display {
+    color: var(--sl-color-gray-3);
+    font-size: 0.9rem;
+  }
+
+  .deductions-section {
+    margin-top: 2rem;
+    padding-top: 1.5rem;
+    border-top: 2px solid var(--sl-color-gray-4);
+  }
+
+  .deductions-section h4 {
+    margin-top: 0;
+    color: var(--sl-color-red);
+  }
+
+  .deductions-table {
+    max-width: 600px;
+  }
+
+  .deduction-value {
+    color: var(--sl-color-red);
+    font-weight: bold;
+    text-align: center;
+  }
+
+  .deduction-subtotal {
+    color: var(--sl-color-red);
+    font-weight: bold;
+    text-align: center;
+  }
+
+  .deductions-total {
+    color: var(--sl-color-red);
+    font-weight: bold;
+    font-size: 1.1rem;
+  }
+
+  .final-score,
+  .net-score {
+    margin-top: 1.5rem;
+    font-size: 1.25rem;
+    text-align: right;
+    padding-top: 1rem;
+    border-top: 2px solid var(--sl-color-gray-4);
+  }
+
+  .net-score {
+    border-top: none;
+    padding-top: 0.5rem;
+  }
+
+  .final-score-value,
+  .net-score-value {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+
+  .net-score-value {
+    color: var(--sl-color-accent);
+  }
+
+  .average-note {
+    font-size: 0.85rem;
+    color: var(--sl-color-gray-3);
+    margin-top: 0.25rem;
+  }
+
+  /* Mobile responsiveness */
+  @media (max-width: 600px) {
+    .interactive-ballot {
+      padding: 1rem;
+    }
+
+    table {
+      font-size: 0.9rem;
+    }
+
+    th, td {
+      padding: 0.5rem;
+    }
+
+    input[type="number"] {
+      width: 55px;
+      padding: 0.4rem;
+      font-size: 0.9rem;
+    }
+
+    .score-col {
+      width: 70px;
+    }
+
+    td ul {
+      padding-left: 1rem;
+    }
+
+    td ul li {
+      font-size: 0.8rem;
+    }
+  }
+</style>
+
+<script define:vars={{ ballotId, columns, showDeductions, showAverage }}>
+  document.addEventListener('DOMContentLoaded', () => {
+    const ballot = document.querySelector(`[data-ballot-id="${ballotId}"]`);
+    if (!ballot) return;
+
+    const scoreInputs = ballot.querySelectorAll('.score-input');
+    const bonusInputs = ballot.querySelectorAll('.bonus-input');
+    const deductionInputs = ballot.querySelectorAll('.deduction-input');
+
+    function calculateTotals() {
+      const columnCount = columns.length;
+      const columnTotals = new Array(columnCount).fill(0);
+      const columnHasInput = new Array(columnCount).fill(false);
+
+      // Calculate score totals per column
+      scoreInputs.forEach(input => {
+        const max = parseInt(input.dataset.max) || 0;
+        let val = parseInt(input.value) || 0;
+        
+        // Clamp value to max
+        if (val > max) {
+          val = max;
+          input.value = max;
+        }
+        if (val < 0) {
+          val = 0;
+          input.value = 0;
+        }
+
+        // Find which column this input belongs to
+        for (let i = 0; i < columnCount; i++) {
+          if (input.classList.contains(`col-${i}`)) {
+            columnTotals[i] += val;
+            if (input.value !== '') columnHasInput[i] = true;
+            break;
+          }
+        }
+      });
+
+      // Add bonus points
+      bonusInputs.forEach(input => {
+        if (input.checked) {
+          const bonusVal = parseInt(input.dataset.value) || 0;
+          for (let i = 0; i < columnCount; i++) {
+            if (input.classList.contains(`col-${i}`)) {
+              columnTotals[i] += bonusVal;
+              break;
+            }
+          }
+        }
+      });
+
+      // Update column total displays
+      for (let i = 0; i < columnCount; i++) {
+        const totalDisplay = ballot.querySelector(`.col-${i}-total`);
+        if (totalDisplay) {
+          totalDisplay.textContent = columnTotals[i];
+        }
+      }
+
+      // Calculate deductions
+      let totalDeductions = 0;
+      if (showDeductions) {
+        deductionInputs.forEach(input => {
+          const deductionValue = parseInt(input.dataset.value) || 0;
+          const count = parseInt(input.value) || 0;
+          const subtotal = deductionValue * count;
+          totalDeductions += subtotal;
+
+          // Update subtotal display
+          const row = input.closest('tr');
+          const subtotalCell = row.querySelector('.deduction-subtotal');
+          if (subtotalCell) {
+            subtotalCell.textContent = subtotal;
+          }
+        });
+
+        const deductionsTotalDisplay = ballot.querySelector('.deductions-total');
+        if (deductionsTotalDisplay) {
+          deductionsTotalDisplay.textContent = totalDeductions;
+        }
+      }
+
+      // Calculate final/average score
+      let finalScore = 0;
+      let columnsWithInput = columnHasInput.filter(Boolean).length;
+
+      if (showAverage && columnsWithInput > 0) {
+        const sum = columnTotals.reduce((a, b) => a + b, 0);
+        finalScore = (sum / columnsWithInput).toFixed(2);
+      } else if (columnCount === 1) {
+        finalScore = columnTotals[0];
+      } else {
+        finalScore = columnTotals.reduce((a, b) => a + b, 0);
+      }
+
+      const finalScoreDisplay = ballot.querySelector('.final-score-value');
+      if (finalScoreDisplay) {
+        finalScoreDisplay.textContent = finalScore;
+      }
+
+      // Calculate net score (after deductions)
+      if (showDeductions) {
+        const netScoreDisplay = ballot.querySelector('.net-score-value');
+        if (netScoreDisplay) {
+          const netScore = Math.max(0, parseFloat(finalScore) + totalDeductions);
+          netScoreDisplay.textContent = showAverage ? netScore.toFixed(2) : netScore;
+        }
+      }
+    }
+
+    // Attach event listeners
+    scoreInputs.forEach(input => {
+      input.addEventListener('input', calculateTotals);
+      input.addEventListener('change', calculateTotals);
+    });
+
+    bonusInputs.forEach(input => {
+      input.addEventListener('change', calculateTotals);
+    });
+
+    deductionInputs.forEach(input => {
+      input.addEventListener('input', calculateTotals);
+      input.addEventListener('change', calculateTotals);
+    });
+
+    // Initial calculation
+    calculateTotals();
+  });
+</script>

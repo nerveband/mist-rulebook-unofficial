@@ -1,0 +1,168 @@
+---
+title: Short Fiction
+description: Rules, procedures, and rubric for MIST Short Fiction competition
+sidebar:
+  order: 6
+---
+
+import { Aside, Steps, LinkButton } from '@astrojs/starlight/components';
+import { OFFICIAL_RULEBOOK_URL } from '../../../../consts';
+import InteractiveBallot from '../../../../components/InteractiveBallot.astro';
+
+<div class="competition-badges">
+  <span class="badge badge-virtual">Virtual</span>
+  <span class="badge badge-type">Individual</span>
+  <span class="badge badge-early">Early Submission</span>
+</div>
+
+<LinkButton href={`${OFFICIAL_RULEBOOK_URL}#page=55`} target="_blank" icon="external" variant="secondary">
+  View Official PDF (Page 55)
+</LinkButton>
+
+Competitors are to submit an original work of fiction no longer than 10 pages that relates to the theme and can also be applied to a competitor-defined target audience. Illustrations are permitted for younger intended audiences.
+
+## Format
+Virtual (Online)
+
+## Early Submission Requirements
+
+- Competitors must submit their Short Fiction piece and written statement **2 weeks before** the Regional Tournament via MyMIST.
+
+## Registration Guidelines
+
+1. A limit of **two (2) students** from each team may register for this competition.
+2. Each student competes **individually** — collaboration is not permitted.
+
+## Procedure
+
+<Steps>
+
+1. Competitors must identify a **target audience** on the title page.
+
+2. The piece must clearly relate back to the **theme** but also be applicable to a general audience.
+
+3. **No AI permitted** — usage is grounds for point loss and/or disqualification.
+
+4. A **PDF copy** must be submitted via MyMIST 2 weeks before the Regional Tournament.
+   - Late submissions result in point deduction.
+
+5. This is an **entirely virtual competition** — no copy required at tournament.
+   - Entries should be typed in black ink only.
+
+6. All submissions must:
+   - Be **double-spaced**
+   - Have a **cover page** with title, MIST ID, and intended audience age group only
+   - Competitor name must not appear anywhere
+   - Be typed on 8.5 × 11 inch paper
+   - Be **no more than 10 pages** (exclusive of title page and written statement)
+   - Use Times New Roman, 12pt font
+   - Include a written statement based on interview questions
+
+7. Competitors will be judged according to the Short Fiction Ballot.
+
+</Steps>
+
+## Checklist
+
+- [ ] PDF copy of Short Fiction piece on MyMIST (2 weeks prior)
+- [ ] Written statement based on interview questions (Section D)
+- [ ] Cover page with title, MIST ID, and target audience
+- [ ] 10 pages maximum (excluding title page and statement)
+- [ ] Labeled with MIST ID and competition name
+
+---
+
+## Interactive Scoring Ballot
+
+<InteractiveBallot 
+  criteria={[
+    {
+      name: "Technical",
+      section: "Section A: Technical (5 points)",
+      max: 5,
+      items: [
+        "Short Fiction piece does not exceed 10 pages",
+        "No identifiers on submission aside from MIST ID"
+      ]
+    },
+    {
+      name: "Conventions",
+      section: "Section B: Content (45 points)",
+      max: 5,
+      items: [
+        "Is the piece mostly free of spelling mistakes?",
+        "Is the piece mostly free of punctuation mistakes?",
+        "Is the piece mostly free of grammatical mistakes?"
+      ]
+    },
+    {
+      name: "Ideas and Development",
+      section: "Section B: Content (45 points)",
+      max: 15,
+      items: [
+        "Did the writer address the theme in a clear manner?",
+        "Did the writer take a unique approach?",
+        "Did the writer stay on topic throughout?",
+        "Was the main idea or message clear to the reader?"
+      ]
+    },
+    {
+      name: "Organization",
+      section: "Section B: Content (45 points)",
+      max: 10,
+      items: [
+        "Is the title relevant and applicable to the story?",
+        "Does the story have a logical series of events?",
+        "Were there adequate details leading to natural flow between intro, plot, climax, and resolution?",
+        "Were paragraphs well-developed with natural transitions?",
+        "Was the story original, not falling into cliché storylines?"
+      ]
+    },
+    {
+      name: "Sentence Fluency",
+      section: "Section B: Content (45 points)",
+      max: 15,
+      items: [
+        "Did the writer vary sentence types (simple and complex)?",
+        "Do most sentences begin with different words?",
+        "When read aloud, do sentences flow well together?",
+        "Was dialogue used where appropriate?"
+      ]
+    },
+    {
+      name: "Word Choice",
+      section: "Section C: Style (35 points)",
+      max: 20,
+      items: [
+        "Did the writer use thoughtful adjectives to create vivid imagery?",
+        "Did the writer use strong action verbs?",
+        "Did the writer use precise nouns?",
+        "Was dialogue formatted appropriately?",
+        "Did word usage create color and texture? Did the writer take risks?"
+      ]
+    },
+    {
+      name: "Voice",
+      section: "Section C: Style (35 points)",
+      max: 15,
+      items: [
+        "Was the writer able to distinguish a clear voice in the story?",
+        "Is the tone natural and consistent?",
+        "Does the writer capture a mood with their words?",
+        "Does the writer appropriately reach the target audience?"
+      ]
+    },
+    {
+      name: "Application of Theme",
+      section: "Section D: Application of Theme (15 points)",
+      max: 15,
+      items: [
+        "Strong, clearly evident relevance to the theme",
+        "Theme expressed in a unique or outstanding way",
+        "Purpose and inspiration clearly articulated with evidence of reflection/research",
+        "Short Fiction piece easily understandable for Muslim and non-Muslim alike"
+      ]
+    }
+  ]}
+  totalMax={100}
+/>

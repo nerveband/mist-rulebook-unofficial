@@ -1,0 +1,181 @@
+---
+title: Nasheed/Rap
+description: Rules, procedures, and rubric for MIST Nasheed/Rap competition
+sidebar:
+  order: 3
+---
+
+import { Aside, Steps, LinkButton } from '@astrojs/starlight/components';
+import InteractiveBallot from '../../../../components/InteractiveBallot.astro';
+
+<div class="competition-badges">
+  <span class="badge badge-format">In-Person</span>
+  <span class="badge badge-team">Team (1-6)</span>
+</div>
+
+<LinkButton href={`https://www.getmistified.com/s/Final-Draft-Rulebook-2026-KT-Update.pdf#page=87`} target="_blank" icon="external" variant="secondary">
+  View Official PDF (Page 87)
+</LinkButton>
+
+Calling all aspiring singers! Write unique lyrics and use your voice to inspire others through original Islamic nasheed or rap performance.
+
+## Format
+In-Person
+
+## Submission Requirements
+
+**Early Submission:** None
+
+**On-Site:**
+- Three (3) copies of the Nasheed/Rap lyrics submitted to judges at time of competition
+
+## Registration Guidelines
+
+1. A minimum of **one (1)** and a maximum of **six (6)** people can register.
+2. **One submission per MIST team/school.**
+3. There will be **separate competitions** for brothers and sisters.
+   - Each team must be either all sisters or all brothers.
+
+## Procedure
+
+<Steps>
+
+1. Performance should **not exceed 5 minutes**.
+   - Points deducted if performance exceeds allotted time.
+
+2. Nasheed/Rap competition is **different from Spoken Word**.
+   - If registered for both, you may NOT use the same piece.
+
+3. The **only permitted instrument** is a drum with an open end (daf).
+   - Full drum kits, floor drums, etc. are NOT allowed.
+   - Drums will NOT be supplied by MIST - bring your own.
+   - Vocal percussion (beatboxing) is permitted.
+   - **No digitally enhanced sounds** for performance.
+
+4. Groups must perform **in front of an audience**.
+
+5. **No repeat performances** from previous years.
+   - All nasheed/raps must be **original**.
+
+6. Tones, lyrics, and tunes must **NOT be copied** from existing artists.
+   - Copying is grounds for disqualification.
+
+7. Submit **three hard copies** of Nasheed lyrics to judges **before performing**.
+
+8. Judging based on official MIST Nasheed/Rap Ballot.
+
+</Steps>
+
+<Aside type="caution" title="Important">
+All nasheed/raps must be original compositions. Copying from existing artists will result in disqualification.
+</Aside>
+
+## Interview Questions
+
+Judges will ask:
+1. How did you aim to convey this year's theme in your work?
+2. What do you hope to teach people about the theme with your submission?
+3. What element of the work is the most important towards conveying your understanding of the theme?
+
+## Checklist
+
+- [ ] Original nasheed/rap (not exceeding 5 minutes)
+- [ ] Three (3) copies of lyrics
+- [ ] Drum with open end (daf) if using percussion
+- [ ] Submission labeled with MIST IDs and Competition Name
+
+---
+
+## Interactive Scoring Ballot
+
+<Aside type="danger" title="Content Warning">
+If nasheed contains profanity, sexual innuendo, or inappropriate content, competitor receives 0/15 for Content/Structure.
+</Aside>
+
+<InteractiveBallot 
+  criteria={[
+    {
+      name: "Administrative",
+      section: "Section A: Administrative (10 points)",
+      max: 10,
+      items: [
+        "Presenter(s) are on time for competition",
+        "Nasheed/Rap is under five (5) minutes",
+        "No identifiers aside from MIST ID",
+        "Presenter(s) look credible and dressed appropriately"
+      ]
+    },
+    {
+      name: "Content/Structure",
+      section: "Section B: Content/Structure (15 points)",
+      max: 15,
+      items: [
+        "Is the Nasheed well written (rhyme, metaphors, figurative language)?",
+        "Does it show originality and creativity?",
+        "Intro: Establishes melodic, harmonic, and/or rhythmic pattern?",
+        "Verse: Ties into main purpose? Verses well-defined with clear story/message?",
+        "Chorus: Easy to follow? Catchy? Embodies the message?"
+      ]
+    },
+    {
+      name: "Technical",
+      section: "Section C: Technical (25 points)",
+      max: 25,
+      items: [
+        "Intonation: Tone quality, pitch, accuracy, blend, balance",
+        "Vocal technique: Articulation, rhythmic accuracy, fluency, breath control",
+        "Tone: Sound/timbre pleasing to ear, blend, evenness",
+        "Unique texture to performer's voice(s)?",
+        "Wide range of vocal tones vs. monotone?",
+        "Ability to move from low to medium to high notes effectively?",
+        "Rhythmic integrity: Style, tempo, phrasing, dynamic contrast",
+        "Musicianship: Sensitivity to phrasing, dynamics, vocal attack"
+      ]
+    },
+    {
+      name: "Delivery",
+      section: "Section D: Delivery (20 points)",
+      max: 20,
+      items: [
+        "Stage Presence: Connection with audience, energy, excitement",
+        "Connection between piece and performer's emotions?",
+        "Body language effective?",
+        "Group members in time with one another (rhythm)?",
+        "Lyrics clear and easy to understand?",
+        "Eye contact established? Stage used effectively?",
+        "Music memorized, facial expressions, entertainment value"
+      ]
+    },
+    {
+      name: "Complexity",
+      section: "Section E: Complexity (10 points)",
+      max: 10,
+      items: [
+        "Wide range",
+        "Complex or varied rhythms",
+        "Incorporation of several creative elements",
+        "Complex harmonies"
+      ]
+    },
+    {
+      name: "Overall Experience",
+      section: "Section F: Overall Experience (10 points)",
+      max: 10,
+      description: "Rate 1-10: 1 = Very poor, 5-6 = Average, 10 = Exceptional"
+    },
+    {
+      name: "Application of Theme",
+      section: "Section G: Application of Theme (10 points)",
+      max: 10,
+      items: [
+        "Strong, clearly evident relevance to the theme",
+        "Theme expressed in unique or outstanding way",
+        "Purpose clearly articulated with evidence of reflection/research",
+        "Elements and principles clearly articulated"
+      ]
+    }
+  ]}
+  bonusLabel="Bridge section included"
+  bonusValue={1}
+  totalMax={100}
+/>

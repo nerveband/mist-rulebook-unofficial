@@ -60,6 +60,10 @@ Notice how the first part (100 points) contains information from **outside sourc
 4. **Stay current** - Events throughout 2025 are testable
 5. **Practice recall** - Quiz yourself on recent events
 
+## Competition Rules
+
+See the [Quiz Bowl](/rulebook/brackets/quiz-bowl/) page for full competition rules and scoring.
+
 ## Contact
 
 For questions about the materials: hkhattak@getmistified.com

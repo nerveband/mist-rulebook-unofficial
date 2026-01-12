@@ -1,0 +1,206 @@
+---
+title: Short Film
+description: Rules, procedures, and rubric for MIST Short Film competition
+sidebar:
+  order: 5
+---
+
+import { Aside, Steps, LinkButton } from '@astrojs/starlight/components';
+import InteractiveBallot from '../../../../components/InteractiveBallot.astro';
+
+<div class="competition-badges">
+  <span class="badge badge-format">In-Person</span>
+  <span class="badge badge-team">Team (1-6)</span>
+  <span class="badge badge-early">Early Submission</span>
+</div>
+
+<LinkButton href={`https://www.getmistified.com/s/Final-Draft-Rulebook-2026-KT-Update.pdf#page=95`} target="_blank" icon="external" variant="secondary">
+  View Official PDF (Page 95)
+</LinkButton>
+
+Create an original short film that reflects this year's theme. Showcase your filmmaking skills in directing, cinematography, editing, and storytelling.
+
+## Format
+In-Person
+
+## Submission Requirements
+
+**Early Submission (2 weeks prior):**
+- Unlisted YouTube/Vimeo link of short film
+- Written statement (500 words max)
+- Short Film Entry Form
+
+**On-Site:**
+- Three (3) copies of the written statement
+
+## Registration Guidelines
+
+1. A minimum of **one (1)** and a maximum of **six (6)** people can register.
+2. **One submission per MIST team/school.**
+3. More than 6 people may work on the project (acting, costume design, makeup, set design, etc.) but only up to 6 can be registered.
+
+## Procedure
+
+<Steps>
+
+1. Submit **no more than one typed page** explanation of the film.
+
+2. All work in the film must be completed by **registered competitors**, with exception of acting:
+   - Filming
+   - Directing
+   - Scriptwriting
+   - Editing
+
+3. Actors may include others outside competitors, but **at least one team member** must be in the production.
+
+4. Films may be **any genre**: fiction, documentary, animation, art, or experimental.
+
+5. Film group allowed **3 minutes** to explain:
+   - How they made the film
+   - Purpose behind the film
+   - What inspired them
+
+6. All videos must be in **16:9 Aspect Ratio**.
+   - Widescreen films must be letterboxed to fit 16:9.
+
+7. Submit **unlisted YouTube link** to MyMIST **two (2) weeks prior** to competition.
+
+8. Title and competitors' MIST ID must be **clearly identified** on submission.
+
+9. Complete list of **crew members, cast, and equipment** must be submitted with short film.
+
+10. **Short Film Entry Form** is required.
+    - Points lost if not submitted.
+
+11. Written statement **(500 words max)** must include:
+    - What the short is about
+    - What inspired you to make it
+    - Answers to interview questions (Section C)
+
+12. All films **MUST relate to this year's theme**.
+
+13. Films may **NOT exceed 7 minutes** (excluding blank opening and closing credits).
+
+14. Films must **NOT contain** inappropriate audio or video content.
+
+15. If more than **15 entries**, only top 10 advance to interview.
+    - Preliminary judging round before tournament weekend
+    - Top 10 get 5-10 minute interview with Judges' Panel
+
+16. Entries must be **original works** not previously distributed, awarded, or publicly exhibited.
+    - Entrant must be creator with full copyright ownership
+
+</Steps>
+
+<Aside type="note" title="Important">
+The written statement is an integral component of qualifying for an interview in the top ten.
+</Aside>
+
+## Interview Questions
+
+Written statement should answer:
+1. How did you aim to convey this year's theme in your work?
+2. What do you hope to teach people about the theme with this work?
+3. What element of the work is the most important towards conveying your understanding of the theme?
+
+## Checklist
+
+- [ ] Unlisted YouTube/Vimeo link (7 minutes max)
+- [ ] Short Film Entry Form
+- [ ] Written statement (500 words max) answering Section C questions
+- [ ] Complete list of cast, crew, and equipment
+- [ ] Submission labeled with MIST IDs and Competition Name
+- [ ] 16:9 Aspect Ratio
+
+---
+
+## Interactive Scoring Ballot
+
+<InteractiveBallot 
+  criteria={[
+    {
+      name: "Technical",
+      section: "Section A: Technical (4 points)",
+      max: 4,
+      items: [
+        "Presenters are on time for interview",
+        "Film duration within 5-7 minutes",
+        "No identifying characteristics aside from MIST ID",
+        "Presenter(s) look credible and dressed for interview"
+      ]
+    },
+    {
+      name: "Audio",
+      section: "Section B: Production Quality (50 points)",
+      max: 20,
+      items: [
+        "Clear, crisp audio throughout",
+        "External microphones used when necessary",
+        "Sound effects used appropriately",
+        "Balance between music and dialogue when necessary"
+      ]
+    },
+    {
+      name: "Video",
+      section: "Section B: Production Quality (50 points)",
+      max: 30,
+      items: [
+        "Proper transitions used (dissolves for time changes, not between every scene)",
+        "Proper headroom in all shots",
+        "Tripod for steady camera when available",
+        "Quality consistent throughout",
+        "Variation in shot selection",
+        "Scenes edited/cropped tightly for smooth storytelling"
+      ]
+    },
+    {
+      name: "Theme",
+      section: "Section C: Narrative (46 points)",
+      max: 10,
+      items: [
+        "Story addressed the theme thoroughly",
+        "Theme consistent and present throughout film",
+        "Written statement answers interview questions about theme"
+      ]
+    },
+    {
+      name: "Acting",
+      section: "Section C: Narrative (46 points)",
+      max: 10,
+      items: [
+        "Props/makeup used appropriately",
+        "Casting is believable"
+      ]
+    },
+    {
+      name: "Story",
+      section: "Section C: Narrative (46 points)",
+      max: 26,
+      items: [
+        "Cohesive narrative from beginning to end",
+        "Narrative shown through visual storytelling, not text graphics",
+        "Film does NOT contain profanity, sexual innuendos, or vulgar content",
+        "Events of story believable given context of film"
+      ]
+    }
+  ]}
+  totalMax={100}
+/>
+
+---
+
+## Short Film Entry Form
+
+The entry form requires:
+- MIST ID of group (or group name)
+- Individual MIST IDs
+- Number of people in group
+- Film title
+- Brief synopsis
+- Film genre (Narrative Fiction, Documentary, Animation, Art, Experimental, Other)
+- Length (minutes and seconds)
+- Original format (Film, Video, Computer Graphic)
+- Sound (Mono, Stereo, No sound/music)
+- Production tools used (Camera, Hardware, Software, etc.)
+- Owner of copyright
+- Signature confirming rules understanding

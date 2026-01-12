@@ -51,6 +51,10 @@ References within the materials do not need to be memorized.
 - Global housing crisis solutions
 - HOLC residential security maps
 
+## Competition Rules
+
+See the [Quiz Bowl](/rulebook/brackets/quiz-bowl/) page for full competition rules and scoring.
+
 ## Contact
 
 For questions about the materials: hkhattak@getmistified.com

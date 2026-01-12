@@ -1,0 +1,158 @@
+---
+title: Original Oratory
+description: Rules, procedures, and rubric for MIST Original Oratory competition
+sidebar:
+  order: 3
+---
+
+import { Aside, Steps, LinkButton } from '@astrojs/starlight/components';
+import { OFFICIAL_RULEBOOK_URL } from '../../../../consts';
+import InteractiveBallot from '../../../../components/InteractiveBallot.astro';
+
+<div class="competition-badges">
+  <span class="badge badge-format">In-Person</span>
+  <span class="badge badge-type">Individual</span>
+</div>
+
+<LinkButton href={`${OFFICIAL_RULEBOOK_URL}#page=44`} target="_blank" icon="external" variant="secondary">
+  View Official PDF (Page 44)
+</LinkButton>
+
+Competitors present a memorized original oration within a seven (7) minute period. The oration must relate back to the theme but also be applicable to a general audience.
+
+## Format
+In-Person
+
+## Submission Requirements
+
+**On-Site:** Three (3) copies of the oratory piece must be submitted to judges on-site at the time of the competition.
+
+## Registration Guidelines
+
+1. A limit of **two (2) students** from each team may register for this competition.
+2. Each student competes **individually** — collaboration is not permitted.
+
+## Procedure
+
+<Steps>
+
+1. MIST ID and order of competition will be pre-assigned on a random selection basis.
+
+2. All competitors report to the competition room at the same time (designated in competition schedule).
+
+3. The orator must provide **3 hardcopies** of the script at competition orientation.
+   - MIST will NOT photocopy any scripts.
+   - Competitors must come prepared with their copies.
+   - The competitor must compete with the script submitted at that time.
+
+4. Orations must be in **English**.
+
+5. The piece must clearly relate back to the **theme** but also be applicable to a general audience.
+
+6. Orations must be labeled with **MIST ID ONLY**. The competitor name must not appear anywhere on the work.
+
+7. The orator must be **truthful**. Any non-factual reference, especially personal ones, must be identified.
+
+8. The oration may not contain more than **150 words of quoted material**.
+   - Extensive paraphrasing from other sources is prohibited.
+   - Orators caught plagiarizing or extensively paraphrasing will be disqualified.
+   - Quoted material in other languages must be translated (not counted toward 150 word limit).
+
+9. **No visual aids** may be used in delivery.
+
+10. An orator holding a manuscript or notes will be **ranked last**.
+
+11. **Time limit: 7 minutes maximum** with 30-second grace period.
+    - Violation results in being ranked last when visible time signals have been given.
+    - Judges/moderators are required to give time signals per competitor's request.
+
+12. **Electronic device usage** is not permitted during the competition.
+
+</Steps>
+
+## Interactive Scoring Ballot
+
+<InteractiveBallot 
+  criteria={[
+    {
+      name: "Technical",
+      section: "Section A: Technical (10 points)",
+      max: 10,
+      items: [
+        "Participant is on time for the competition",
+        "Speech finished within 7 minutes (or within 30-second grace period)",
+        "No identifiers aside from MIST ID",
+        "Participant looks credible and dressed for an interview"
+      ]
+    },
+    {
+      name: "Introduction",
+      section: "Section B: Content (35 points)",
+      max: 10,
+      items: [
+        "Did the speaker get the audience's attention?",
+        "Was the topic clearly stated/addressed?",
+        "Did the speaker preview and give focus to the key ideas?"
+      ]
+    },
+    {
+      name: "Body",
+      section: "Section B: Content (35 points)",
+      max: 15,
+      items: [
+        "Was adequate time devoted to each division within the 7-minute limit?",
+        "Was there a logical progression of ideas?"
+      ]
+    },
+    {
+      name: "Conclusion",
+      section: "Section B: Content (35 points)",
+      max: 10,
+      items: [
+        "Did the speaker tie the speech together?",
+        "Was the answer to the question clear?",
+        "Was there a note of finality?"
+      ]
+    },
+    {
+      name: "Analysis and Content",
+      section: "Section C: Presentation (45 points)",
+      max: 15,
+      items: [
+        "Did the speaker's oration revolve around the theme?",
+        "Was the content informative?",
+        "Was there sufficient use of logic, facts, examples, and/or expert opinion?",
+        "Was the information pertinent to the selected topic?"
+      ]
+    },
+    {
+      name: "Delivery",
+      section: "Section C: Presentation (45 points)",
+      max: 15,
+      items: [
+        "Was the delivery natural, lively, and spontaneous?",
+        "Was enunciation clear? Was volume appropriate?",
+        "Was there sufficient variety in rate, pause, and pitch?",
+        "Did the speaker exhibit poise and confidence?",
+        "Were gestures varied, movement motivated, and eye contact direct?",
+        "Was the speech memorized?"
+      ]
+    },
+    {
+      name: "Language",
+      section: "Section C: Presentation (45 points)",
+      max: 15,
+      items: [
+        "Did the speaker exhibit command of conversational style?",
+        "Was the language precise, grammatically correct, and vivid?"
+      ]
+    },
+    {
+      name: "Overall Experience",
+      section: "Section D: Overall Experience (10 points)",
+      max: 10,
+      description: "Rate 1-10: 1 = Very poor, 4-6 = Average, 10 = Exceptional"
+    }
+  ]}
+  totalMax={100}
+/>

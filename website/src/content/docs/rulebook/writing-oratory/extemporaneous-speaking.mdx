@@ -1,0 +1,161 @@
+---
+title: Extemporaneous Speaking
+description: Rules, procedures, and rubric for MIST Extemporaneous Speaking competition
+sidebar:
+  order: 2
+---
+
+import { Aside, Steps, LinkButton } from '@astrojs/starlight/components';
+import { OFFICIAL_RULEBOOK_URL } from '../../../../consts';
+import InteractiveBallot from '../../../../components/InteractiveBallot.astro';
+
+<div class="competition-badges">
+  <span class="badge badge-format">In-Person</span>
+  <span class="badge badge-type">Individual</span>
+</div>
+
+<LinkButton href={`${OFFICIAL_RULEBOOK_URL}#page=41`} target="_blank" icon="external" variant="secondary">
+  View Official PDF (Page 41)
+</LinkButton>
+
+The art of extemporaneous speaking is for those who can always make conversation. Delivering a coherent, engaging, and moving speech is easy enough, right? Now try doing that on the spot with only 30 minutes of preparation!
+
+## Format
+In-Person
+
+## Registration Guidelines
+
+1. A limit of **two (2) students** from each school may register for this competition.
+2. Each student competes **individually** — collaboration is not permitted.
+
+## Procedure
+
+<Steps>
+
+1. All competitors report to the competition room at the same time (designated in competition schedule).
+
+2. Paper and pen/pencil will be provided, but students may bring their own.
+
+3. Students choose **one topic** from a selection of three at the start of their turn.
+   - Topics will be relevant to the annual theme or current events.
+
+4. Topics are phrased in the form of a **question**.
+   - Topics require understanding of contemporary issues affecting Muslims domestically and internationally.
+   - Example: "Does a significant rift exist between African-American Muslims and immigrant Muslim communities?"
+
+5. Depending on the number of students, competition may be conducted in a series of rounds with only top competitors advancing.
+
+6. Students may bring **printed reference materials** (newspapers, articles) or quotations relevant to the theme or current affairs.
+   - Prepared notes or personal essays are **NOT allowed**.
+   - Materials must be reviewed and approved by the Moderator before competition.
+   - If any reference is used, the participant **MUST cite it** during their speech. Use of references is optional.
+   - **No annotations permitted** (highlighting, underlining, post-its, margin notes).
+
+7. **Thirty (30) minutes** before the contest begins, the first speaker draws three topics, chooses one, and returns the others. Other competitors draw in like manner at **seven-minute intervals**.
+
+8. After choosing a topic, the competitor withdraws to the preparation area with **30 minutes** to plan their speech without conferring with anyone.
+   - No prepared notes or outlines allowed in preparation room.
+   - Reference to books, magazines, and bibliographical files is permitted.
+
+9. Once chosen, the topic **may not be changed or altered**.
+   - No visual aids may be used in delivery.
+
+10. A note card may be used in preliminary rounds of invitational qualifying tournaments but is **not permitted** in elimination rounds.
+
+11. **Time limit: 7 minutes maximum** with 30-second grace period.
+    - Violation results in being ranked last when visible time signals have been given.
+    - Judges/moderators are required to give time signals per competitor's request.
+
+12. **Electronic device usage** is not permitted during the competition.
+
+</Steps>
+
+## Interactive Scoring Ballot
+
+<Aside type="note" title="Reference Materials">
+Students do NOT have to use references. If they do use references, they may be awarded **+2 points**. However, if a student uses references and does NOT cite the source in their speech, **-3 points** will be deducted.
+</Aside>
+
+<InteractiveBallot 
+  criteria={[
+    {
+      name: "Technical",
+      section: "Section A: Technical (10 points)",
+      max: 10,
+      items: [
+        "Participant is on time for the competition",
+        "Speech finished within 7 minutes (or within 30-second grace period)",
+        "No identifiers aside from MIST ID",
+        "Participant looks credible and dressed for an interview"
+      ]
+    },
+    {
+      name: "Introduction",
+      section: "Section B: Content (35 points)",
+      max: 10,
+      items: [
+        "Did the speaker get the audience's attention?",
+        "Was the topic clearly stated/addressed?",
+        "Did the speaker preview and give focus to the key ideas?"
+      ]
+    },
+    {
+      name: "Body",
+      section: "Section B: Content (35 points)",
+      max: 15,
+      items: [
+        "Was adequate time devoted to each division within the 7-minute limit?",
+        "Was there a logical progression of ideas?"
+      ]
+    },
+    {
+      name: "Conclusion",
+      section: "Section B: Content (35 points)",
+      max: 10,
+      items: [
+        "Did the speaker tie the speech together?",
+        "Was the answer to the question clear?",
+        "Was there a note of finality?"
+      ]
+    },
+    {
+      name: "Analysis and Content",
+      section: "Section C: Presentation (45 points)",
+      max: 15,
+      items: [
+        "Did the speaker answer the question?",
+        "Was the content informative?",
+        "Was there sufficient use of logic, facts, examples, and/or expert opinion?",
+        "Was the information pertinent to the selected topic?"
+      ]
+    },
+    {
+      name: "Delivery",
+      section: "Section C: Presentation (45 points)",
+      max: 15,
+      items: [
+        "Was the delivery natural, lively, and spontaneous?",
+        "Was enunciation clear? Was volume appropriate?",
+        "Was there sufficient variety in rate, pause, and pitch?",
+        "Did the speaker exhibit poise and confidence?",
+        "Were gestures varied, movement motivated, and eye contact direct?"
+      ]
+    },
+    {
+      name: "Language",
+      section: "Section C: Presentation (45 points)",
+      max: 15,
+      items: [
+        "Did the speaker exhibit command of conversational style?",
+        "Was the language precise, grammatically correct, and vivid?"
+      ]
+    },
+    {
+      name: "Overall Experience",
+      section: "Section D: Overall Experience (10 points)",
+      max: 10,
+      description: "Rate 1-10: 1 = Very poor, 4-6 = Average, 10 = Exceptional"
+    }
+  ]}
+  totalMax={100}
+/>

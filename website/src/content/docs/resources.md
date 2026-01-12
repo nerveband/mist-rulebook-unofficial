@@ -20,7 +20,7 @@ Download the original PDF documents:
 ### Rulebook
 - [Rulebook 2026 (PDF)](/pdfs/Rulebook-2026.pdf)
 
-### Quiz Bowl Topic Materials
+### [Quiz Bowl](/rulebook/brackets/quiz-bowl/) Topic Materials
 - [Topic 1: Flow of Water (PDF)](/pdfs/Topic-1-Flow-of-Water.pdf)
 - [Topic 2: Sudan (PDF)](/pdfs/Topic-2-Sudan.pdf)
 - [Topic 3: Housing Inequality (PDF)](/pdfs/Topic-3-Housing-Inequality.pdf)

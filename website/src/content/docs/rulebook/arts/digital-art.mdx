@@ -1,0 +1,158 @@
+---
+title: Digital Art
+description: Rules, procedures, and rubric for MIST Digital Art competition
+sidebar:
+  order: 4
+---
+
+import { Aside, Steps, LinkButton } from '@astrojs/starlight/components';
+import { OFFICIAL_RULEBOOK_URL } from '../../../../consts';
+import InteractiveBallot from '../../../../components/InteractiveBallot.astro';
+
+<div class="competition-badges">
+  <span class="badge badge-format">In-Person</span>
+  <span class="badge badge-type">Individual</span>
+  <span class="badge badge-early">Early Submission</span>
+</div>
+
+<LinkButton href={`${OFFICIAL_RULEBOOK_URL}#page=30`} target="_blank" icon="external" variant="secondary">
+  View Official PDF (Page 30)
+</LinkButton>
+
+Create digital artwork that showcases your creativity and reflects this year's theme using computer-generated techniques.
+
+## Format
+In-Person (presentation/interview)
+
+## Early Submission Requirements
+
+Submit **2 weeks before** the Regional Tournament via MyMIST:
+- Artwork (JPG, TIFF, or PNG format)
+- Written artist statement (500 words maximum)
+- A minimum of 2 drafts of artwork process
+
+**On-Site Requirements:** None
+
+## Registration Guidelines
+
+1. No more than **four (4) students** from each school can register.
+2. This competition is **NOT** a team effort. Each competitor must turn in separate work.
+
+## Procedure
+
+<Steps>
+
+1. All artwork must be labeled with **MIST ID ONLY**.
+   - Points will be deducted if competitor name appears anywhere.
+
+2. Artwork must reflect on this year's **theme**.
+
+3. Artwork should **avoid realistic, representational rendering** of lifelike human or animal form.
+
+4. **AI Generators are NOT permitted**.
+   - Includes: Dall-E 2, MidJourney, Nightcafe, Deep Dream, Stable Diffusion
+   - Usage is grounds for elimination.
+
+5. Competitors should **ONLY use computers** to generate artwork.
+   - Hand-created artwork will not be considered.
+
+6. Artwork should **not be animated**.
+
+7. Include a written statement **(500 words max.)** explaining what the artwork is about and your inspiration.
+
+8. Each interview is **5 minutes maximum**.
+
+9. If more than **15 entries**, only the top 15 (based on artwork and written statement) will be interviewed.
+   - Open gallery preliminary judging round first.
+   - Top 15 get 5-minute interview with Judges' Panel.
+
+10. Competitors will be judged according to the Digital Art Competition Ballot.
+
+</Steps>
+
+## Checklist
+
+- [ ] Digital Art submission (JPG, TIFF, or PNG)
+- [ ] Minimum of 2 drafts of Digital Art process
+- [ ] Written statement based on interview questions (Section D)
+- [ ] Labeled with MIST ID and competition name
+
+## Interview Questions
+
+Judges will ask:
+
+1. How did you aim to convey this year's theme in your work? In what ways does your artwork represent your individual point of view, imagination, creativity, and individuality?
+2. Explain your purpose in developing this artwork and describe how you achieved that goal. Describe any influences from art history, artists, or art periods or styles.
+3. What elements or principles of art did you use, and how did you select and organize the visual aspects of this work?
+
+---
+
+## Interactive Scoring Ballot
+
+<InteractiveBallot 
+  criteria={[
+    {
+      name: "Technical",
+      section: "Section A: Technical (5 points)",
+      max: 5,
+      items: [
+        "Participant is on time for interview",
+        "Participant looks credible and dressed for interview",
+        "Submission meets formatting guidelines"
+      ]
+    },
+    {
+      name: "Purpose",
+      section: "Section B: Production Quality (30 points)",
+      max: 15,
+      items: [
+        "Evidence of effort to achieve stated purpose",
+        "Artwork clearly communicates a story or statement",
+        "Work integrates expression, organization, technique, and MIST's theme"
+      ]
+    },
+    {
+      name: "Skills and Technique",
+      section: "Section B: Production Quality (30 points)",
+      max: 15,
+      items: [
+        "Media selection effectively enhances design",
+        "Superior level of skills in production",
+        "Design required time and patience"
+      ]
+    },
+    {
+      name: "Aesthetics and Design",
+      section: "Section C: Presentation Quality (40 points)",
+      max: 20,
+      items: [
+        "Visual balance, composition, and layout enhance beauty",
+        "Recognizable center of interest relating to theme",
+        "Colors enhance or complement subject matter",
+        "Effective use of elements and principles of art",
+        "Drafts reflect process, creativity, and distinctive style"
+      ]
+    },
+    {
+      name: "Creativity",
+      section: "Section C: Presentation Quality (40 points)",
+      max: 20,
+      items: [
+        "Expression is unique and fully developed",
+        "Work breaks new ground in communicating the message"
+      ]
+    },
+    {
+      name: "Application of Theme",
+      section: "Section D: Application of Theme (25 points)",
+      max: 25,
+      items: [
+        "Strong, clearly evident relevance to the theme",
+        "Theme expressed in unique or outstanding way",
+        "Purpose clearly articulated with evidence of reflection/research",
+        "Elements and principles clearly articulated with careful selection"
+      ]
+    }
+  ]}
+  totalMax={100}
+/>

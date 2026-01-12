@@ -5,6 +5,28 @@ sidebar:
   order: 1
 ---
 
+## Welcome
+
+*Assalamu Alaikum, peace be upon you*
+
+Every project you craft this year begins with a single small step. A simple idea, a moment of inspiration, or a quiet intention can grow into something meaningful. In MIST, the most impactful creations often start with these small beginnings, shaped by your sincerity and effort.
+
+As you prepare for your competitions, think about the small choices that influence your work: the extra revision you decide to make, the detail you refine, the concept you explore a little deeper. These seemingly minor decisions are what transform an ordinary submission into something thoughtful and powerful. Ask yourself: What values guide the things I create? How does intention elevate my work? How can small improvements done consistently bring out the best in my craft?
+
+Remember that excellence is not about perfection, but about purposeful steps taken with sincerity. Every choice you make, from how you prepare to how you collaborate and how you present yourself, shapes not only your own growth but the overall spirit of this tournament. How will you use your small deeds to foster creativity, character, and community?
+
+Bismillah (In the Name of Allah). We enter this tournament season striving for sincerity, consistency, and the awareness that even the smallest deeds can carry great value. May Allah accept our efforts and allow us to create with clarity and purpose. Ameen.
+
+**Sincerely,**
+
+Hira Khattak
+*National Competitions Director*
+
+Muaaz Ahmad and Maria Zulfiqar
+*National Competitions Leadership Team*
+
+---
+
 ## 2026 Theme: Currents of Consequence
 
 **The Might of Small Deeds**

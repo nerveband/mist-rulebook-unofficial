@@ -2546,121 +2546,73 @@ attempt
 Format: In-Person
 
 Registration Guidelines:
-a. This is a gender-segregated competition. As such, each school may bring a Brothers’ team (consisting of a
-maximum of six brothers) as well as a Sisters’ team (consisting of a maximum of six sisters).
-b. This competition is a team effort. Teams may consist of a minimum of four (4) members and a maximum of six
-(6) members.
+a. This is a gender-segregated competition. As such, each school may bring a Brothers’ team (consisting of a maximum of six brothers) as well as a Sisters’ team (consisting of a maximum of six sisters).
+b. This competition is a team effort. Teams may consist of a minimum of four (4) members and a maximum of six (6) members.
 
 Overview
-Improv, short for improvisation, is a performance that features spontaneous, unscripted elements. Playing improv games
-improves teamwork and teaches actors intuition, self-confidence and listening skills. This competition is done live in front
-of the judging panel. Depending on your region, there may also be a live audience.
+Improv, short for improvisation, is a performance that features spontaneous, unscripted elements. Playing improv games improves teamwork and teaches actors intuition, self-confidence and listening skills. This competition is done live in front of the judging panel. Depending on your region, there may also be a live audience.
 
 Competition Structure
 1. The Improv competition will consist of 3 separate rounds with 2 competitions (games) played per round.
-2. Preliminary: All registered improv teams are permitted to perform in this round, and each team will be given an
-opportunity to play 2 games.
-a. The combined scores for both games should be calculated out of 100 points and the top 4 teams with the
-highest ranked scores will be allowed to advance to the semifinal round.
+2. Preliminary: All registered improv teams are permitted to perform in this round, and each team will be given an opportunity to play 2 games.
+a. The combined scores for both games should be calculated out of 100 points and the top 4 teams with the highest ranked scores will be allowed to advance to the semifinal round.
 b. In the event of a score tie, judges should exercise unbiased discretion as to which team should advance.
 3. Semifinals: Only the top 4 advancing teams from prelims are permitted to compete in this round.
 a. A total of 2 games between each team will be played, with a 3rd game allowed only if time permits.
-b. The scores from each game should be calculated out of a total of 100 points and the higher scoring team will
-be allowed to advance to the final round.
-4. Finals: For the last remaining 2 teams, a total of 2 games between each team will be played, with a 3rd game
-allowed only if time permits.
-a. The final game will be scored out of 100. The scores from each game should be combined and the higher
-scoring team will be awarded 1st place.
+b. The scores from each game should be calculated out of a total of 100 points and the higher scoring team will be allowed to advance to the final round.
+4. Finals: For the last remaining 2 teams, a total of 2 games between each team will be played, with a 3rd game allowed only if time permits.
+a. The final game will be scored out of 100. The scores from each game should be combined and the higher scoring team will be awarded 1st place.
 
-Note: In the event that 4 teams or fewer register for Improv, one or more rounds can be skipped depending on the number
-of teams registered. Rankings should be determined by an average of all the game scores achieved by each team.
+Note: In the event that 4 teams or fewer register for Improv, one or more rounds can be skipped depending on the number of teams registered. Rankings should be determined by an average of all the game scores achieved by each team.
 
 Procedure:
-1.   MIST ID and order of competition will be pre-assigned on a random selection basis.
-2. Competitors shall report at the appropriate time to the designated place. Competitors shall be introduced to the
-judges by their MIST IDs.
+1. MIST ID and order of competition will be pre-assigned on a random selection basis.
+2. Competitors shall report at the appropriate time to the designated place. Competitors shall be introduced to the judges by their MIST IDs.
 3. This competition consists of three (3) rounds with two (2) games each.
-a.   Each team will perform the first game, and once all teams have performed, teams will move on to the second
-game.
-b.   At the end of each game, judges will take a moment to write their scores, and they will also be allowed 2
-minutes per team to ask questions if necessary.
-c.   Then, the subsequent game will begin.
+a. Each team will perform the first game, and once all teams have performed, teams will move on to the second game.
+b. At the end of each game, judges will take a moment to write their scores, and they will also be allowed 2 minutes per team to ask questions if necessary.
+c. Then, the subsequent game will begin.
 
 4. All teams will have equal playing time, and they will all play the same games.
 a. All games will have a maximum of 2 minutes of prep time per team.
 5. This competition will be moderated by a host.
 a. The host will make introductions, announce the rules and explain the game.
-6. The rules for each game will differ. While more prompt examples can be found at http://improvencyclopedia.org,
-examples of improv games (by no means an exhaustive list) can be found below:
+6. The rules for each game will differ. While more prompt examples can be found at http://improvencyclopedia.org , examples of improv games (by no means an exhaustive list) can be found below:
 a. One sentence scenario: You’re in the operating room (OR) but the surgeon is afraid of scalpels.
 b. One sentence scenario: You are working on a heist, but all of you forgot what you were meant to steal.
-c.   One sentence scenario: You’re astronauts that realize you brought the wrong spaceship manual to fix it.
+c. One sentence scenario: You’re astronauts that realize you brought the wrong spaceship manual to fix it.
 d. One sentence scenario: You’re in a painting class but the teacher only knows 2 colors that exist.
 e. Conditions: Speak only in rhymes
-f.   Conditions: Speak only in sentences with alliteration
+f. Conditions: Speak only in sentences with alliteration
 g. Conditions: Speak only in questions
 7. An example of the format is as follows:
 a. The host will begin by naming the game.
-b. The rules and guidelines for the game will be read out loud, with the limit of players, prep time and presentation
-time. Ex. “The limits for this game are: Three (3) players, 30 second prep time and a two (2) minute
-presentation. The game will finish when the buzzer sounds.”
+b. The rules and guidelines for the game will be read out loud, with the limit of players, prep time and presentation time. Ex. “The limits for this game are: Three (3) players, 30 second prep time and a two (2) minute presentation. The game will finish when the buzzer sounds.”
 8. The host will then randomly pick a team to come up to the stage.
 a. The team will be asked to pick one situation out of a hat and must follow through with the situation picked.
 9. Teams must adhere to the time limit.
 10. If a team violates any of the game rules, a judge will sound the buzzer.
-a. Alternatively, the buzzer will sound once time is up. Once the buzzer has sounded, all players must stop their
-performances and exit the stage.
-11. Once a team has presented, the next team will be called up to the stage to play the same game, but with a different
-situation.
-12. Judging is based on improvisation, projection, articulation, wit, intelligence, believability, body language, and ability
-to create your environment.
+a. Alternatively, the buzzer will sound once time is up. Once the buzzer has sounded, all players must stop their performances and exit the stage.
+11. Once a team has presented, the next team will be called up to the stage to play the same game, but with a different situation.
+12. Judging is based on improvisation, projection, articulation, wit, intelligence, believability, body language, and ability to create your environment.
 13. Competitors will be judged according to the Improv Ballot.
 14. All competitors must adhere to the MIST Honor Code and appropriate language.
 a. Use of any slurs, curse words, or rude language will not be tolerated and is grounds for disqualification.
-15. Points will be deducted, or the team disqualified (upon judges’ consideration) for inappropriate actions or comments
-that do not follow the Competition Guidelines.
+15. Points will be deducted, or the team disqualified (upon judges’ consideration) for inappropriate actions or comments that do not follow the Competition Guidelines.
 
 DETAILED BALLOT: IMPROV
-Criteria                                   Game One   Game Two   Game Three
-Technical Performance
-- How well did the performers adhere to the rules of the games?
-- Did their act reflect the given prompts?
-/20        /20         /20
-- Did they perform within the time limits?
-- Did the performance adhere to the MIST Honor Code and MIST
-guidelines of proper conduct and speech?
-- If not, was the performance offensive or inappropriate?
 
-Skit Structure and Organization
-- How effective was the setup, layout, placement of characters,
-and creation of the setting for the act?
-- Did the performance have a logical plot development and                /20        /20         /20
-sequence of events?
-- How cohesive and understandable was the act?
+| Criteria | Game One | Game Two | Game Three |
+| :--- | :--- | :--- | :--- |
+| **Technical Performance** <br> • How well did the performers adhere to the rules of the games? <br> • Did their act reflect the given prompts? <br> • Did they perform within the time limits? <br> • Did the performance adhere to the MIST Honor Code and MIST guidelines of proper conduct and speech? <br> • If not, was the performance offensive or inappropriate? | /20 | /20 | /20 |
+| **Skit Structure and Organization** <br> • How effective was the setup, layout, placement of characters, and creation of the setting for the act? <br> • Did the performance have a logical plot development and sequence of events? <br> • How cohesive and understandable was the act? | /20 | /20 | /20 |
+| **Character Acting** <br> • Are character portrayals believable and memorable? <br> • Do actors avoid the use of cliché or uninspired roles? <br> • Do actors communicate expressively, illuminating the life, mannerisms, and reactions of their roles? | /20 | /20 | /20 |
+| **Acting Style and Comedic Skill** <br> • Do actors use their voices appropriately, enunciating and using a variety of rate, pitch, emotion, and volume? <br> • Do actors move expressively, using appropriate body language, facial expressions, and movement? <br> • Is creative and comedic improvisation used, including flexibility, spontaneity, and risk-taking? | /20 | /20 | /20 |
+| **Teamwork and Team Interaction** <br> • Are actors able to effectively cooperate with one another as a team, without overpowering one another? <br> • Do all team members participate equally? | /20 | /20 | /20 |
+| **Total Game Score** | **/100** | **/100** | **/100** |
 
-Character Acting
-- Are character portrayals believable and memorable?
-- Do actors avoid the use of cliché or uninspired roles?
-/20        /20         /20
-- Do actors communicate expressively, illuminating the life,
-mannerisms, and reactions of their roles?
+**Total Averaged Score** (The average of 2 (or 3) games will be calculated. This number will be used for team rankings and advancement) **/100**
 
-Acting Style and Comedic Skill
-- Do actors use their voices appropriately, enunciating and using
-a variety of rate, pitch, emotion, and volume?
-- Do actors move expressively, using appropriate body language,          /20        /20         /20
-facial expressions, and movement?
-- Is creative and comedic improvisation used, including flexibility,
-spontaneity, and risk-taking?
-Teamwork and Team Interaction
-- Are actors able to effectively cooperate with one another as a
-team, without overpowering one another?
-- Do all team members participate equally?                               /20        /20         /20
-Total Game Score                                   /100       /100        /100
-
-Total Averaged Score
-The average of 2 (or 3) games will be calculated. This number will be
-used for team rankings and advancement)                                     /100
 
 ## CATEGORY V: GROUP PROJECTS
 Business Venture:

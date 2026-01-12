@@ -1,0 +1,133 @@
+---
+title: Extemporaneous Essay
+description: Rules, procedures, and rubric for MIST Extemporaneous Essay competition
+sidebar:
+  order: 1
+---
+
+import { Aside, Steps, LinkButton } from '@astrojs/starlight/components';
+import { OFFICIAL_RULEBOOK_URL } from '../../../../consts';
+import InteractiveBallot from '../../../../components/InteractiveBallot.astro';
+
+<div class="competition-badges">
+  <span class="badge badge-format">In-Person</span>
+  <span class="badge badge-type">Individual</span>
+</div>
+
+<LinkButton href={`${OFFICIAL_RULEBOOK_URL}#page=38`} target="_blank" icon="external" variant="secondary">
+  View Official PDF (Page 38)
+</LinkButton>
+
+Competitors are allotted 60 minutes to compose a handwritten essay on a randomly selected topic related to the theme.
+
+## Format
+In-Person
+
+## Registration Guidelines
+
+1. A limit of **two (2) students** from each team may register for this competition.
+2. Each student competes **individually** — collaboration is not permitted.
+
+## Procedure
+
+<Steps>
+
+1. **ONLY MIST ID** should be written on the paper. No other personal identifiers (name, spirit team, school, etc.).
+
+2. All competitors report to the competition room at the same time (designated in competition schedule).
+
+3. Paper and pen/pencil will be provided, but students may bring their own.
+
+4. Students will choose **one topic** from a selection of three.
+   - Topics will be relevant to the annual theme or current events.
+
+5. After topics are chosen and written on the top of the submission page, students are allotted **60 minutes** to complete their essay in English.
+   - Submission is turned in to the proctor at the end of the hour (or earlier).
+
+6. Students are allowed to bring **printed reference materials** (newspapers, articles) or quotations relevant to the theme or current affairs for citation during the competition.
+   - Prepared notes or personal essays are **NOT** allowed.
+   - Materials must be reviewed and approved by the Competition Moderator before the competition begins.
+   - **No annotations permitted** (highlighting, underlining, post-its, margin notes).
+
+7. **Electronic device usage** is not permitted during the competition.
+
+</Steps>
+
+## Interactive Scoring Ballot
+
+<InteractiveBallot 
+  criteria={[
+    {
+      name: "Technical",
+      section: "Section A: Technical (5 points)",
+      max: 5,
+      items: [
+        "Participant is on time for the competition",
+        "Participant stopped writing when time was called",
+        "No identifiers on submission aside from MIST ID"
+      ]
+    },
+    {
+      name: "Conventions",
+      section: "Section B: Content (60 points)",
+      max: 10,
+      description: "Deductions: -1 per spelling error, -1 per punctuation error, -2 per grammar error. Bonus: +1 per citation."
+    },
+    {
+      name: "Ideas and Development",
+      section: "Section B: Content (60 points)",
+      max: 20,
+      items: [
+        "Did the writer answer one of the topics with sufficient detail?",
+        "Did the writer take a unique approach when addressing the topic?",
+        "Did the writer stay on topic throughout the entire essay?",
+        "Was the main idea or message clear to the reader?"
+      ]
+    },
+    {
+      name: "Organization",
+      section: "Section B: Content (60 points)",
+      max: 15,
+      items: [
+        "Did the introduction grab attention with unique start, clear thesis, and concise supporting points?",
+        "Were adequate details, examples, and support provided for each supporting point?",
+        "Were paragraphs well-developed, each with their own main idea?",
+        "Did the conclusion link back to the introduction?"
+      ]
+    },
+    {
+      name: "Sentence Fluency",
+      section: "Section B: Content (60 points)",
+      max: 15,
+      items: [
+        "Did the writer vary sentence types (mixture of simple and complex sentences)?",
+        "Do most sentences begin with different words?",
+        "When read aloud, do the sentences flow well together?",
+        "Was there a logical progression of ideas?"
+      ]
+    },
+    {
+      name: "Word Choice",
+      section: "Section C: Style (35 points)",
+      max: 20,
+      items: [
+        "Did the writer use thoughtful adjectives to create more vivid imagery?",
+        "Did the writer use strong action verbs to support the essay's message?",
+        "Did the writer use precise nouns to help present a clear and distinct message?",
+        "Did the overall usage of words create color and texture in the writing?",
+        "Was it clear that this writer took risks with their word choice?"
+      ]
+    },
+    {
+      name: "Voice",
+      section: "Section C: Style (35 points)",
+      max: 15,
+      items: [
+        "Does the writer show passion about the topic?",
+        "Is the tone natural and consistent, reflecting original thinking and expression?",
+        "Does the writer capture a tone or mood with their words?"
+      ]
+    }
+  ]}
+  totalMax={100}
+/>

@@ -33,7 +33,7 @@ sidebar:
    - Failure to read updates being sent will be on the competitor, not on the region.
 
 8. Students who spectate must abide by gender segregation guidelines that have been set.
-   - Ex. Brothers are not permitted to spectate Sisters Improv, Nasheed and Qur'an. The same rules apply for Sister spectators.
+   - Ex. Brothers are not permitted to spectate Sisters [Improv](/rulebook/brackets/improv/), [Nasheed](/rulebook/group-projects/nasheed-rap/) and [Quran](/rulebook/knowledge-quran/). The same rules apply for Sister spectators.
 
 9. **Read the program and competition rules carefully.** Participants are required to follow the rules published in the Annual Competitions Rulebook published at www.getmistified.com. If you don't know, ASK!
 
