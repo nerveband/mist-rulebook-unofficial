@@ -68,6 +68,7 @@ export default defineConfig({
 						{ label: 'Theme & Honor Code', link: '/rulebook/theme-honor-code/' },
 						{ label: 'Tournament Guidelines', link: '/rulebook/tournament-guidelines/' },
 						{ label: 'Competitor Guidelines', link: '/rulebook/competitor-guidelines/' },
+						{ label: 'Audience Guidelines', link: '/rulebook/audience-guidelines/' },
 						{ label: 'Early Submissions', link: '/rulebook/early-submissions/' },
 						{
 							label: 'Knowledge & Quran',
