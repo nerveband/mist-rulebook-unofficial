@@ -5,8 +5,6 @@ sidebar:
   order: 3
 ---
 
-## Competitor Guidelines
-
 1. **Competitors are responsible for being prompt** at registration and their competition times. Failure to be on time may result in losing the chance to compete.
 
 2. MIST name badges and/or identification bands must be worn at all times. If a replacement is needed, see a MIST Representative immediately.
