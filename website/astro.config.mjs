@@ -96,6 +96,16 @@ export default defineConfig({
 						},
 					],
 				},
+				{
+					label: 'Regional Rules',
+					badge: { text: 'Pilot', variant: 'note' },
+					items: [
+						{
+							label: 'Nashville',
+							autogenerate: { directory: 'regions/nashville' },
+						},
+					],
+				},
 			],
 		}),
 	],
