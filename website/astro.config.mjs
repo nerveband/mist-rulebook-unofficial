@@ -1,14 +1,14 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
-import mermaid from 'astro-mermaid';
+import beautifulMermaid from 'starlight-beautiful-mermaid';
 import starlightScrollToTop from 'starlight-scroll-to-top';
 import starlightSidebarSwipe from 'starlight-sidebar-swipe';
 import starlightVideos from 'starlight-videos';
 
 export default defineConfig({
 	integrations: [
-		mermaid(),
+		beautifulMermaid(),
 		starlight({
 			title: 'MIST Rulebook',
 			description: 'Unofficial MIST 2026 Competition Rulebook',

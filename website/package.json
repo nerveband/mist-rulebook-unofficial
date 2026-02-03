@@ -13,7 +13,7 @@
     "@astrojs/starlight": "^0.37.2",
     "@unocss/astro": "^66.5.12",
     "astro": "^5.6.1",
-    "astro-mermaid": "^1.2.0",
+    "starlight-beautiful-mermaid": "file:../.worktrees/codex/starlight-beautiful-mermaid",
     "mermaid": "^11.12.2",
     "sharp": "^0.34.2",
     "starlight-plugin-icons": "^1.1.3",
